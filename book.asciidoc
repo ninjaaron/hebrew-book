@@ -1,0 +1,1165 @@
+An Open Introduction to Biblical Hebrew
+========================================
+// vim: tw=72 syntax=asciidoc
+Copyright Aaron Christianson, 2012 
+Distributed under the Creative Commons Attribution-ShareAlike 3.0 licenced (CC-BY-SA 3.0)
+
+Introduction
+------------
+The first and foremost goal of this textbook is much the same as any
+other first year Hebrew textbook; to teach beginning students the Hebrew
+writing system, morphology, and basic syntactical concepts, as well as 
+develop a core vocabulary. One slight difference from the usual approach
+will be a slightly greater emphasis on composition in the exercises.  
+This will, no doubt be a controversial move to some.  It is not intended 
+to  provide the student with the illusion that they are actually able to 
+compose Biblical Hebrew (and it falls to the instructor to remind 
+students of the problems entailed therein), but simply to reinforce the 
+paradigms and vocabulary in a more interactive and engaging way.  Those 
+who feel that composition exercises are too problematic or dangerous are 
+free to omit or replace them.  In addition, the grammatical explanations 
+will give sidebar notes about Modern Hebrew usage and spellings for 
+students who are interested.  
+// I haven't actually made composition exercises. I should either make
+// them or change the above paragraph.
+
+While this course is not designed to teach modern Hebrew, the author 
+recognizes that many students of Biblical Hebrew today are also 
+interested in modern Judaism and the State of Israel, and this 
+information is provided to ease the transition for any wishing to study 
+the modern language, as well as to highlight the important differences 
+between the two periods of the language, to help the student with some 
+knowledge of modern Hebrew avoid common pitfalls when dealing with the 
+biblical text.
+
+However, the primary difference between this and other text books is not
+a distinction of content, but a distinction of licencing.  All of the
+content is distributed under the "Creative Commons
+Attribution-ShareAlike" licence.  This means that anyone anywhere can
+freely use, distribute and modify the material with two stipulations:
+
+. Any derived work must give credit to the original.
+. Any copies of this or derived works must be distributed under the same
+license.
+
+This creates a sort of commons environment that has been popular in the
+Open Source Software world, whereby information is freely shared and
+built upon by the community.  While you are legally obligated to release
+modifications to this work under the same licence, you do not
+necessarily have to let me know about: your changes.  However, I would be
+delighted to hear from you about changes or suggestions you have so that
+I can incorporate them into my version as well. I can be contacted at
+ninjaaron@gmail.com.  If you would like to become more deeply involved
+in producing content for the project, contact me at the above address,
+or check out the github repository at...
+
+I believe this method of creating and distributing learning materials
+for Christian education in the digital age is more in line with the
+biblical teaching, "freely you received, freely give," and promotes a
+sharing of ideas which will generate better materials and ultimately a
+stronger church.
+
+How to use this book
+~~~~~~~~~~~~~~~~~~~~
+This work is divided into two volumes.  The first volume is the grammar
+proper, containing forms, paradigms and theory, along with examples.
+The examples are taken from the Bible.  The explanations are intended to
+be concise and clear.  Therefor, though I recognize that many students 
+are not familiar with basic English grammatical terms,  explanations of 
+these will not be given here.  The teacher may choose to explain them in 
+class, or the student may look them up independently. Links are provided 
+in the electronic version to external definitions.  Hebrew and Latin 
+grammatical terms are explained and examples are given.
+
+The second volume contains texts and exercises corresponding to the
+lessons in the volume on grammar, as well as a Hebrew-English glossary 
+for the exercises.  The exercises are based directly on the Biblical 
+text, except for those involving composition.
+
+As the project matures, there may be a third volume, a reference grammar
+which gives a more in-depth explanation of historical development,
+dialectical features, and syntactical concerns.
+
+Writing System
+--------------
+Aleph-Bet
+~~~~~~~~~
+.Aleph-Bet
+[width="60%",options="header",cols="^,^,^,^,^"]
+|===
+|Sign|Pronounciation|Transliteration|Name Transliterated|Numeric Value
+|א   |glottal stop*|ʾ |ʾālef| 1
+|ב   |"b" or "v"   |b |bêṯ  | 2
+|ג   |"g" in gold  |g |gîmel| 3
+|ד   |"d"          |d |daleṯ| 4
+|ה   |"h"          |h |heʾ  | 5
+|ו   |"v"          |w |waw  | 6
+|ז   |"z"          |z |zayin| 7
+|ח   |"ch" in loch |ḥ |ḥeṯ  | 8
+|ט   |"t"          |ṭ |ṭeṯ  | 9
+|י   |"y" in yawn  |y |yôḏ  | 10
+|ך ,כ|"k" or as ח  |k |kaf  | 20
+| ל  |"l"          |l |lāmeḏ| 30
+|ם ,מ|"m"          |m |mēm  | 40
+|ן ,נ|"n"          |n |nûn  | 50
+|ס   |"s" in sack  |s |sāmeḵ| 60
+|ע   |glottal stop*|ʿ |ʿayin| 70
+|ף ,פ|"p" or "f"   |p |pê   | 80
+|ץ ,צ|"ts"         |ṣ |ṣāḏî | 90
+|ק   |"k"          |q |qôf  | 100
+|ר   |"r" (rolled) |r |rêš  | 200
+|שׂ   |"s"          |ś |śin  |  - 
+|שׁ   |"sh" in ship |š |šin  | 300
+|ת   |"t"          |t |taw  | 400
+|===
+[small]#*A glottal stop is consonant in the middle of the word "uh-oh"
+where the throat briefly stops the flow of air.#
+
+These are the 22 letters of the Hebrew Alphabet with their basic sounds,
+transliterations and numeric values. The sounds given are those most
+commonly heard in Israeli Hebrew, which are based in the Sphardic
+(Iberian) tradition with some changes based on Ashkenazi (central and
+eastern European) pronunciations.  We do not know exactly how the
+letters were pronounced in biblical times, but we know that some were
+pronounced differently, and some are still pronounced differently
+today in various Jewish traditions.
+
+'Transliteration' is the system used to represent non-Latin based
+writing systems with the Latin letters. This book follows the
+transliteration standard used in SBL publications with a few minor
+modifications where SBL leaves some ambiguity as to the original Hebrew. 
+The student will be told when the book departs from the SBL standard.
+While the SBL standard and minor variations thereon are probably the
+most common in academic literature today, there have been other systems
+in the past and are still others today.  Furthermore, transliteration
+done today in Israel and by most modern Jews is quite different,
+focusing on the actual pronunciation of the word, rather than its form
+in Hebrew.  It is generally based on a mishmash of German, English, and
+Spanish phonetics.  In the case of Grammatical terms taken from Hebrew,
+used in English sentences, this book will generally use conventional
+spellings rather than precise transliteration.
+
+Each of the names are given with their transliteration according to our
+system. Some are pronounced as would be expected, but perhaps some
+require notes:
+. The ʾ and ʿ of א and ע require no special pronunciation at the
+beginning and end of words.
+. Though transliterated 'w', the sound of ו is that of English "v", and
+thus the name is pronounced 'vāv' rather than "Wow!"
+. Today in Israel, the names of the letters י and ק are almost 
+universally pronounces as "yūd" and "qūf", despite their proper spelling
+being 'yôd' and 'qôf'.
+
+The numeric values of the letters are post-biblical, and need not be
+learned by students of Biblical Hebrew.  However, they are used very
+often in Jewish writings, in Israel, and some Hebrew Bibles use them for
+verse and chapter numbering.  'Note:' 15 and 16 are not written as
+יה and יו, as might be expected because they are considered to be too
+close to the divine name.  Instead, 15 is טו and 16 is טז.
+
+Mater Lectiones
+^^^^^^^^^^^^^^^
+While there are no vowels given here, three of these characters may be
+used to indicate long vowels, and when they do, they loose their
+function as consonants.
+
+* 'waw', ו, sometimes indicates an *û* or an *ô* vowel.
+* 'yôḏ', י, sometimes indicates an *î* or an *ê* vowel.
+* 'heʾ', ה, is only used to mark vowels at the end of words.  It most 
+often indicates an *â* vowel, sometimes an *ê* vowel, and very rarely 
+an *ô* vowel.  In fact, a ה at the end of a word only signifies a
+consonate if it has a dot in the middle.  This dot is called a 'mappiq'.
+
+When one of these consonants is used to represent a vowel, it is called
+a 'mater lectiones' (latin; Hebrew is 'ʾem qərîʾâ'. both mean "mother 
+of reading").  They will almost always appear when a vowel ends a word,
+quite often to mark a medial ī or ū. Usage with medial ē or ō is
+unpredicatble.  When long medial vowels are marked, it is called a
+'plene' spelling (Latin for "full").
+
+Masoretic pointing
+~~~~~~~~~~~~~~~~~~
+The letters listed above, with no vowels, are all that were written in
+ancient Hebrew manuscripts.  However, at some point around 700 or 800
+CE, Jewish Bible scholars began inventing systems to record the vowels
+and other details of pronunciation without disrupting the consonantal
+text.  These are referred to as 'niqqud' (נִקֻּד; lit. "pointing") Though the 
+writing of the vowels is very late relative to the writing of the text, 
+we have good evidence that the tradition preserves the way the text was 
+being read at a much earlier time.  There are times when it is 
+appropriate to question the vowel points, but this should be only be
+done when one reaches a mastery of the grammar to the point that they can 
+read and understand most Biblical Hebrew prose and poetry independently.
+
+The writing system for the vowel points we have to day is based on the 
+Tiberian tradition of reading.  However, the system of pronunciation 
+Modern Hebrew is based on the Sephardic tradition of pronunciation, so 
+there are sometimes discrepancies between what we see, and what 
+we say.  Don't panic.
+
+BeGeD KeFeT (and 'Dagesh Qal')
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Six of these letters may be pronounced as hard or soft.  Hard
+pronunciation is indicated by the addition of a dot in the middle of the
+letter, called a 'dagesh' (דָּגֵשׁ; lit. "emphasis").  SBL transliteration
+does not differentiate between these letters because they are not
+independent phonemes, but this book will because some of them have
+different sounds. It occurs whenever one of these letters follows a
+vowel directly.
+
+.BeGeD KeFeT letters
+|===
+s|sign            |בּ|ב|גּ|ג|דּ|ד|כּ|כ, ך        |פּ|פ, ף|תּ|ת
+s|sound           |b|v|g|g|d|d|k|"ch" in loch|p|f   |t|t
+s|transliteration*|b|ḇ|g|ḡ|d|ḏ|k|ḵ           |p|f   |t|ṯ
+|===
+
+You will notice that only three off the letters actually change sound
+according to our system.  This is because the pronunciation commonly 
+used today is different than when the vowel points were added. You may
+note that it would be more consistent to use a "p" with a macron for the
+soft פ.  This has not been done because there is no Unicode 
+corresponding to such a character, and there is no danger of "f" causing
+confusion with another Hebrew or latin letter.
+
+While this dagesh, the 'dagesh qal' (דגש קל, "light dagesh") is only significant 
+to pronunciation, it is important to be able to recognise it because 
+there is another type of dagesh, 'dagesh ḥazaq' (דגש חזק"strong dagesh"), which 
+is very important for understanding Hebrew grammar, and you will need to 
+be able to tell the difference.  To state briefly, dagesh ḥazaq 
+indicates the doubling of a letter, and can occur in all but five 
+letters, ר, ע, ח, ה, א.  This will be explained in more detail after the 
+introduction of the vowels.
+
+Vowel Points
+^^^^^^^^^^^^
+.Full vowels
+[width="50%",options="header",cols="^,^,^,^"]
+|===
+|Sign|Name    |Sound          |Transliteration
+|םִ   |חִירֶק    |"ee" in 'keep' | i
+|םִי  |חִירֶק-יוֹד|" "            | î
+|םֶ   |סְגוֹל    |"e" in 'met'   | e
+|םֵ   |צֵרֵי     |"ay" in 'pay'  | ē
+|םֵי  |צֵרֵי-יוֹד |" "            | ê
+|םֶה  |סְגוֹל-הֵא |" "            | ê
+|םַ   |פַּתָּח     |"a" in 'father'| a
+|םָ   |קָמֶץ גָּדוֹל|" "            | ā
+|םָה  |קָמֶץ-הֵא  |" "            | â
+|םָ   |קָמֶץ קָטָן |"o" in 'hope'  | o
+|םֹ   |חוֹלֶם    |" "            | ō
+|םוֹ  |חוֹלֶם-וָו |" "            | ô
+|םֻ   |קִבּוּץ    |"oo" in 'tool' | u
+|םוּ  |שׁוּרֶק    |" "            | û
+|===
+
+Hebrew has five different vowel qualities, corresponding to the Latin
+vowels.  They can be either long or short, and long vowels are sometimes
+marked with a mater lectionis.  In the common (SBL) system, short vowels
+are written without diacritics (a, e, i, o, u) unmarked long vowels are 
+written with a macron (ā, ē, ō), and long vowesl with mater lectionis
+are written with a circumflex (ê, î, ô, û).  Short vowels are never
+marked with a mater lectionis in Biblical Hebrew.
+
+Vowels, with one exception (below, are placed under the consonant they 
+follow.
+
+Here is another table of the vowels arranged by length and quality.
+
+[width="50%",options="header",cols="^,^,^,^"]
+|===
+|quality|short|long|long with mater lectionis
+|"i"    |םִ    |    |םִי
+|"e"    |םֶ    |םֵ   |םֵי
+|"a"    |םַ    |םָ   | 
+|"o"    |םָ    |םֹ   |םוֹ
+|"u"    |םֻ    |    |םוּ
+|===
+
+.Differentiating between Mater Lectionis and True Consonants
+If a yôḏ or waw is pointed by a vowel of it's own, it is always a
+consonant.  In addition, if it is preceeded by a vowel, it is also a
+consonant.  In the case of heʾ, it is *always* a consonant at the
+beginning or middle of a word.  At the end of a word, is always
+vowel unless it has a dot in it.  This dot is called a mappiq.
+
+.Pattaḥ Furtives 
+When a word ends with ע, ח, or consonantal הּ, and the vowel before it is
+not a form of an "a" vowel, a short "a" vowel will placed before the
+consonant to facilitate pronunciation of the guttural.  This
+
+
+
+In addition to these full vowels, there are four semi-vowels; the mobile 
+Shewa and the three hatafs:
+
+.Semi-Vowels
+[width="50%",options="header",cols="^,^,^,^"]
+|===
+|Sign|Name    |Sound        |Transliteration
+|םְ   |שְׁוָא     |"u" in cut   |ə*
+|םֱ   |חֲטָף-סְגוֹל|"e" in met   |ĕ
+|םֲ   |חֲטָף-פַּתָּח |"a" in father|ă
+|םֳ   |חֲטָף-קָמֶץ |"o" in hope  |ŏ
+|===
+*[small]#our system differs from SBL here. SBL uses 'ĕ' both for םְ and
+for םֱ, perhaps because they often make the same sound in modern Hebrew.#
+
+These vowels are (theoretically) said shorter than the others.  
+Sometimes they represent where a longer vowel has been reduced, and 
+other times they represent were an extra vowel has been added to 
+better facilitate pronunciation.  The most common by far is the 
+'šəwaʾ', and most vowels will reduce to this.  However, certain 
+consonants, prefer to carry an "a" class vowel; ה, ח, ע, and 
+sometimes א; the first three of theese letters will usually take a 
+'ḥăṭāph pattāḥ' ( ֲ ) instead of a normal shewa, though א generally 
+prefers to take 'ḥăṭāph səgôl' ( ֱ ) 'ḥăṭāph qāmēṣ' ( ֳ ) is relatively 
+rare,and generally only occurs with the reduction of an original "u" 
+vowel or for esoteric reasons involving gutturals and vowel 
+harmony (not something to worry about).
+
+Semi-vowels never take the accent, nor to they appear at the end of
+words.  They and their preceding considered part of the following 
+syllable.
+
+Syllables
+^^^^^^^^^
+Syllables are the basic units of sounds from which words are built.
+Some words only consist of one syllable, such as "too," "luck," "hi,"
+"run" and so forth.  There are two types of syllables, the open
+syllable, sometimes referred to as "consonant vowel" (CV), and the
+closed syllable, also called "consonant vowel consonant" (CVC).  You
+will notice that all syllables must begin with a consonant, though
+sometimes that consonant is a glottal stop, which English speakers
+generally do not think of as a consonant because it is unwritten in out
+language.  Luckily, it is written in Hebrew as א.  ע is also pronounced
+as a consonant by most Israelis.
+
+So, from the above examples, "too" and "hi" are open syllables, because
+they end with a vowel, whereas "luck" and "run" are closed because they
+end with a consonant.  The word "at" is also a closed syllable, a CVC
+syllable, the first consonant being an unwritten glottal stop.
+
+Longer words are made up of several syllables.  For example, "camera" is
+made up of three open syllables, "ca", "me" and "ra."  "Convex" is made
+up of two closed syllables, "con" and "vex."
+
+Syllables are divided similarly in all languages, and understanding
+rules of syllable division can help one discover phonetic trends in any
+language, Hebrew included.
+
+In Hebrew, an unaccented, open syllable will always take a long vowel.
+An unaccented closed syllable will always take a short vowel (with one 
+exception, which will be seen later).  This is generally how one
+distinguishes between qāmeṣ qātān ("o") and qāmeṣ gādōl ("ā").  An
+accented syllable can take a long or a short vowel, regardless of
+whether it is open or closed.
+
+.Mobile Shewa and Silent Shewa
+In the section on vowels, we learned about the shewa.  This is actually
+only one kind of shewa, the mobile shewa, or שְׁוָא נַע ("flying shewa").  
+However, the same mark is used to indicate a so-called silent shewa, or 
+שְׁוָא נַח ("resting Shewa").  This shewa is used when two consonants are 
+next to each other with no vowel in between.  While a mobile shewa (and 
+the other semi-vowels) join themselves and their consonant to the 
+following syllable, a silent shewa indicates that its consonant is the 
+end of the current syllable.  A silent shewa is never found under the 
+first syllable consonant of a word.  A mobile shewa, on the other hand, 
+is relatively common.  This matter is complicated by the fact that many
+mobile shewas have become silent in modern Israeli Hebrew, but this need
+not trouble the student of biblical Hebrew overly.  The two 
+shewas may usually be distinguished by a Meteg in the preceding 
+syllable.  
+
+.Meteg
+Meteg is a small vertical line placed under a consonant, usually 
+following the vowel.  It has several functions.  The most important is 
+that it generally appears in a syllable preceding a semi-vowel (including
+the mobile shewa).
+
+Meteg may also indicate a secondary accent in a long word, or simply be
+used the ensure that long vowel gets its full pronunciation, especially
+when it is near the beginning of the word.  These two uses are not
+particularly relevant to the meaning of a text.  The first use can be
+important.
+
+.Dagesh Ḥazaq
+We have already spoken about one dagesh, dagesh qal (called dagesh lene
+in some grammars), which indicates differing pronunciations for the 
+"Beged Kefet" letters.  Another dagesh, dagesh ḥazaq (also known as
+dagesh forte), was briefly mentioned.  It looks the same as the other 
+dagesh, but it indicates a doubling of the consonant.  This generally 
+does not affect pronunciation in Israeli Hebrew today (except for the
+Beged Kefet letters), though it can be clearly heard in some synagogue 
+readings.  This dagesh may appear in any letter except for א, ה, ח, ע 
+and ר (this will cause other phonetic changes at times, or "problems," as 
+students refer to them).  These letters are often collectively referred 
+to as "gutturals," even though ר is not actually pronounced in the
+throat.
+
+A dagesh ḥazaq will *never* appear in the first letter of a word.  It
+will *always* be preceded by a vowel.  
+
+A dagesh qal will *only* appear in a "beged kefet" letter.  It will 
+*never* be preceded by a vowel, and will often appear at the beginning
+of a word (if the first letter is a beged kefet letter).
+
+Nouns, Adjectives and Particles
+-------------------------------
+Everything but the Verb.
+
+Roots
+~~~~~
+Every language has roots that carry basic meanings from to which one
+might add suffixes or prefixes to adjust the meaning of the grammatical
+function of the root.  In Hebrew and other Semitic languages, roots are 
+generally made up of three consonants, though some nouns appear to have 
+bi-consonantal roots.  These roots not only take on prefixes and
+suffixes as in European languages, but the internal vowel patterns are
+adjusted as well to create new words and forms.
+
+Example:
+
+* מֶלֶךְ = King
+* מַלְכָּה = Queen
+* מַמְלָכָה = kingdom
+* מַלְכוּת = reign (noun)
+* מְלוּכָה = monarchy
+* מְלֹךְ = to reign
+* מָלַכְתִּי = I reigned
+
+However, while the root is often a good indication of the meaning of a
+word, it doesn't always work out as one would hope or expect.  Take the
+English word "understand;"  It is made from the parts "under" and
+"stand," yet one who knew the meanings of these words would be
+hard-pressed to guess the meaning of the word created by their union.
+The same is sometimes true of Hebrew words, and the only way to be
+certain of a word's meaning is to look it up in a lexicon.
+
+Gender and Number
+~~~~~~~~~~~~~~~~~
+As in many other languages, and unlike English, all Hebrew nouns and
+adjectives have a grammatical gender, either masculine or feminine.
+They also have number, singular and plural, as well as occasional dual
+forms (a special form for things that come in groups of two, such as
+body parts).
+
+Generally speaking, there are certain endings that will indicate the
+gender and number of a noun or adjective:
+
+* *Feminine Singular* words often end in אאאָה, אאאֶת or sometimes אאאִית.
+* *Masculine Plural* nouns usually (and adjectives always) end with אאאִים.
+* *Feminine Plural* nouns usually (and adjectives always) end with אאאֹת.
+* *Dual*, masculine or feminine, will have an אאאַיִם ending.
+* *Masculine Singular* nouns do not have a special ending.
+
+There are exceptions to these guidelines, but they are still useful.  In
+addition to these rules, every plural word will have one of the plural
+endings.  It may not be the one expected for its gender, but something
+will be there.
+
+Note: If a word ends with a pattern like this, but it is part of the 
+internal vowel pattern and the root, it does not count as an ending!
+
+Independent Personal Pronouns
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.Independent personal pronouns
+[width="40%",options="header"]
+|===
+|   |Singular  | Plural
+s|1c|אֲנִ֫י (אָנֹכִ֫י)|אֲנַ֫חְנוּ (אֲנוּ)
+s|2m|אַתָּ֫ה       |אַתֶּ֫ם
+s|2f|אַ֫תְּ        |אַתֶּ֫ן (אַתֵּנָה)
+s|3m|ה֫וּא       |הֵ֫ם (הֵ֫מָּה)
+s|3f|הִ֫יא       |הֵ֫נָּה (הֵ֫ן)
+|===
+
+As we will see later, most verb forms indicate the subject with no need 
+for a pronoun, so Hebrew independent personal pronouns will most often 
+be seen in verbless sentences.  
+
+The Definite Article
+~~~~~~~~~~~~~~~~~~~~
+The definite article in Hebrew is הַ ּ .  Don't skimp on the Dagesh.  The
+spelling of the article changes before gutturals and rêš because they
+reject the dagesh. Before א, ע and ר, the article becomes הָ (the vowel
+lengthens because the doubling is lost).  ה and ח undergo so-called
+"virtual doubling" and retain the short vowel resulting in, הַ without
+the dagesh.
+
+In addition, before חָ and *unaccented* הָ or עָ, the definite article will
+be spelled as הֶ.  The beginning student need not memorize all of these
+rules.  They are simply given here so you will not be confused when they
+appear in the Biblical text.  The meaning is not different at all.
+
+The definite article in Hebrew carries approximately the same meaning
+and usage as the definite article in English, "the."
+
+As in English proper nouns and pronouns are considered definite without 
+the use of the article.
+
+Adjectives
+~~~~~~~~~~
+Hebrew adjectives agree in gender and number with the nouns they modify.
+This means that every adjective can be declined into masculine singular,
+masculine plural, feminine singular and feminine plural. Dual nouns take
+adjectives in the plural, however.
+
+Uses of the Adjective
+^^^^^^^^^^^^^^^^^^^^^
+*Attributive Adjectives* form a single unit with the noun in the 
+sentence.  English examples: "big dog," "tall trees," "fast wifi."
+
+In Hebrew, in addition to agreeing in gender and number, an attributive
+adjective will agree in definiteness.  This means that if the noun is
+definite (marked with the article, a proper noun, or a common noun made
+definite by a pronominal suffix [below]), the adjective will be marked
+with the definite article.  Attributive adjectives will almost always
+follow the noun they modify.
+
+*Predicative Adjectives*, as the name might suggest, form a sentence
+with the noun the modify with the noun as the subject and adjective as
+the predicate.  English examples: "The dog is big," "the trees are
+tall," "the wifi is fast."
+
+In English, this function of the adjective is marked by the use of the
+verb "to be."  In Hebrew, these sentences are usually marked by making
+the subject definite and the predicative adjective indefinite.
+Predicative adjectives may come before or after the nouns they modify
+(both ways are very common).
+
+*Substantive Adjectives* are where an adjective is used without a noun,
+and takes on the function of the noun itself.  In modern English, this
+construction is only used for plural. Example: "the mighty" means "the 
+mighty ones," for singular, a surrogate noun is required; "the mighty
+one."
+
+In Hebrew, because the gender and number are marked in the forms of the
+adjectives themselves, no additional noun is required.  They are all
+simply marked by the addition of the definite article and the absence of
+an agreeing noun.
+
+Demonstrative Pronouns
+~~~~~~~~~~~~~~~~~~~~~~
+Something
+
+
+'Waw' conjunction
+~~~~~~~~~~~~~~~~~
+The most common conjunction in Biblical Hebrew is a 'waw', וְ, prefixed
+to a word.  This conjunction often has the force of "and" in English for
+coordinate clauses and lists of nouns.  However, it may also precede
+contrasting clauses (and is then translated as "but").  In addition it
+may open the apodosis of a conditional sentence (translated as "then"),
+or at the beginning of a main clause preceded by a temporal clause.
+
+The 'waw' conjunction is used in Biblical Hebrew much more often to join 
+independent sentences than the word "and" in English, and because of
+this, it has attached itself to several verb forms, drastically altering
+their meaning.  This will be discussed in detail as part of the section 
+on the verb.
+
+* Becomes a 'šûreq', וּ,  before ב, מ, and פ.
+* Also becomes 'šûreq', וּ, before a shewa.
+* Before יְ, the yôḏ will contract, and the first syllable becomes וִי
+* Before one of the other semi-vowels, the waw conjunction is pointed
+with the equivalent short vowel.
+* Before the word אֱלֹהִים, it becomes וֵאלֹהִים,  and with the divine name,
+it is pronounced וָאדֹנָי 
+
+Most of these changes need not be memorised, only recognised.  There are 
+very few words in Biblical Hebrew that begin with waw, so it will 
+generally be safe to assume that you have the conjunction when you find 
+the letter at the beginning of the word.  Those that do begin with waw 
+are loan-words from other languages.
+
+Prepositional Prefixes
+~~~~~~~~~~~~~~~~~~~~~~
+There are three prepositions which are always prefixes in Biblical
+Hebrew.  They all have many meanings, only several of which are 
+listed here.  Consult a lexicon for complete treatment of usage.
+
+* בְּ	in, at, by, with...
+* כְּ	as, like, according to, approximately...
+* לְ 	to, for, at, belonging to...
+
+Several of the vocalic changes that affect the waw conjunction also
+affect these prepositions.  For example one of these prepositions before
+יְ becomes בִּי, כִּי, or לִי.  They will also take the equivalent short vowel
+when they precede one of the semi-vowels.
+
+In addition, before shewa, the prepositions will be pointed as בִּ, כִּ, or
+לִ.  As above, these changes do not affect the meaning at all, and are
+only presented to avoid confusion later.
+
+.Prepositional Prefixes with the Article
+One might expect to see a form like לְהַמֶּלֶךְ for "to the king," but instead
+the ה disappears, but it's vowels remain, leaving us with the actual
+form לַמֶּלֶךְ.  The same is true for prepositions בְ and כְ.
+
+Pronominal Suffixes 
+~~~~~~~~~~~~~~~~~~~
+In Biblical Hebrew, independant pronouns are not especially common.
+Instead, they are more often added to the ends other words with various
+uses.    Many of the suffixes have more rare varient forms found in 
+poetry or other places with non-Judahite dialectical influence.  These 
+forms are not given here for the sake of simplicity. The goal for the
+student should not be to memorize all the subtle variations in the
+suffixes with different words, but to begin to recognise overall
+patterns in the suffixes.
+
+Pronominal suffixes on nouns have a posessive meaning.
+
+.Pronominal Suffixes with Singular Nouns
+[width="40%",options="header"]
+|===
+|   |singular| plural 
+s|1c|ביתִ֫י    |ביתֵ֫נוּ
+s|2m|ביתךָ֫    |ביתְכֶ֫ם
+s|2f|ביתֵ֫ךְ    |ביתְכֶ֫ן
+s|3m|בית֫וֹ    |ביתָ֫ם
+s|3f|ביתָ֫הּ    |ביתָ֫ן
+|===
+
+.Pronominal Suffixes with Plural and Dual Nouns
+[width="40%",options="header"]
+|===
+|   |singular |plural
+s|1c|אלהַ֫י     |אלהֵ֫ינוּ
+s|2m|אלהֶ֫יךָ    |אלהֵיכֶם
+s|2f|אלהַ֫יִךְ    |אלהֵיכֶן
+s|3m|אלהַ֫יו    |אלהֵיהֶם
+s|3f|אלהֶ֫יהָ    |אלהֵיהֶן
+|===
+
+Pronominal suffixes are also added to prepositions:
+
+.Pronominal Suffixes with prepositions ב and ל.
+[width="40%",options="header"]
+|===
+|   |singular|plural 
+s|1c|בִּי      |בָּנוּ
+s|2m|בְּךָ      |בָּכֶם
+s|2f|בָּךְ      |בָּכֶן
+s|3m|בּוֹ      |בָּהֶם
+s|3f|בָּהּ      |בָּהֶן
+|===
+
+Preposition כ has an irregular suffixed form:
+
+.Pronominal Suffixes with preposition כ (כָּמוֹ)
+[width="40%",options="header"]
+|===
+|   |singular|plural 
+s|1c|כָּמוֹני   |כָּמוֹנוּ
+s|2m|כָּמוֹךָ    |כָּכֶם
+s|2f|  ?     |כָּכֶן
+s|3m|כָּמוֹהוּ   |כָּהֶם
+s|3f|כָּמוֹהָ    |כָּהֶן
+|===
+
+Other Prepositions
+~~~~~~~~~~~~~~~~~~
+Most of the other prepositions are separate from the words they modify,
+or rather joined by a Maqqeph, sharing the accent.  There is one
+exception, however, the preposition מִן.
+
+The preposition מִן will generally only be seperated from the word it
+modifies when it is before the definite article (הַ ּ).  Otherwise, it
+will join to the following word.  The nun will disappear in a linguistic
+process called assimilation (full regressive assimilation, in this 
+case).  This means that the nun turns into the letter that follows it,
+something which happens very often in Hebrew.  Effectively, this means
+that nun appears as מִ ּ before most words.  Before letters which cannot 
+be doubled (א, ה, ח, ע, ר), it appears as מֵ.
+
+The preposition has an irregular form before pronouns:
+
+.Pronominal suffixes with מִן
+[width="40%",options="header"]
+|===
+|   |singular| plural 
+s|1c|מִמֶּנּי    |מִמֶּנּוּ 
+s|2m|מִמְּךָ     |מִכֶּם
+s|2f|מִמָּךְ     |מִכֶּן
+s|3m|מִמֶּנּוּ    |מֵהֶם
+s|3f|מִמֶּנָּה    |מֵהֶן
+|===
+
+There is one final preposition to discuss before we begin the verb, and
+that is the preposition אֶת. It is a preposition used before a definite
+direct object.  This is not translated by a word in English, but by word
+order.  In English, the direct object is marked by a couple of things.
+It generally follows the verb and takes no preposition.  In Hebrew, if
+the direct object is definite, it is marked with the preposition אֶת.
+When used with pronouns, it undergoes certain changes.
+
+.Pronominal suffixes with אֶת
+[width="40%",options="header"]
+|===
+|   |singular|plural 
+s|1c|אֹתִי     |אֹתָנוּ
+s|2m|אֹתְךָ     |אֶתְכֶם
+s|2f|אֹתָךְ     |אֶתְכֶן
+s|3m|אֹתוֹ     |אֹתָם
+s|3f|אֹתָהּ     |אֹתָן
+|===
+
+Verbs
+-----
+Hebrew verbs, like Hebrew nouns, are created from three-consonant roots 
+by adding prefixes and suffixes, as well as changes in the internal
+vowel patterns.  These variations will tell us things like the person,
+gender and number of the subject, tense, mood, voice, and so forth.
+
+The Strong Verb
+~~~~~~~~~~~~~~~
+Because of various historical-linguistic phenomena, certain Hebrew
+consonants are inclined to change and disappear in certain phonetic
+settings.  This causes many unusual things to happen in the verbs.
+Verbs affected by such issues are called "weak".  However, we start with
+the strong verbs, those untroubled by such things.
+
+The Qāṭal conjugation and the Participle
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.Qal 'qaṭal' conjugation
+[width="40%",options="header"]
+|===
+|  |singular|plural 
+s|1c|קָטַ֫לְתִּי  |קָטַ֫לְנּוּ 
+s|2m|קָטַ֫לְתָּ   |קְטַלְתֶּ֫ם
+s|2f|קָטַ֫לְתְּ   |קְטַלְתֶּ֫ן
+s|3m|קָטַ֫ל    |קָֽטְל֣וּ
+s|3f|קָֽטְלָ֣ה   |קָֽטְל֣וּ
+|===
+
+'Qātal' refers to the tense of the verb form.  In modern Hebrew it is
+the form of the past tense, and has often been called the 'perfect' by
+Biblical Hebrew scholars.  However, because the exact meaning of the
+tense is more complex than either of these terms would suggest, it has
+become common to call it the 'qatal' in modern times, a name which
+reflects the form more than the function (קטל is the root which has
+traditionally been used in writing the roots of Hebrew verb, and קָטַל is
+the third person masculine singular form in this tense, the form used to
+find the word in a dictionary).  In comparative semitics these
+and related sets in other languages are often referred to as the
+"suffix conjugation" because the person, gender and number of the
+subject is marked by a suffix.
+
+You may also note that the table refers to the 'Qal' qatal form.  Qal is
+the most common 'stem' in Hebrew language.  There are six other stems
+which appear regularly in the Hebrew Bible, and changes in the stem are
+often reflective of changes in the voice of the verb.  This will be
+discussed in more detail shortly, when we have an additional stem to
+compare.
+
+While the syntactical role of the qatal is complex, at this point in
+your Hebrew studies, it will suffice to translate it as a simple English
+past or perfect tense.
+
+The next form to be covered is the participle, sometimes called the
+'qotel', after its form (however, in this case, the function of the form
+is relatively similar to that of the participle in other languages, and
+it remains the dominant term for the form).  In the qal, there are both
+active and passive participles.
+
+.Qal active participle
+[width="40%",options="header"]
+|===
+|   | singular | plural
+s| m |   קֹטֵ֫ל    | קֹֽטְלִ֫ים
+s| f | קֹטֶ֫לֶת (less common: קֹֽטְלָ֫ה) | קֹֽטְלֹ֫ת
+|===
+
+.Qal passive participle
+[width="40%",options="header"]
+|===
+|   | singular | plural
+s| m |  קָט֫וּל    | קְטוּלִ֫ים
+s| f |  קְטוּלָ֫ה   | קְטוּל֫וֹת
+|===
+
+The participle is a form which turns a verb into an adjective.  It has
+all the three functions of the adjective; attributive, predicative, and
+substantive.  In addition, participles function as verbs in that they
+may take direct and indirect objects, often acting as the beginning of a
+relative clause, or simply standing as the main verb in a predicative
+usage.  In modern Hebrew, while the participle has essentially the same
+functions as in Biblical Hebrew, it is most often used as the main verb
+in a present tense sentence (which technically falls under the
+predicative usage).  Because of this, it is often simply referred to as
+the present tense.  The predicative use is also common in biblical Hebrew, 
+but not to the point that it is in modern Hebrew.
+
+The participle is not technically a tense in Biblical Hebrew, but it is
+exclusive of the property of tense, and is therefore occupies the same
+slot for the purpose of your parsing.
+
+Stems
+^^^^^
+As mentioned above, in Hebrew there are seven commonly used stems.
+Unfortunatly, there is no exact parallel the phenomenon of Hebrew stems
+in English.  When a Hebrew tri-lateral root is placed into a different
+stem, there are several possible things that can happen:
+* The voice of the verb many change.  Voice has to do with the level of
+transitivity of the verb.  In English, we have active and passive voice,
+which also exist in Hebrew, and may be indicated by a change of stem. In
+Hebrew, there is also a 'middle' voice and a 'causative' voice, as well
+as other nuances which different grammarians may or may not classify as
+voice.
+* The meaning of the verb may change entirely.  The meaning may have a
+logical connection to its meaning in other stems, or it may have no
+apparent relation.
+* Occasionally a verb will have an almost identical meaning in different
+stems.
+
+.Qatal
+[options="header"]
+|===
+|    |Qal  |Nif'al|Pi'el|Pu'al|Hitpa'el|Hif'il|Hof'al 
+s|1cs|קָטַ֫לְתִּי|נִקְטַ֫לְתִּי|קִטַּ֫לְתִּי|קֻטַּ֫לְתִּי|הִתְקַטַּ֫לְתִּי |הִקְטַ֫לְתִּי|הָקְטַ֫לְתִּי 
+s|2ms|קָטַ֫לְתָּ |נִקְטַ֫לְתָּ |קִטַּ֫לְתָּ |קֻטַּ֫לְתָּ |הִתְקַטַּ֫לְתָּ  |הִקְטַ֫לְתָּ |הָקְטַ֫לְתָּ  
+s|2fs|קָטַ֫לְתְּ |נִקְטַ֫לְתְּ |קִטַּ֫לְתְּ |קֻטַּ֫לְתְּ |הִתְקַטַּ֫לְתְּ  |הִקְטַ֫לְתְּ |הָקְטַ֫לְתְּ  
+s|3ms|קָטַ֫ל  |נִקְטַ֫ל  |קִטֵּ֫ל  |קֻטַּ֫ל  |הִתְקַטֵּ֫ל   |הִקְטִ֫יל |הָקְטַ֫ל   
+s|3fs|קָֽטְלָ֫ה |נִקְטְלָה |קִטְּלָ֫ה |קֻטְּלָ֫ה |הִתְקַטְּלָ֫ה  |הִקְטִ֫ילָה|הָקְטְלָ֫ה  
+s|1cp|קָטַ֫לְנוּ|נִקְטַ֫לְנוּ|קִטַּ֫לְנוּ|קֻטַּ֫לְנוּ|הִתְקַטַּ֫לְנוּ |הִקְטַ֫לְנוּ|הָקְטַ֫לְנוּ 
+s|2mp|קְטַלְתֶּ֫ם|נִקְטַלְתֶּ֫ם|קִטַּלְתֶּ֫ם|קֻטַּלְתֶּ֫ם|הִתְקַטַּלְתֶּ֫ם |הִקְטַלְתֶּ֫ם|הָקְטַלְתֶּ֫ם 
+s|2fp|קְטַלְתֶּ֫ן|נִקְטַלְתֶּ֫ן|קִטַּלְתֶּ֫ן|קֻטַּלְתֶּ֫ן|הִתְקַטַּלְתֶּ֫ן |הִקְטַלְתֶּ֫ן|הָקְטַלְתֶּ֫ן 
+s|3cp|קָֽטְל֫וּ |נִקְטְל֫וּ |קִטְּל֫וּ |קֻטַּלְ֫וּ |הִתְקַטְּל֫וּ  |הִקְטִ֫ילוּ|הָקְטְל֫וּ  
+|===
+
+.Participle
+[options="header"]
+|==============
+|   	 |Qal  |Qal Pass.|Nif'al|Pi'el |Pu'al |Hitpa'el|Hif'il |Hof'al
+s|ms    |קֹטֵ֫ל  |קָט֫וּל     |נִקְטָ֫ל  |מְקַטֵּ֫ל  |מְקֻטָּ֫ל  |מִתְקַטֵּ֫ל   |מַקְטִ֫יל  |מָקְטָ֫ל  
+s|fs    |קֹטֶ֫לֶת |קְטוּלָ֫ה    |נִקְטֶ֫לֶת |מְקַטֶּ֫לֶת |מְקֻטֶּ֫לֶת |מִתְקַטֶּ֫לֶת  |מַקְטִילָ֫ה |מָקְטֶ֫לֶת 
+s|mp    |קֹֽטְלִ֫ים|קְטוּלִ֫ים   |נִקְטָלִ֫ים|מְקַטְּלִ֫ים|מְקֻטָּלִ֫ים|מִתְקַטְּלִ֫ים |מַקְטִילִ֫ים|מָקְטָלִ֫ים
+s|fp    |קֹֽטְל֫וֹת|קְטוּל֫וֹת   |נִקְטָל֫וֹת|מְקַטְּל֫וֹת|מְקֻטָּל֫וֹת|מִתְקַטְּל֫וֹת |מַקְטִיל֫וֹת|מָקְטָל֫וֹת
+s|fs(2) |קֹֽטְלָ֫ה |         |נִקְטָלָ֫ה |מְקַטְּלָ֫ה |מְקֻטָּלָ֫ה |מִתְקַטְּלָ֫ה  |       |מָקְטָלָ֫ה 
+|==============
+
+You may notice that, while there are important changes in pattern from
+one stem to the next, The suffixes of the verb will be the same in all
+stems, with the exception of the feminine singular participle, for which
+there are often two possible endings (the ending in the first "fs"
+row is the one required in Modern Hebrew, while the "fs(2)" row shows
+alternative feminine singular forms of the participle which sometimes
+occur in the Bible).
+
+The name of each stem (excluding the Qal) is taken from the root פ.ע.ל
+put into each of the stems. In qal פעל means "to act"
+
+.Qal - קַל
+Qal is a sort of a base from which to explain the other stems, and
+generally indicates a normal active verb (with the exception of the Qal
+passive participle).  It is nonetheless worth noting that a number of
+verbs in Qal describe states of being where English would use a form of
+"to be" with an adjective.  These "stative" verbs also have some unusual
+morphological and syntactical features which will be discussed later.
+The meaning of a verb in another stem can often be extrapolated from the
+meaning of the Qal.  However, this should only be used as a last resort
+as verbs in derived stems will often have little or no connection to the
+meaning in Qal (or at times will have a related meaning but is not
+predictable).  In addition, there are cases where a root does not appear
+in Qal at all, but only in one or more of the other stems.  The only 
+real way to know the meaning of a root in a particular stem is to look 
+it up in a lexicon.
+
+.Nif'al - נִפְעַל
+Niph'al is often used to indicate the *passive voice* or the *middle 
+voice* of a verb in Qal.  Middle voice indicates that the person
+preforming the action also receives the action, and is generally best
+translated as a reflexive ("myself," "yourself," "herself," etc.) or
+reciprocal (each other, one another) direct object.
+
+Distinguishing feature: The nun prefix.  Although the nun disappears in
+some forms, it will leave traces in all of them.  This will manifest as
+a doubled first radical (with dagesh) or compensatory lengthening before
+a guttural.
+
+.Pi'el - פִּעֵל
+The Pi'el stem is generally taught as an *intensive* of Qal, though
+exactly what the nature of this intensification is generally not
+manifest.  While there are some clear cases of intensification  of the
+meaning in Qal, it is probably not the most use of the Pi'el.  It is
+very often *factitive*, meaning that it causes a change in state.
+
+Distinguishing feature: Doubling of the second radical. In gutturals,
+there will be virtual doubling (aka: doubling by implication) or
+compensatory lengthening.
+
+.Pu'al - פֻּעַל
+A verm in the Pu'al stem is usually the passive of a Pi'el.  There 
+are cases in which a verb in Pu'al does not occur in Pi'el, however.
+
+Distinguishing feature: In addition to the doubling of the second
+radical in the Pi'el, the 'u' ( ֻ) is ubiquitous in the pu'al, as in many
+passive forms.  Before a letter that rejects doubling, it will be
+lengthened to ō.
+
+.Hitpa'el - הִתְפַּעֵל
+Hitpa'el is generally described as the middle voice of the pi'el, and is
+so often translated as a reflexive or a reciprocal direct object.
+Hitpa'el has many other uses as well.
+
+Distinguishing feature: This also has a doubled second radical, like the
+pi'el, but the most obvious feature is the 'hit', הִת- prefix preceding the
+root.  The is replaced by a prefix consonant in many forms (such as the
+participle and the yiqtol).
+
+.Hif'il - הִפְעִיל
+Hif'il is usually taught as the *causative* of the Qal.  That is, the
+subject of a verb in hif'il causes the action to be preformed by
+another.  This can be accomplished by direct commands or other means.
+
+Distinguishing feature: The hif'il has the ה prefix, though the letter
+is replaced by prefix consonants of other forms.  Another interesting
+feature is that the long î vowel will retain the accent even if the
+syllable is opened by a long vowel following it (though there will be
+some exceptions when dealing with the addition of object suffixes
+later).
+
+.Hof'al - הָפְעַל
+Hof'al is the passive of the hif'il.  As with pu'al, there are a few
+cases where a hof'al exists without an attestation of the verb in
+hif'il.
+
+Distinguishing feature: Like the hif'il we have the ה prefix here.
+However, as with many passives it is marked with an *u* vowel, which
+becomes an *o* vowel many times (as shown in the paradigms).
+
+As mentioned previously, remember that these are only general
+trends in the meanings of various stems, and there are many exceptions.
+One should always check a lexicon to be sure of the meaning of a root in
+a given stem.
+
+The 'yiqṭol' and tenseless forms
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.Yiqtol
+[options="header"]
+|===
+|     |Qal   |Nif'al|Pi'el |Pu'al |Hitpa'el|Hif'il |Hof'al
+s|1cs |אֶקְטֹ֫ל  |אִקָּטֵ֫ל  |אֲקַטֵּ֫ל  |אֲקֻטַּ֫ל  |אֶתְקַטֵּ֫ל   |אַקְטִ֫יל  |אָקְטַ֫ל
+s|2ms |תִּקְטֹ֫ל  |תִּקָּטֵ֫ל  |תְּקַטֵּ֫ל  |תְּקֻטַּ֫ל  |תִּתְקַטֵּ֫ל   |תַּקְטִ֫יל  |תָּקְטַ֫ל
+s|2fs |תִּקְטְלִ֫י |תִּקָּ֣טְל֫י |תְּקַטְּלִ֫י |תְּקֻטְּלִ֫י |תּתְקַטְּל֣֫י  |תַּקְטִ֫ילִי |תָּקְטְל֣֫י
+s|3ms |יִקְטֹ֫ל  |יִקָּטֵ֫ל  |יְקַטֵּ֫ל  |יְקֻטַּ֫ל  |יִתְקַטֵּ֫ל   |יַקְטִ֫יל  |יָקְטַ֫ל
+s|3fs |תִּקְטֹ֫ל  |תִּקָּטֵ֫ל  |תְּקַטֵּ֫ל  |תְּקֻטַּ֫ל  |תִּתְקַטֵּ֫ל   |תַּקְטִ֫יל  |תָּקְטַ֫ל
+s|1cp |נִקְטֹ֫ל  |נִקָּטֵ֫ל  |נְקַטֵּ֫ל  |נְקֻטַּ֫ל  |נִתְקַטֵּ֫ל   |נַקְטִ֫יל  |נָקְטַ֫ל
+s|2mp |תִּקְטְל֫וּ |תִּקָּ֣טְל֫וּ |תְּקַטְּל֫וּ |תְּקֻטְּל֫וּ |תִּתְקַטְּל֫וּ  |תַּקְטִ֫ילוּ |תָּקְטְל֫וּ
+s|2fp |תִּקְטֹ֫לְנָה|תִּקָּטֵ֫לְנָה|תְּקַטֵּ֫לְנָה|תְּקֻטַּ֫לְנָה|תִּתְקַטֵּ֫לנָה |תַּקְטִ֫ילְנָה|תָּקְטַ֫לְנָה
+s|3mp |יִקְטְל֫וּ |יִקָּטְל֫וּ |יְקַטְּל֫וּ |יְקֻטְּל֫וּ |יִתְקַטְּל֫וּ  |יַקְטִ֫ילוּ |יָקְטְל֫וּ
+s|3fp |תִּקְטֹ֫לְנָה|תִּקָּטֵ֫לְנָה|תְּקַטֵּ֫לְנָה|תְּקֻטַּ֫לְנָה|תִּתְקַטֵּ֫לנָה |תַּקְטִ֫ילְנָה|תָּקְטַ֫לְנָה
+|===
+
+The 'yiqṭol' is future tense in modern Hebrew.  In Biblical Hebrew, it
+has historically been taught as the 'imperfect' by the analogy tenses
+with some (but by no means all) of the same functions used in certain 
+European languages.  This is because it often indicates some form of
+incomplete action, sometimes being action in the future, but many times
+also being *iterative* (repeated) action in the past or present, or
+sometimes *modal* (unreal) actions (such as possibilities or desires).
+It is also used to state general truth.  It may be used for specific
+prohibitions as well, in conjunction with the particle אַל.
+
+The yiqtol is marked by a set of prefixes for all forms, and suffixes
+for some.  For this reason, in comparative semitics, it is sometimes
+called the 'prefix conjugation' or the 'prefix-suffix conjugation'.
+
+.Tenseless forms
+[options="header"]
+|===
+|stem    |Qal  |Nif'al |Pi'el |Pu'al  |Hitpa'el|Hif'il|Hof'al
+s|imp.ms  |קְט֣֫ל  |הִקָּטֵ֫ל   |קַטֵּ֫ל   |       |הִתְקַטֵּ֫ל   |הַקְטֵ֫ל  |      
+s|imp.fs  |קִטְלִי |הִקָּטְלִ֫י  |קַטְּלִ֫י  |       |הִתְקַטְּלִ֫י  |הַקְטִ֫ילִי|      
+s|imp.mp  |קִטְלוּ |הִקָּטְל֫וּ  |קַטְּל֫וּ  |       |הִתְקַטְּל֫וּ  |הַקְטִ֫ילוּ|      
+s|imp.fp  |קְט֣֫לְנָה|הִקָּטֵ֫לְנָה |קַטֵּ֫לְנָה |       |הִתְקַטֵּ֫לְנָה |הַקְטֵ֫לְנָה|      
+s|Inf.Con.|קְטֹ֫ל  |הִקָּטֵ֫ל   |קַטֵּ֫ל   |       |הִתְקַטֵּ֫ל   |הַקְטִ֫יל |      
+s|Inf.Abs.|קָט֫וֹל|הִקָּטֹ֫ל, נִקְטֹ֫ל|קַטֵּ֫ל, קַטֹּ֫ל|קֻטֹּ֫ל|הִתְקַטֵּ֫ל   |הַקְטֵ֫ל  |הָקְטֵ֫ל  
+s|Juss.   |יִקְטֹ֫ל |יִקָּטֵ֫ל   |יְקַטֵּ֫ל  |יְקֻטַּ֫ל   |יִתְקַטֵּ֫ל   |יַקְטֵ֫ל  |יָקְטַ֫ל  
+|===
+
+These forms, as well as the participle, are not properly said to have
+tense, since they do not necessarily occur in time. If this sounds
+abstract, it is.
+
+.Imperative, Jussive, and Cohortative
+The both the imperative and the jussive communicate the will of
+the speaker; the imperative is the desired action of the speaker for the
+one to whom he speaks (the second person).  It is usually translated as
+an English imperative (the form of command) but there are times when
+this may be to strong and translating as a wish, entreaty, or a
+suggestion might be more appropriate.
+
+The jussive communicates an action the speaker wishes a third party
+would do, and can be translated with various auxiliary constructions in
+English.  Traditionally, "let him/her/them/" preform the action, though
+sometimes translating with "must," "should," "ought to" and so forth is
+more accurate.
+
+There is also a first-person volitive form (volitive: having to do with
+the will) called the Cohortative which is identifiable by the addition
+of a  ָה to the end of first-person singular and plural yiqtol forms.  It
+indicates an action that the speaker wants to preform him/herself, or,
+in plural, an action that the group is to preform.
+
+There are also times, as mentioned above, when a normal yiqtol form
+will be used to indicate the desires of the speaker.  One must always be
+sensitive to context
+
+.Infinitive Construct
+The infinitive construct creates a noun out of the performance of an
+action.  It can function as the subject or object of another clause,
+in addition to having its own subordinate objects (creating an
+infinitive clause.  It is often translated as an English infinitive with
+the preposition "to" (ie: to eat, to guard, to speak), but it will
+sometimes be more appropriate to translate it with the English gerund
+(ie: eating, guarding, speaking; only in the sense of the abstract noun,
+rather than the participle).  It is the only major verb form which takes
+regularly takes prepositions, aside from the occasional substantive
+participle.
+
+.Infinitive Absolute
+The infinitive absolute is not really an infinitive according to it's
+usage. It is sometimes used in a construction referred to as a
+*tautological infinitive*, where it is used with temporal verb to
+emphasize or intensify actions. It is often translated into English with
+the adverb "surely." It is also sometimes used as a form of command or
+to express an action occurring simultaneously with the main verb.
+
+Forms of the verb with energetic waw
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Many Hebrew verb forms take on a different meaning with various forms of
+the waw conjunction.
+
+This concludes the basic study of the strong verb.  If you master these
+forms, the remaining verb forms fall quite logically into place.
+
+Weak Verbs
+~~~~~~~~~~
+Hebrew Irregular verbs, called 'weak verbs', are very common in Hebrew.
+However, unlike most languages, there behavior is quite predicable and
+systematic.  If one learns the rules, parsing irregular verbs is not
+difficult, though there is admittedly a fair number of rules that must
+be grasped.
+
+.The Naming of Weak Verbs
+
+.נָתַן - Qal
+|===
+|    |3ms|1cs |1cp |3cp
+|qat.|נָתַ֫ן|נָתַ֫תִּי|נָתַ֫נּוּ|נָתְנ֫וּ
+|yiq.|יִתֵּ֫ן|אֶתֵּ֫ן |נִתֵּ֫ן |יִתְּנ֫וּ
+|    |ms |mp  |fs  |fp
+|imp.|תֵּן |תְּנ֫וּ |תְּנִ֫י |תֵּ֫נָּה
+|inf.|תֵּת |    |    |
+|===
+
+.פ"א - Qal Yiqtol
+|===
+|3ms |1cs|2mp
+|יֹאמַ֫ר|אֹמַ֫ר|תֹּאמְר֫וּ
+|===
+.פ"א - Other Qal Forms
+|===
+|vayyiqtol|inf.|inf. + prep
+|וַיֹּ֫אמֶר    |אֱמֹ֫ר |לֵאמֹ֫ר
+|===
+
+.Hitpa'el with sibilants
+|===
+|root    |סדר  |שׁפר  |זקן  |צרף  
+|hitpa'el|הִסְתַּדֵּ֫ר|הִשְׁתַּפֵּ֫ר|הִזְדַּקֵּ֫ן|הִצְטָ֫רֵף
+|===
+
+.פ"ן
+[width="50%",options="header",cols="^s,^,^,^,^"]
+|===
+|    |qal|nif.|hif.|hof.
+|qat.|נָגַ֫שׁ|נִגַּ֫שׁ |הִגִּ֫ישׁ|הֻגַּ֫שׁ
+|par.|נֹגֵ֫שׁ|נִגָּ֫שׁ |מַגִּ֫ישׁ|מֻגָּ֫שׁ
+|yiq.|יִגֹּ֫שׁ|יִנָּגֵ֫שׁ|יַגִּ֫ישׁ|יֻגַּ֫שׁ
+|imp.|גַּ֫שׁ |הִנָּגֵ֫שׁ|הַגֵּ֫שׁ |הֻגַּ֫שׁ
+|inf.|גֶּ֫שֶׁת|הִנָּגֵ֫שׁ|הַגִּ֫ישׁ|הֻגַּ֫שׁ
+|===
+
+In the פ"ן verbs, with the exception of some infinitive constructs, only
+forms with prefixes are affected, specifically those prefixes which
+cause the first letter of the root to stand directly beside the second
+with no intervening vowel.  This means that in the qatal and the
+participle, only the nif'al, hif'il, and hof'al forms are affected. Qal,
+pi'el pu'al and hitpa'el are completely unaffected. 
+
+In Yiqtol, however, the qal, hif'il and hof'al are affected, again
+because the form places the nun of the root directly next to the second
+letter. In some cases, the qal infinitive construct and imperative will
+also be irregular without any prefix to blame. Suffixes on all forms are
+completely unaffected, though there is a tav suffix added to the end of
+those infinitive constructs which are irregular.
+
+.פ"י (aka פ"ו)
+[width="50%",options="header",cols="^s,^,^,^,^"]
+|===
+|    |qal|nif.|hif. |hof.
+|qat.|יָלַ֫ד|נוֹלַ֫ד|הוֹלִ֫יד|הוּלַ֫ד
+|par.|יֹלֵ֫ד|נוֹלָ֫ד|מוֹלִ֫יד|מוּלָ֫ד
+|yiq.|יֵלֵ֫ד|יִוָּלֵ֫ד|יוֹלִ֫יד|יוּלַ֫ד
+|imp.|לֵ֫ד |הִוָּלֵ֫ד|הוֹלֵ֫ד |הוּלַ֫ד
+|inf.|לֶ֫דֶת|הִוָּלֵ֫ד|הוֹלִ֫יד|הוּלַ֫ד
+|===
+
+As it happens, the forms that are affected by the peculiarities of פ"י
+are the same as those in פ"ן.  This is because, in both cases it is the
+initial consonant which is weak, and therefore affected by forms where
+the initial letter of the root is directly next to the second. 
+
+The cause of the trouble in פ"ן has to do with the fact that most of the
+verbs in Hebrew than now begin with yôḏ once began with waw. However, at
+some point, all of the waws at the beginnings of words turned into yôḏ.
+Nonetheless, in places where the it was not the first letter of a word,
+the waw remained in most cases, though it generally partially
+assimilates to the preceding vowel (usually resulting in û and ô).
+
+.ע"ו qatal
+[options="header"]
+|===
+|    |Qal |Nif'al |Hif'il |Hof'al|Polel |Polal |Hitpolel
+s|1cs|קַ֫מְתִּי|נְקוּמ֫וֹתִי|הֲקִימ֫וֹתִי|הוּקַ֫מְתִּי|קוֹמַ֫מְתִּי|קוֹמַ֫מְתִּי|הִתְקוֹמַ֫מְתִּי 
+s|2ms|קַ֫מְתָּ |נְקוּמ֫וֹתָ |הֲקִימ֫וֹתָ |הוּקַ֫מְתָּ |קוֹמַ֫מְתָּ |קוֹמַ֫מְתָּ |הִתְקוֹמַ֫מְתָּ  
+s|2fs|קַ֫מְתְּ |נְקוּמ֫וֹת |הֲקִימ֫וֹת |הוּקַ֫מְתְּ |קוֹמַ֫מְתְּ |קוֹמַ֫מְתְּ |הִתְקוֹמַ֫מְתְּ  
+s|3ms|קָ֫ם  |נָק֫וֹם   |הֵקִ֫ים   |הוּקַ֫ם  |קוֹמֵ֫ם  |קוֹמַ֫ם  |הִתְקוֹמֵ֫ם   
+s|3fs|קָ֫מָה |נָק֫וֹמָה  |הֵקִ֫ימה  |הֽוּקְמָה |קוֹמֲמָ֫ה |קוֹמֲמָ֫ה |הִתְקוֹמֲמָ֫ה  
+s|1cp|קַ֫מְנוּ|נְקוּמ֫וֹנוּ|הֲקִימ֫וֹנוּ|הוּקַ֫מְנוּ|קוֹמַ֫מְנוּ|קוֹמַ֫מְנוּ|הִתְקוֹמַ֫מְנוּ 
+s|2mp|קַמְתֶּ֫ם|נְקוֹמוֹתֶ֫ם|הֲקִימוֹתֶ֫ם|הוּקַמְתֶּ֫ם|קוֹמַמְתֶּ֫ם|קוֹמַמְתֶּ֫ם|הִתְקוֹמַמְתֶּ֫ם 
+s|2fp|קַמְתֶּ֫ן|נְקוֹמוֹתֶ֫ן|הֲקִימוֹתֶ֫ן|הוּקַמְתֶּ֫ן|קוֹמַמְתֶּ֫ן|קוֹמַמְתֶּ֫ן|הִתְקוֹמַמְתֶּ֫ן 
+s|3cp|קָ֫מוּ |נָק֫וֹמוּ  |הֵקִ֫ימוּ  |הֽוּקְמוּ |קוֹמֲמ֫וּ |קוֹמֲמ֫וּ |הִתְקוֹמֲמ֫וּ  
+|===
+
+.ע"ו yiqtol
+[options="header"]
+|===
+|    |Qal  |Nif'al|Hif'il|Hof'al|Polel  |Polal  |Hitpolel
+s|1cs|אָק֫וּם |אִקּ֫וֹם  |אָקִ֫ים  |אוּקַ֫ם  |אֲקוֹמֵ֫ם  |אֲקוֹמַ֫ם  |אֶתְקוֹמֵ֫ם   
+s|2ms|תָּק֫וּם |תִּקּ֫וֹם  |תָּקִ֫ים  |תּוּקַ֫ם  |תְּקוֹמֵ֫ם  |תְּקוֹמַ֫ם  |תִּתְקוֹמֵ֫ם   
+s|2fs|תָּק֫וּמי|תִּקּ֫וֹמִי |תָּקִ֫ימי |תּֽוּקְמִ֫י |תְּקוֹמֲמִ֫י |תְּקוֹמֲמִ֫י |תּתְקוֹמֲמִ֫י  
+s|3ms|יָק֫וּם |יִקּ֫וֹם  |יָקִ֫ים  |יוּקַ֫ם  |יְקוֹמֵ֫ם  |יְקוֹמַ֫ם  |יִתְקוֹמֵ֫ם   
+s|3fs|תָּק֫וּם |תִּקּ֫וֹם  |תָּקִ֫ים  |תּוּקַ֫ם  |תְּקוֹמֵ֫ם  |תְּקוֹמַ֫ם  |תִּתְקוֹמֵ֫ם   
+s|1cp|נָק֫וּם |נִקּ֫וֹם  |נָקִ֫ים  |נוּקַ֫ם  |נְקוֹמֵ֫ם  |נְקוֹמַ֫ם  |נִתְקוֹמֵ֫ם   
+s|2mp|תָּק֫וּמוּ|תִּקּ֫וֹמוּ |תָּקִ֫ימוּ |תּֽוּקְמ֫וּ |תְּקוֹמֲמ֫וּ |תְּקוֹמֲמ֫וּ |תִּתְקוֹמֲמ֫וּ  
+s|2fp|תָּקוּמֶ֫ינָה ^|? |תָּקֵ֫מְנָה |תּוּקַ֫מְנָה|תְּקוֹמֵ֫מְנָה|תְּקוֹמַ֫מְנָה|תִּתְקוֹמֵ֫מְנָה 
+s|3mp|יָק֫וּמוּ|יִקּ֫וֹמוּ |יָקִ֫ימוּ |יֽוּקְמ֫וּ |יְקוֹמֲמ֫וּ |יְקוֹמֲמ֫וּ |יִתְקוֹמֲמ֫וּ  
+s|3fp|תָּקוּמֶ֫ינָה ^|? |תָּקֵ֫מְנָה |תּוּקַ֫מְנָה|תְּקוֹמֵ֫מְנָה|תְּקוֹמַ֫מְנָה|תִּתְקוֹמֵ֫מְנָה 
+|===
+
+.ע"ו Tenseless forms
+[options="header"]
+|===
+|stem     |Qal |Nif'al|Polel |Polal|Hitpolel|Hif'il|Hof'al
+s|imp.ms  |ק֫וּם |הִקּ֫וֹם  |קוֹמֵ֫ם  |     |הִתְקוֹמֵ֫ם  |הָקֵ֫ם   |      
+s|imp.fs  |ק֫וּמִי|הִקּ֫וֹמִי |קוֹמֲמִ֫י |     |הִתְקוֹמֲמִ֫י |הָקִ֫ימִי |      
+s|imp.mp  |ק֫וּמוּ|הִקּ֫וֹמוּ |קוֹמֲמ֫וּ |     |הִתְקוֹמֲמ֫וּ |הָקִ֫ימוּ |      
+s|imp.fp  |קֹ֫מְנָה ^|?   |קוֹמֵ֫מְנָה|     |הִתְקוֹמֵ֫מְנָה|הָקֵ֫מְנָה |      
+s|Inf.Con.|ק֫וּם |הִקּ֫וֹם  |קוֹמֵ֫ם  |     |הִתְקוֹמֵ֫ם  |הָקִ֫ים  |      
+s|Inf.Abs.|ק֫וֹם |הִקּ֫וֹם ^|?     |     |הִתְקוֹמֵ֫ם  |הָקֵ֫ם   |  
+s|Juss.   |יָקֹ֫ם |יִקּ֫וֹם  |יְקוֹמֵ֫ם |יְקוֹמַ֫ם|יִתְקוֹמֵ֫ם  |יָקֵ֫ם   |
+|===

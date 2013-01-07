@@ -1,0 +1,587 @@
+// vim: syntax=asciidoc
+Writing System
+--------------
+Write each of the letters twenty times.  As you write the letter, repeat
+its name aloud.
+
+Below is the name of each letter of the Hebrew Aleph-Bet.  Copy the name into
+the cursive script, then give a transliteration of the consonants.
+
+. אלף
+. בית
+. גימל
+. דלת
+. הא
+. וו
+. זין
+. חית
+. טית
+. יוד
+. כף
+. למד
+. מם
+. נון
+. סמך
+. עין
+. פא
+. צדי
+. קוף
+. רישׁ
+. שׂין
+. שׁין
+. תו
+
+Copy the sentence below in cursive.  Then transliterate.
+
+כך התרסק נפץ על גוזל קטן, שדחף את צבי למים
+
+Write each vowel with each letter of the alphabet.
+Practice saying the sound of the consonant and vowel together.
+Example: 
+
+אִ, אִי, אֶ, אֵ, אֵי, אַ, אָ, אֹ, אוֹ, אָ, אֻ, אוּ ... בִ ...
+
+Copy the Hebrew words below and transliterate:
+
+. אִישׁ - man
+. אֵל - God, god
+. אֶרֶץ - land, country, earth
+. אּשָּׁׁׁה - woman
+. בְרית - covenant
+. הֵיכָל - temple
+. חָכְמָה - wisdom
+. טוֹב - good
+. יְרוּשָׁלַיִם - Jerusalem
+. יְשוּעָה - salvation
+. יִשְׂרָאֵל - Israel
+. לֹא - no, not
+. מֶלֶך - king
+. מִצְוָה - command
+. מִשְׁפַּט - judment, order
+. סֵפֶר - document (book, scroll, etc.)
+. קֹדֶשׁ - holiness
+. רוּחַ - spirit
+. רַע - bad
+. שָׁלוֹם - peace
+. שֻׁלְחָן - table
+
+
+Nouns
+-----
+Pronouns
+~~~~~~~~
+Translate these sentences.
+
+. אֲנִ֨י אֵ֤ל שַׁדַּי (Gen. 35:11)
+. אֲנִ֣י רִאשׁ֔וֹן (Is. 48:12)
+. מִ֤י אֲנִי֙ וּמִ֣י עַמִּ֔י (ICh. 29:14)
+. אַחִ֧ים אֲנַ֛חְנוּ (Gen. 42:13)
+. אֲנַ֤חְנוּ הַחֹ֙מֶר֙ וְאַתָּ֣ה יֹצְרֵ֔נוּ (Is. 64:7)
+. אָר֤וּר אַתָּה (Gen. 3:14)
+. לֹֽא־ט֥וֹב אָֽתָּה (ISam. 29:6)
+. בַת־מִ֣י אַ֔תּ (Gen. 24:23)
+. אִשָּׁ֥ה יְפַת־מַרְאֶ֖ה אָֽתְּ (Gen. 12:11)
+. נִרְפִּ֥ים אַתֶּ֖ם נִרְפִּ֑ים (Ex. 5:17)
+. מְרַגְּלִ֣ים אַתֶּ֔ם (Gen 42:9) 
+. נָבִ֣יא ה֔וּא (Gen. 20:7)
+. אוּלַ֥י מִשְׁגֶּ֖ה הֽוּא׃ (Gen 43:12)
+. חֲזָקָ֖ה הִ֑יא (Josh. 4:24)
+. עֵץ־חַיִּ֣ים הִ֭יא (Prov. 3:18)
+. הִ֖וא הָעִ֥יר הַגְּדֹלָֽה (Gen 10:12)
+. מָרִ֖ים הֵ֑ם
+. אַךְ־דַּלִּ֖ים הֵ֑ם
+. הֵ֧מָּה הַגִּבֹּרִ֛ים
+. חָי֣וֹת הֵ֔נָּה
+. טֹבֹ֖ת הֵ֑נָּה
+
+Word Bank
+
+* אוּלַ֥י  -  maybe
+* אַח  - brother
+* אַךְ  -  surely
+* אֵל  -  god/God
+* אָר֤וּר  -  cursed
+* בַת  - daughter
+* גִבֹּר  -  hero/giant
+* גָּדֹל  -  big/great
+* דַּל  -  weak/poor
+* חָזָק  -  strong
+* חָיָה  -  animal
+* חַיִּים  -  life (always plural)
+* חֹמֶר  -  raw material
+* ט֥וֹב  -  good * יְפַת־מַרְאֶ֖ה  - "beautiful of appearance" * יֹצְרֵ֔נוּ -  our maker/potter * לֹֽא  -  no/not * מַר  -  bitter * מְרַגֵּל  -  spy * מִשְׁגֶּ֖ה  -  mistake * נָבִ֣יא  -  prophet * נִרְפֶּה  -  slacker * עִ֥יר  -  city * עַם  -  People, עַמִּ֔י = my people.  * עֵץ  -  tree * רִאשׁוֹן  -  first * שַׁדַּי - Shaddai (meaning unknown, usually translated "almightly").
+
+Verbless sentences
+~~~~~~~~~~~~~~~~~~
+. יְהוָה֙ שֹׁפְטֵ֔נוּ יְהוָ֖ה מְחֹקְקֵ֑נוּ יְהוָ֥ה מַלְכֵּ֖נוּ (Is. 33:22)
+. וְאַנְשֵׁ֣י סְדֹ֔ם רָעִ֖ים וְחַטָּאִ֑ים לַיהוָ֖ה מְאֹֽד׃ (Gen 13:13)
+. מִ֤י חָכָם֙ (Hos. 14:9)
+. לַֽיהוָ֣ה אָ֔נִי (Is. 44:2)
+. כָּל־אָרְח֣וֹת יְ֭הוָה חֶ֣סֶד וֶאֱמֶ֑ת (Ps. 25:3)
+. הַשָּׁמֵן בַּדֶּרֶךְ הַקְּצָרָה לְלֶחֶם
+. הַמַּלְכָּה אִשָּׁה רָעָה וְהַעַמָּה טוֹבָה
+. הַכֹּהֲנִים הַקְּדוֹשִׁים בַּהֵיכַל
+. נְבִיאוֹת נֶאֱמָנוֹת כְקוֹל אֲדֹנָי
+
+More Verbless Sentences
+~~~~~~~~~~~~~~~~~~~~~~~
+הִנֵּ֨ה כְעֵינֵ֪י עֲבָדִ֡ים אֶל־יַ֤ד אֲדוֹנֵיהֶ֗ם כְּעֵינֵ֣י שִׁפְחָה֮ אֶל־יַ֪ד גְּבִ֫רְתָּ֥הּ כֵּ֣ן עֵ֭ינֵינוּ אֶל־יְהוָ֣ה אֱלֹהֵ֑ינוּ
+עַ֝֗ד שֶׁיְּחָנֵּֽנוּ׃  Ps. 123:2
+
+צִפּ֣וֹר שָׁ֭מַיִם וּדְגֵ֣י הַיָּ֑ם עֹ֝בֵ֗ר אָרְח֥וֹת יַמִּֽים׃ * יְהוָ֥ה אֲדֹנֵ֑ינוּ מָֽה־אַדִּ֥יר שִׁ֝מְךָ֗ בְּכָל־הָאָֽרֶץ׃ Ps.
+8:8-9
+
+בָּנִ֣ים אַתֶּ֔ם לַֽיהוָ֖ה אֱלֹהֵיכֶ֑ם  Dt. 14:1
+
+כִּ֣י עַ֤ם קָדוֹשׁ֙ אַתָּ֔ה לַיהוָ֖ה אֱלֹהֶ֑יךָ  Dt. 14:2
+
+אֵ֣לֶּה תוֹלְד֧וֹת הַשָּׁמַ֛יִם וְהָאָ֖רֶץ  Gen 2:4
+
+יוֹצֵ֥ר אוֹר֙ וּבוֹרֵ֣א חֹ֔שֶׁךְ עֹשֶׂ֥ה שָׁל֖וֹם וּב֣וֹרֵא רָ֑ע אֲנִ֥י יְהוָ֖ה עֹשֶׂ֥ה כָל־אֵֽלֶּה׃ Is. 45:7
+
+Find the prefixes and suffixes
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+. לִֽידִידִ֔י שִׁירַ֥ת דּוֹדִ֖י לְכַרְמ֑וֹ
+. בְּתוֹכ֔וֹ
+. וּבְיָד֖וֹ
+. לָ֑נוּ
+. מַצַּבְתָּֽהּ
+. לְמִינָ֔הּ
+. בְּצַלְמֵ֖נוּ כִּדְמוּתֵ֑נוּ
+. לְאָכְלָ֑ה
+. צְבָאָֽם
+. אֱלֹהֵ֥י אֲבֹתֵיכֶ֖ם
+. נַפְשְׁךָ֜
+
+Moar
+~~~~
+. כִּ֤י אִ֥ם בְּתוֹרַ֥ת יְהוָ֗ה חֶ֫פְצ֥וֹ וּֽבְתוֹרָת֥וֹ יֶהְגֶּ֗ה יוֹמָ֥ם וָלָֽיְלָה׃ Ps. 1:2
+. וְאַתָּ֥ה קָד֑וֹשׁ י֝וֹשֵׁ֗ב תְּהִלּ֥וֹת יִשְׂרָאֵֽל׃ Ps. 22:3
+. וְאָנֹכִ֣י תוֹלַ֣עַת וְלֹא־אִ֑ישׁ חֶרְפַּ֥ת אָ֝דָ֗ם וּבְז֥וּי עָֽם׃ Ps. 22:7
+. לִ֭בִּי כַּדּוֹנָ֑ג נָ֝מֵ֗ס בְּת֣וֹךְ מֵעָֽי׃ Ps. 22:15
+. כִּ֣י לַ֭יהוָה הַמְּלוּכָ֑ה Ps. 22:28
+. יְהוָ֥ה רֹ֝עִ֗י Ps. 23:1
+. לַֽ֭יהוָה הָאָ֣רֶץ וּמְלוֹאָ֑הּ Ps 24:1
+. מִֽי־יַעֲלֶ֥ה בְהַר־יְהוָ֑ה וּמִי־יָ֝קוּם בִּמְק֥וֹם קָדְשֽׁוֹ׃ Ps. 24:3
+. נְקִ֥י כַפַּ֗יִם וּֽבַר־לֵ֫בָ֥ב Ps. 24.4
+. מִ֥י זֶה֮ מֶ֤לֶךְ הַכָּ֫ב֥וֹד Ps. 24:8
+. אֵלֶ֥יךָ יְ֝הוָ֗ה נַפְשִׁ֥י אֶשָּֽׂא׃ Ps. 25:1
+. טוֹב־וְיָשָׁ֥ר יְהוָ֑ה עַל־כֵּ֤ן יוֹרֶ֖ה חַטָּאִ֣ים בַּדָּֽרֶךְ׃ Ps. 25:8
+
+word list
+^^^^^^^^^
+* אָדָם - human, humankind, man (m)
+* אִישׁ - man, person (m)
+* אֶל - to, towards
+* אִם - if
+* אֶרֶץ - land, country, Earth (f)
+* אֶשָּׂא - I will lift (form of the verb נשׂא. yiqtol 1cs)
+* בָּזוּי - despised
+* בַּר - pure
+* דּוֹנָג - wax (m)
+* דֶּרֶך - way, path, road (f)
+* הַר - mountain (m)
+* זֶה - this (ms) 
+** זֹאת = (fs)
+** אֵלֶּה = (cp)
+* חַטָּא = sinner (m)
+* חֶפֶץ - pleasure, delight (m)
+* חֶרְפָּה - reproach (f)
+* טוֹב - good
+* יֶהְגֶּה - "he meditates" (form of the verb הגי. yiqtol, 3ms)
+* יוֹרֶה - "instructing" (form of the verb ירי. participle ms)
+* יוֹשֵׁב - "sitting" (form of the verb ישׁב. participle, ms)
+* יַעֲלֶה - "goes up" (form of the verb עלי. yiqtol, 3ms)
+* יָקוּם - "rises" (form of the verb קום. yiqtol, 3ms)
+* יָשָׁר - upright, strait, fair
+* כָּבוֹד - glory, heaviness (m)
+* כִּי - for, that.  Less common: but, when, if
+** כִּי אִם = instead, rather
+* כֵּן - so, thus
+* כַּף - hand, palm (f)
+* לֹא - no, not
+* לֵב - heart, mind (m).
+** sometimes = לֵבָב
+* מִי - who? (m)
+* מְלוֹא - fullness (m)
+* מְלוּכָה - dominion, kingship (f)
+* מֵעֶה - gut (m)
+* מָקוֹם - place (m)
+* נָמֵס - "melting"  (form of the verb נמס. stative, 3ms)
+* נֶפֶשׁ - life, self, soul, person (f)
+* נָקִי - clean
+* עַל - on, upon, over, about
+** עַל כֵּן - thereupon, therefor
+* עַם - people (m)
+* קָדוֹשׁ - holy
+* קֹדֶשׁ - holiness, sanctuary (f)
+* רֹעֶה - shepherd (m)
+* תְּהִלָּה - praise, hymn (f)
+* תָּוֶךְ - inside (m)
+* תּוֹלעָה - worm (f)
+
+Qatal and the Participle
+~~~~~~~~~~~~~~~~~~~~~~~~
+. כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה צ֕וֹר אַ֣תְּ אָמַ֔רְתְּ אֲנִ֖י כְּלִ֥ילַת יֹֽפִי׃ Ez. 27:3
+. כַּסְפִּ֥י וּזְהָבִ֖י לְקַחְתֶּ֑ם  Joel 3:5
+. מִֽי־יָצַ֥ר אֵ֖ל וּפֶ֣סֶל נָסָ֑ךְ Is. 44:10
+. וְלֹֽא־מָצָ֤אתִי בוֹ֙ מְא֔וּמָה I Sam. 29:1
+. זֹ֣את אֹמֶ֔רֶת זֶה־בְּנִ֥י 1Ki 2:23
+. לָקְחָה֙ מִיַּ֣ד יְהוָ֔ה כִּפְלַ֖יִם בְּכָל־חַטֹּאתֶֽיהָ  Is. 40:2
+. עָמַ֜דְתָּ לִפְנֵ֨י יְהוָ֣ה אֱלֹהֶיךָ֮ בְּחֹרֵב֒ Deut. 4:10
+. מְאַהֲבַי֙ נֹתְנֵ֤י לַחְמִי֙ וּמֵימַ֔י Hos. 2:7
+. כִּֽי־יוֹצֵ֤ר הַכֹּל֙ ה֔וּא  Jer. 51:19
+. כִּי֩ לַיהוָ֨ה אֱלֹהֵ֜ינוּ חָטָ֗אנוּ אֲנַ֙חְנוּ֙ וַאֲבוֹתֵ֔ינוּ מִנְּעוּרֵ֖ינוּ וְעַד־הַיּ֣וֹם Jer. 3:25
+. הֶֽ֭הָרִים רָקְד֣וּ כְאֵילִ֑ים Ps. 114:4
+
+Word list
+^^^^^^^^^
+* אַב - father (m; plural=אָב֫וֹת)
+* אַ֫יִל - ram (m)
+* אֵל - god (m)
+** אֱלֹהִ֫ים - God, gods (plural of the above)
+* אָמַ֫ר - to say
+* בֵּן - son (m)
+* הַר - mountain (m)
+* זָהָ֫ב - gold (m)
+* חָטָ֫א - to sin
+* חַטָּ֫את - sin (f)
+* חֹרֵ֫ב - Horeb
+* יוֹם - day (m)
+** הַיּוֹם - today
+* יֹ֫פִי - beauty (m)
+* יָצַ֫ר - to create
+* כֹּ֤ה - so, thus
+* כֹּל - all, completeness
+* כְּלִילָ֫ה - perfection, totalilty
+* כֶּ֫סֶף - silver (m)
+* כֶּ֫פֶל - double (m)
+* לֹא - no, not (memorize this word
+* לֶ֫חֶם - bread (m)
+* לָקַ֫ח - to take, marry
+* מְאַהֵ֫ב - lover (m)
+* מְאוּמָ֫ה - something, anything (f)
+* מַ֫יִם - water (mp)
+* מָצָ֫א - to find
+* נָסַ֫ךְ - to pour, cast (metal)
+* נְעוּרִ֫ים - time of youth (mp)
+* נָתַ֫ן - to give
+* עַד - unto, until
+* עָמַ֫ד - to stand
+* פָּנִ֫ים - face, front (fp)
+** לִפְנֵ֫י - before, in front of
+* פֶּ֫סֶל - statue, idol (m)
+* צוֹר - Tyre (cities are always feminine)
+* רָקַ֫ד - to dance
+
+Nif'al
+~~~~~~
+. נִמְצְא֤וּ הָאֲתֹנוֹת֙ אֲשֶׁ֣ר הָלַ֣כְתָּ לְבַקֵּ֔שׁ (לְבַקֵּ֔שׁ = to seek) 1 Sam. 10:2
+. קָר֣וֹב יְ֭הוָה לְנִשְׁבְּרֵי־לֵ֑ב  Ps. 34:19
+. נִלְחַ֣מְתִּי בְרַבָּ֔ה  2 Sam. 12:27
+. שֵׁ֥ם יְהוָ֖ה נִקְרָ֣א עָלֶ֑יךָ Deut. 28:10
+
+Word list
+^^^^^^^^^
+* מָצָא - to find 
+** nif'al = passive of qal (to be found); 'of a place,' to lay.
+* אָתוֹן - female donkey (f)
+* אֲשֶׁר - which, who (opens a relative clause; memorize this word)
+* הָלַךְ - to come/go, to walk
+* קָרוֹב - near, close
+* שָׁבַר - to break
+** nif'al = passive of qal (to be broken)
+* לֵב - heart (m)
+* לָחַם - extreemly rare in qal
+** nif'al = to fight (the object normally takes בְּ)
+* רַבָּה - Rabbah (personal name; possibly Aramaic for "the great one")
+* שֵׁם - name (m)
+* קָרָא - to call, to name, to read
+** nif'al = passive of qal (to be called, named, read)
+
+Pi'el and Co
+~~~~~~~~~~~~
+. בֵּֽ֭אלֹהִים הִלַּלְ֣נוּ כָל־הַיּ֑וֹם Ps. 44:9
+. אֲנִ֤י מְדַבֵּר֙ וּמִתְפַּלֵּ֔ל  Dan. 9:20
+. בֵּרַ֥כְתָּ אֱלֹהִ֖ים וָמֶ֑לֶךְ 1 Kings 21:10
+. וְר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת עַל־פְּנֵ֥י הַמָּֽיִם Gen. 1:2
+. בַּיּ֣וֹם הַה֗וּא קִדַּ֨שׁ הַמֶּ֜לֶךְ אֶת־תּ֣וֹךְ הֶחָצֵ֗ר אֲשֶׁר֙ לִפְנֵ֣י בֵית־יְהוָ֔ה 1 Kings 8:64
+. תְּחִלַּ֥ת דִּבֶּר־יְהוָ֖ה בְּהוֹשֵׁ֑עַ Hos. 1:2
+. שִׁכַּ֤לְתִּי אִבַּ֙דְתִּי֙ אֶת־עַמִּ֔י Jer. 15.17
+. הַכֹּהֲנִים֙ לֹֽא־הִתְקַדְּשׁ֣וּ 2 Chron. 30:3
+. מִמִּזְרַח־שֶׁ֥מֶשׁ עַד־מְבוֹא֑וֹ מְ֝הֻלָּ֗ל שֵׁ֣ם יְהוָֽה׃ Ps. 113:3
+
+Word list
+^^^^^^^^^
+* אָבַד - to be lost, to be destroyed 
+** Pi'el = to destroy
+* אֲשֶׁר - which (opens a relative clause; memorize)
+* בַּיִת - house, dwelling (m) 
+* בָּרַךְ - only in Qal as passive participle בָּרוּךְ׃ blessed
+** Pi'el = to bless
+* דָּבַר - rare in Qal
+** Nif'al = to converse
+** Pi'el = to speak
+* הוֹשֵׁעַ - Hosea
+* הָלַל - not attested in Qal
+** Pi'el = to praise
+* חָצֵר - courtyard (m)
+* יוֹם - day (m)
+* כֹּהֵן - priest (m)
+* מָבוֹא entrance, setting (of the sun or stars) (m)
+* מִזְרָח - sunrise, east (m)
+* מַיִם water (mp
+* פָּלַל - not attested in Qal
+** Pi'el = to pronounce judgement
+** Hitpa'el = to intercess, to pray
+* פָּנִים - face, faces (fp)
+* עַם - a people (m)
+* קָדַשׁ - to be holy
+** Pi'el = to sanctify
+* רוּחַ - spirit, wind (f)
+* רָחַף - to tremble
+** Pi'el = to hover
+* שָׁכַל - to be childless
+** Pi'el - to abort (a pregnancy), to miscarry
+* שֵׁם - name (m)
+* שֶׁמֶשׁ - Sun (f)
+* תָּוֶךְ - inside (m)
+* תְּחִלָּה - beginning (f)
+
+Parsing
+~~~~~~~
+. מַשְׁאִירָ֫ה
+. רָחַ֫צְתְּ
+. רֹֽכְבִ֫ים
+. בִּקַּ֫שְׁנוּ
+. נִלְחָ֫ם
+. הָבְדְּל֫וּ
+. מָכְשֶׁ֫רֶת
+. מְדַבְּר֫וֹת
+. הִתְקַדַּשְׁתֶ֫ם
+. הִמְלַ֫כְתָ
+. כְּתוּבָ֫ה
+
+Strong Sentences
+~~~~~~~~~~~~~~~~
+. וַיִּקְרָ֨א אֱלֹהִ֤ים לָאוֹר֙ י֔וֹם וְלַחֹ֖שֶׁךְ קָ֣רָא לָ֑יְלָה
+. וַיְבָ֧רֶךְ אֹתָ֛ם אֱלֹהִ֖ים
+. וְכָל־עֵ֥שֶׂב הַשָּׂדֶ֖ה טֶ֣רֶם יִצְמָ֑ח כִּי֩ לֹ֨א הִמְטִ֜יר יְהוָ֤ה אֱלֹהִים֙ עַל־הָאָ֔רֶץ וְאָדָ֣ם אַ֔יִן לַֽעֲבֹ֖ד אֶת־הָֽאֲדָמָֽה
+. וַתִּפָּקַ֙חְנָה֙ עֵינֵ֣י שְׁנֵיהֶ֔ם
+
+.Psalm 2:4-8
+יוֹשֵׁ֣ב בַּשָּׁמַ֣יִם יִשְׂחָ֑ק אֲ֝דֹנָ֗י יִלְעַג־לָֽמוֹ׃
+אָ֤ז יְדַבֵּ֣ר אֵלֵ֣ימוֹ בְאַפּ֑וֹ וּֽבַחֲרוֹנ֥וֹ יְבַהֲלֵֽמוֹ׃
+וַ֭אֲנִי נָסַ֣כְתִּי מַלְכִּ֑י עַל־צִ֝יּ֗וֹן הַר־קָדְשִֽׁי׃
+אֲסַפְּרָ֗ה אֶֽ֫ל חֹ֥ק יְֽהוָ֗ה אָמַ֘ר אֵלַ֥י בְּנִ֥י אַ֑תָּה אֲ֝נִ֗י הַיּ֥וֹם יְלִדְתִּֽיךָ׃
+שְׁאַ֤ל מִמֶּ֗נִּי וְאֶתְּנָ֣ה ג֭וֹיִם נַחֲלָתֶ֑ךָ וַ֝אֲחֻזָּתְךָ֗ אַפְסֵי־אָֽרֶץ׃
+
+Word list
+^^^^^^^^^
+* אָדָם - human, humankind, man (m)
+* אוֹר – light (m)
+* אָ֤ז – then 
+* אֲחֻזָּה – property (f)
+* אַ֔יִן – there is/was not/no (particle indicating negation or non-existence in verbless sentences)
+* אֵלֵיהֶם = אֵלֵ֣ימוֹ
+* אָמַ֫ר - to say
+* אַף – nose, anger (m)
+* אֶ֫פֶס – end, extremity, nothingness (m)
+* אֶ֫רֶץ - land, country, earth (f)
+* בָּהַ֫ל – non-existant in qal
+** nif'al = to be horrified
+** pi'el = to terrify, horrify
+* בֵּן – son (m)
+* בָּרַ֫ךְ – only in Qal as passive participle בָּרוּךְ: blessed 
+** Pi’el = to bless
+* גּוֹי – nation (m)
+* דָּבַר - rare in Qal
+** Nif’al = to converse
+** Pi’el = to speak
+* הַר - mountain (m)
+* וְאֶתְּנָ֣ה = in order that I may give (1cs cohortative + waw consecutive; root: נתן)
+* חָר֣וֹן – anger, indignation (m)
+* חֹק – decree, command (m)
+* חֹ֣שֶׁךְ – darkness (m)
+* טֶ֫רֶם – before (always modifies actions in the past that have since happened)
+* יְבַהֵל אֹתוֹ = יְבַהֲלֵֽמוֹ
+* יוֹם – day (m); plural= יָמִים
+* יָלַ֣ד – to give birth to, to bear
+* יָלַדְתּי אֹתְךָ = יְלִדְתִּֽיךָ
+* יָשַׁ֫ב – to sit
+* לָיְלָה – night (m)
+* לָהֶ֫ם = לָמ֫וֹ
+* לָעַ֫ג – to ridicule
+* מָטַ֫ר – to rain
+** hif'il = causative of qal
+* מֶלֶך – king (m)
+* נַחֲלָ֣ה - inheritance
+* נָסַךְ - to pour out (often a libation), to consecrate (with a libation)
+* סָפַ֫ר – to count
+** pi'el = to tell
+* עָבַד – to work, serve, participate in ritual worship.
+* עַ֫יִן – eye (f)
+* עֵ֥שֶׂב – green plant, weed (m)
+* פָּקַ֫ח – to open (eyes, ears)
+* צָחַ֫ק – to laugh
+* צִיּ֫וֹן – Zion
+* צָמַ֫ח – to grow, sprout
+* קֹדֶשׁ - holiness (m)
+* קָרָ֫א - to call, to name, to read
+** nif’al = passive of qal (to be called, named, read)
+* שָׂדֶ֫ה – field (m)
+* שָׁאַ֫ל – to ask
+* שָׁמַ֫יִם – sky, heaven (mp)
+* שְׁנַ֫יִם – two (m)
+
+More Strong Sentences
+~~~~~~~~~~~~~~~~~~~~~
+. וַיֹּ֕אמֶר אָנֹכִ֛י אֲשַׁלַּ֥ח גְּדִֽי־עִזִּ֖ים מִן־הַצֹּ֑אן Gen. 38:17
+. וַתִּקְשֹׁ֨ר עַל־יָד֤וֹ שָׁנִי֙ לֵאמֹ֔ר זֶ֖ה יָצָ֥א רִאשֹׁנָֽה׃ Gen. 38:28
+. וַיְהִ֣י כְּמֵשִׁ֣יב  יָד֗וֹ וְהִנֵּה֙ יָצָ֣א אָחִ֔יו וַתֹּ֕אמֶר מַה־פָּרַ֖צְתָּ עָלֶ֣יךָ פָּ֑רֶץ וַיִּקְרָ֥א שְׁמ֖וֹ פָּֽרֶץ׃ Gen. 38:29
+** וַיְהִ֣י כְּמֵשִׁ֣יב = "But it happened while brining back..."
+. וְאַחַר֙ יָצָ֣א אָחִ֔יו אֲשֶׁ֥ר עַל־יָד֖וֹ הַשָּׁנִ֑י וַיִּקְרָ֥א שְׁמ֖וֹ זָֽרַח׃ Gen. 38:30
+. לַפֶּ֖תַח חַטָּ֣את רֹבֵ֑ץ וְאֵלֶ֙יךָ֙ תְּשׁ֣וּקָת֔וֹ וְאַתָּ֖ה תִּמְשָׁל־בּֽוֹ׃ Gen. 4:7
+. הֲלֹֽא־חָכְמָ֥ה תִקְרָ֑א וּ֝תְבוּנָ֗ה תִּתֵּ֥ן קוֹלָֽהּ׃ Prov. 8:1
+
+Word list
+^^^^^^^^^
+* אַח  - brother (m)
+* אָמַ֫ר - to say
+* גְּדִ֫י - kid (young goat;m)
+* הִנֵּ֫ה - Look, Behold! (particle to draw the attention of the audience.)
+* זֶ֫רַח - Zerah (personal name, realated to an Aramaic word meaning "red")
+* חַטָּ֫את - sin (f)
+* חָכְמָ֫ה - wisdom (f)
+* יַד - hand (f)
+* יָצָ֫א - to go out
+** hif'il = to bring out
+* מָה - how? what?
+* מָשַׁ֫ל - to rule, to be like
+* נָתַ֫ן - to give, to set, to make
+* עֵז - goat (m)
+* פָּרַ֫ץ - to break through
+* פֶּ֫רֶץ - breach (m)
+* פֶּ֫תַח - opening, doorway, entrance (m)
+* צֹ֫אן - flock (f)
+* קוֹל -  voice (m)
+* קָרָ֫א - to call, to name, to read
+* רִאשׁ֫וֹן  -  first
+* רָבַ֫ץ - to lie down (usually of animals)
+* קָשַׁ֫ר - to bind, tie
+* שָׁלַ֫ח - to send
+** Pi'el = to send away
+* שָׁנִ֫י - scarlet
+* תְבוּנָ֫ה - understanding (f)
+* תְּשׁוּקָ֫ה - longing (f)
+
+Parsing regular verbs (and a couple of weak verbs)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+. וְלִזְבֹּ֛חַ
+. יִתֵּ֛ן
+. סָגַ֥ר
+. תֹֽאכְלִ֔י
+. וַתִּתְפַּלֵּ֥ל
+. וַתִּדֹּ֨ר
+. וְנָתַתָּ֥
+. שֹׁמֵ֥ר
+. תִּשְׁתַּכָּרִ֑י
+. וַתֹּ֕אמֶר
+. וַיַּשְׁכִּ֣ימוּ
+. לְהִתְפַּלֵּ֖ל
+. שָׁאַ֖לְתִּי
+. וּבָכֹ֥ה
+. שְׁכָב֒
+
+More Parsing
+~~~~~~~~~~~~
+. וַתֹּאבַ֙דְנָה
+. קַח
+. בַּקֵּ֖שׁ
+. מָצָ֑אוּ
+. וַיַּעַבְר֤וּ
+. נִכְבָּ֔ד
+. נֵלֵךְ֮
+. וְהִגִּ֥יד
+. בְּלֶכְתּוֹ֙
+. לִדְר֣וֹשׁ
+. יְבָרֵ֣ךְ
+. הַקְּרֻאִ֑ים
+. וְהוֹשִׁ֥יעַ
+. וַתֵּ֣לֶד
+. הוֹשֵׁב
+. הוּשַׁב
+
+Senteces first weak
+~~~~~~~~~~~~~~~~~~~
+. וַיֵּ֨לֶךְ אִ֜ישׁ מִבֵּ֧ית לֶ֣חֶם יְהוּדָ֗ה לָגוּר֙ בִּשְׂדֵ֣י מוֹאָ֔ב
+. וַיִּשְׂא֣וּ לָהֶ֗ם נָשִׁים֙ מֹֽאֲבִיּ֔וֹת שֵׁ֤ם הָֽאַחַת֙ עָרְפָּ֔ה וְשֵׁ֥ם הַשֵּׁנִ֖ית ר֑וּת וַיֵּ֥שְׁבוּ שָׁ֖ם כְּעֶ֥שֶׂר שָׁנִֽים׃
+. וַיָּמ֥וּתוּ גַם־שְׁנֵיהֶ֖ם מַחְל֣וֹן וְכִלְי֑וֹן וַתִּשָּׁאֵר֙ הָֽאִשָּׁ֔ה מִשְּׁנֵ֥י יְלָדֶ֖יהָ וּמֵאִישָֽׁהּ׃
+. וַתָּ֖שָׁב מִשְּׂדֵ֣י מוֹאָ֑ב כִּ֤י שָֽׁמְעָה֙ בִּשְׂדֵ֣ה מוֹאָ֔ב כִּֽי־פָקַ֤ד יְהוָה֙ אֶת־עַמּ֔וֹ לָתֵ֥ת לָהֶ֖ם לָֽחֶם:
+. וַתֵּצֵ֗א מִן־הַמָּקוֹם֙ ]...[ וּשְׁתֵּ֥י כַלֹּתֶ֖יהָ עִמָּ֑הּ וַתֵּלַ֣כְנָה בַדֶּ֔רֶךְ לָשׁ֖וּב אֶל־אֶ֥רֶץ יְהוּדָֽה׃
+. וַתֹּ֤אמֶר נָעֳמִי֙ לִשְׁתֵּ֣י כַלֹּתֶ֔יהָ לֵ֣כְנָה שֹּׁ֔בְנָה אִשָּׁ֖ה לְבֵ֣ית אִמָּ֑הּ
+. וַתֹּאמַ֖רְנָה־לָּ֑הּ כִּי־אִתָּ֥ךְ נָשׁ֖וּב לְעַמֵּֽךְ׃  
+. וַתֹּ֤אמֶר נָעֳמִי֙ שֹׁ֣בְנָה בְנֹתַ֔י לָ֥מָּה תֵלַ֖כְנָה עִמִּ֑י הַֽעֽוֹד־לִ֤י בָנִים֙ בְּֽמֵעַ֔י
+. וַתֹּ֤אמֶר רוּת֙ אַל־תִּפְגְּעִי־בִ֔י לְעָזְבֵ֖ךְ לָשׁ֣וּב מֵאַחֲרָ֑יִךְ כִּ֠י אֶל־אֲשֶׁ֨ר תֵּלְכִ֜י אֵלֵ֗ךְ וּבַאֲשֶׁ֤ר תָּלִ֙ינִי֙ אָלִ֔ין עַמֵּ֣ךְ עַמִּ֔י וֵאלֹהַ֖יִךְ אֱלֹהָֽי׃
+. בַּאֲשֶׁ֤ר תָּמ֙וּתִי֙ אָמ֔וּת וְשָׁ֖ם אֶקָּבֵ֑ר כֹּה֩ יַעֲשֶׂ֨ה יְהוָ֥ה לִי֙ וְכֹ֣ה יֹסִ֔יף כִּ֣י הַמָּ֔וֶת יַפְרִ֖יד בֵּינִ֥י וּבֵינֵֽךְ׃
+
+Word list
+^^^^^^^^^
+* אִישׁ - man, husband (m)
+* אַחֲרֵי - behind, after
+* אַחַת֙ - one (f)
+* אַל - used with yiqtol to create negative commands ("do not...")
+* אֵם - mother (f)
+* אָמַר - to speak, to say
+* אֶרֶץ - land
+* אּשָּׁׁׁה - woman (f)
+* בֵּין - between
+* בַּיִת - house, dwelling (m) ** בֵּית לֶֶחֶם - Bethlehem (house of bread)
+* בֵּן - son (m)
+* גּוּר - to dwell, to live
+* גַּם - also
+* דֶּרֶךְ - way, path, road
+* הָלַךְ - 'Qal' to come, to go, to walk; 'hitpa'el' to walk around.
+* יְהוּדָה - Judah (son of Jacob, Tribe, territory)
+* יֶלֶד - child (m)
+* יָסַף - 'nif'al' to join, to be joined 'hif'il' to add
+* יָצַא - to go out
+* יָשַׁב - to sit, to settle
+* כִּי - You have several definitions of this word already. In addition, it is sometimes used to indicate strong contradiction, and may be translated as "No!"
+* כִּלְיוֹן - Kilion (personal name)
+* כֹּה - so, thus
+* כַּלָּה - daughter-in-law
+* לֶ֫חֶם - bread, food (m)
+* לִין - to lodge
+* לָמָּה - "Why?", "How?"
+* מוֹאָ֔ב - Moab
+* מוּת - to die
+* מַוֶת - death
+* מַחְלוֹן - Mahlon (personal name)
+* מֵעֶה - gut, womb (m)
+* מָקוֹם - place (m)
+* נָעֳמִי - Naomi (personal name)
+* נָשָׂא - to lift, to carry, to take in marriage (typically in post-exilic Hebrew) 
+* נָשִׁים - pl. of אִשָּׁה
+* נָתַ֫ן - to give, to set, to make
+* עָזַב - to leave, to abandon
+* עַם - people (m)
+* עִם - with
+* עָרְפָּ֔ה - Orpah (personal name)
+* עֶשֶׂר - ten (f)
+* עָשָׂה - to do, make
+* פָּגַע - to impinge
+* פָּקַד - to visit (may be hostile or friendly)
+* פָּרַד - 'nif'al' to be seperated 'hif'i' to seperate
+* קָבַר - to bury
+* רוּת - Ruth (personal name)
+* שָׁאַר - 'Qal' to leave (behind); 'nif'al' to remain, to stay, to be left
+* שׁוּב - to turn back
+* שָׂדֶה - field (possibly mountain in this context) (m)
+* שַׁם - there
+* שֵׁם - name (m)
+* שָׁמַע - to hear, listen, obey
+* שָׁנָה - year (f); pl. שָׁנִים
+* שֵׁנִי - second
+* שְׁנַיִם - two (m)
+* שְׁתַיִם - two (f)
