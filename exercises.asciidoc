@@ -585,3 +585,44 @@ Word list
 * שֵׁנִי - second
 * שְׁנַיִם - two (m)
 * שְׁתַיִם - two (f)
+
+ל"ה sentences 
+~~~~~~~~~~~~~
+. אֵ֣לֶּה תוֹלְד֧וֹת הַשָּׁמַ֛יִם וְהָאָ֖רֶץ בְּהִבָּֽרְאָ֑ם בְּי֗וֹם עֲשׂ֛וֹת יְהוָ֥ה אֱלֹהִ֖ים אֶ֥רֶץ וְשָׁמָֽיִם׃
+. וְכֹ֣ל ׀ שִׂ֣יחַ הַשָּׂדֶ֗ה טֶ֚רֶם יִֽהְיֶ֣ה בָאָ֔רֶץ וְכָל־עֵ֥שֶׂב הַשָּׂדֶ֖ה טֶ֣רֶם יִצְמָ֑ח כִּי֩ לֹ֨א הִמְטִ֜יר יְהוָ֤ה אֱלֹהִים֙ עַל־הָאָ֔רֶץ וְאָדָ֣ם אַ֔יִן לַֽעֲבֹ֖ד אֶת־הָֽאֲדָמָֽה׃
+. וְאֵ֖ד יַֽעֲלֶ֣ה מִן־הָאָ֑רֶץ וְהִשְׁקָ֖ה אֶֽת־כָּל־פְּנֵֽי־הָֽאֲדָמָֽה׃
+. וַיִּיצֶר֩ יְהוָ֨ה אֱלֹהִ֜ים אֶת־הָֽאָדָ֗ם עָפָר֙ מִן־הָ֣אֲדָמָ֔ה וַיִּפַּ֥ח בְּאַפָּ֖יו נִשְׁמַ֣ת חַיִּ֑ים וַֽיְהִ֥י הָֽאָדָ֖ם לְנֶ֥פֶשׁ חַיָּֽה׃
+
+Word List
+^^^^^^^^^
+* אֵד - fog, mist (m)
+* אָדָם - human, humankind, man (m)
+* אֲדָמָה - ground, land (f)
+* אֵ֣לֶּה - plural of זֶה
+* אַף – nostril, anger (m)
+* אֶרֶץ - land, country, earth (f)
+* בָּרָא - to create, to cut, divide
+* היָה - to be, become, to happen, to fall
+* חַיִּים  -  life (mp)
+* חַי - living, alive (adjective
+* טֶ֫רֶם – before (always modifies actions in the past that have since happened)
+* יוֹם - day (m)
+* יָצַ֫ר - to form, to make,create
+* כֹּל - all, completeness
+* מָטַ֫ר – to rain 
+** hif'il = causative of qal
+* נָפָח - to breath (out), exhale, blow
+* נֶפֶשׁ - life, self, soul, being, person (f)
+* נְשָׁמָה - breath, soul (f)
+* עָבַד – to work, serve, participate in ritual worship.
+* עָלָה - to go up
+* עָפָר - dirt, dust, mud (m)
+* עֵשֶׂב - herbage, weed (m)
+* עָשָׂה - to do, make
+* פָּנִ֫ים - face, front, surface (fp)
+* צָמַ֫ח – to grow, sprout
+* שָׂדֶ֫ה – field (m)
+* שִׂיחַ - shoot, shrub (m)
+* שָׁמַ֫יִם – sky, heaven (mp)
+* שָׁקָה - hif'il only: to water
+* תּוֹלְדֹת - history, generation (fp)
