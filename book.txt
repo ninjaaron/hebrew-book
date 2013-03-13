@@ -1,11 +1,12 @@
 An Open Introduction to Biblical Hebrew
 ========================================
-// vim: tw=72 syntax=asciidoc
+// vim: filetype=asciidoc
 Copyright Aaron Christianson, 2012 
 Distributed under the Creative Commons Attribution-ShareAlike 3.0 licenced (CC-BY-SA 3.0)
 
 Introduction
 ------------
+// {{{
 The first and foremost goal of this textbook is much the same as any
 other first year Hebrew textbook; to teach beginning students the Hebrew
 writing system, morphology, and basic syntactical concepts, as well as 
@@ -61,6 +62,7 @@ stronger church.
 
 How to use this book
 ~~~~~~~~~~~~~~~~~~~~
+// {{{
 This work is divided into two volumes.  The first volume is the grammar
 proper, containing forms, paradigms and theory, along with examples.
 The examples are taken from the Bible.  The explanations are intended to
@@ -79,12 +81,15 @@ text, except for those involving composition.
 As the project matures, there may be a third volume, a reference grammar
 which gives a more in-depth explanation of historical development,
 dialectical features, and syntactical concerns.
-
+// }}} }}}
 Writing System
 --------------
+// {{{
 Aleph-Bet
 ~~~~~~~~~
+// {{{
 .Aleph-Bet
+// {{{
 [width="60%",options="header",cols="^,^,^,^,^"]
 |===
 |Sign|Pronounciation|Transliteration|Name Transliterated|Numeric Value
@@ -114,6 +119,7 @@ Aleph-Bet
 |===
 [small]#*A glottal stop is consonant in the middle of the word "uh-oh"
 where the throat briefly stops the flow of air.#
+// }}}
 
 These are the 22 letters of the Hebrew Alphabet with their basic sounds,
 transliterations and numeric values. The sounds given are those most
@@ -159,6 +165,7 @@ close to the divine name.  Instead, 15 is טו and 16 is טז.
 
 Mater Lectiones
 ^^^^^^^^^^^^^^^
+// {{{
 While there are no vowels given here, three of these characters may be
 used to indicate long vowels, and when they do, they loose their
 function as consonants.
@@ -176,9 +183,11 @@ of reading").  They will almost always appear when a vowel ends a word,
 quite often to mark a medial ī or ū. Usage with medial ē or ō is
 unpredicatble.  When long medial vowels are marked, it is called a
 'plene' spelling (Latin for "full").
+//  }}} }}}
 
 Masoretic pointing
 ~~~~~~~~~~~~~~~~~~
+// {{{
 The letters listed above, with no vowels, are all that were written in
 ancient Hebrew manuscripts.  However, at some point around 700 or 800
 CE, Jewish Bible scholars began inventing systems to record the vowels
@@ -199,6 +208,7 @@ we say.  Don't panic.
 
 BeGeD KeFeT (and 'Dagesh Qal')
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+// {{{
 Six of these letters may be pronounced as hard or soft.  Hard
 pronunciation is indicated by the addition of a dot in the middle of the
 letter, called a 'dagesh' (דָּגֵשׁ; lit. "emphasis").  SBL transliteration
@@ -230,10 +240,13 @@ be able to tell the difference.  To state briefly, dagesh ḥazaq
 indicates the doubling of a letter, and can occur in all but five 
 letters, ר, ע, ח, ה, א.  This will be explained in more detail after the 
 introduction of the vowels.
+// }}}
 
 Vowel Points
 ^^^^^^^^^^^^
+// {{{
 .Full vowels
+// {{{
 [width="50%",options="header",cols="^,^,^,^"]
 |===
 |Sign|Name    |Sound          |Transliteration
@@ -252,6 +265,7 @@ Vowel Points
 |םֻ   |קִבּוּץ    |"oo" in 'tool' | u
 |םוּ  |שׁוּרֶק    |" "            | û
 |===
+//}}}
 
 Hebrew has five different vowel qualities, corresponding to the Latin
 vowels.  They can be either long or short, and long vowels are sometimes
@@ -286,9 +300,8 @@ vowel unless it has a dot in it.  This dot is called a mappiq.
 .Pattaḥ Furtives 
 When a word ends with ע, ח, or consonantal הּ, and the vowel before it is
 not a form of an "a" vowel, a short "a" vowel will placed before the
-consonant to facilitate pronunciation of the guttural.  This
-
-
+consonant to facilitate pronunciation of the guttural.  This ?????
+// do something about this!
 
 In addition to these full vowels, there are four semi-vowels; the mobile 
 Shewa and the three hatafs:
@@ -321,9 +334,11 @@ harmony (not something to worry about).
 Semi-vowels never take the accent, nor to they appear at the end of
 words.  They and their preceding considered part of the following 
 syllable.
+// }}}
 
 Syllables
 ^^^^^^^^^
+// {{{
 Syllables are the basic units of sounds from which words are built.
 Some words only consist of one syllable, such as "too," "luck," "hi,"
 "run" and so forth.  There are two types of syllables, the open
@@ -403,13 +418,16 @@ will *always* be preceded by a vowel.
 A dagesh qal will *only* appear in a "beged kefet" letter.  It will 
 *never* be preceded by a vowel, and will often appear at the beginning
 of a word (if the first letter is a beged kefet letter).
+// }}} }}} }}}
 
 Nouns, Adjectives and Particles
 -------------------------------
+//  {{{
 Everything but the Verb.
 
 Roots
 ~~~~~
+// {{{
 Every language has roots that carry basic meanings from to which one
 might add suffixes or prefixes to adjust the meaning of the grammatical
 function of the root.  In Hebrew and other Semitic languages, roots are 
@@ -435,9 +453,11 @@ English word "understand;"  It is made from the parts "under" and
 hard-pressed to guess the meaning of the word created by their union.
 The same is sometimes true of Hebrew words, and the only way to be
 certain of a word's meaning is to look it up in a lexicon.
+// }}}
 
 Gender and Number
 ~~~~~~~~~~~~~~~~~
+//  {{{
 As in many other languages, and unlike English, all Hebrew nouns and
 adjectives have a grammatical gender, either masculine or feminine.
 They also have number, singular and plural, as well as occasional dual
@@ -460,9 +480,11 @@ will be there.
 
 Note: If a word ends with a pattern like this, but it is part of the 
 internal vowel pattern and the root, it does not count as an ending!
+// }}}
 
 Independent Personal Pronouns
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//{{{
 .Independent personal pronouns
 [width="40%",options="header"]
 |===
@@ -477,9 +499,11 @@ s|3f|הִ֫יא       |הֵ֫נָּה (הֵ֫ן)
 As we will see later, most verb forms indicate the subject with no need 
 for a pronoun, so Hebrew independent personal pronouns will most often 
 be seen in verbless sentences.  
+// }}}
 
 The Definite Article
 ~~~~~~~~~~~~~~~~~~~~
+//  {{{
 The definite article in Hebrew is הַ ּ .  Don't skimp on the Dagesh.  The
 spelling of the article changes before gutturals and rêš because they
 reject the dagesh. Before א, ע and ר, the article becomes הָ (the vowel
@@ -497,9 +521,11 @@ and usage as the definite article in English, "the."
 
 As in English proper nouns and pronouns are considered definite without 
 the use of the article.
+// }}}
 
 Adjectives
 ~~~~~~~~~~
+//  {{{
 Hebrew adjectives agree in gender and number with the nouns they modify.
 This means that every adjective can be declined into masculine singular,
 masculine plural, feminine singular and feminine plural. Dual nouns take
@@ -507,6 +533,7 @@ adjectives in the plural, however.
 
 Uses of the Adjective
 ^^^^^^^^^^^^^^^^^^^^^
+// {{{
 *Attributive Adjectives* form a single unit with the noun in the 
 sentence.  English examples: "big dog," "tall trees," "fast wifi."
 
@@ -538,6 +565,7 @@ In Hebrew, because the gender and number are marked in the forms of the
 adjectives themselves, no additional noun is required.  They are all
 simply marked by the addition of the definite article and the absence of
 an agreeing noun.
+//}}} }}}
 
 Demonstrative Pronouns
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -546,6 +574,7 @@ Something
 
 'Waw' conjunction
 ~~~~~~~~~~~~~~~~~
+//{{{
 The most common conjunction in Biblical Hebrew is a 'waw', וְ, prefixed
 to a word.  This conjunction often has the force of "and" in English for
 coordinate clauses and lists of nouns.  However, it may also precede
@@ -572,9 +601,11 @@ very few words in Biblical Hebrew that begin with waw, so it will
 generally be safe to assume that you have the conjunction when you find 
 the letter at the beginning of the word.  Those that do begin with waw 
 are loan-words from other languages.
+//}}}
 
 Prepositional Prefixes
 ~~~~~~~~~~~~~~~~~~~~~~
+// {{{
 There are three prepositions which are always prefixes in Biblical
 Hebrew.  They all have many meanings, only several of which are 
 listed here.  Consult a lexicon for complete treatment of usage.
@@ -596,9 +627,11 @@ only presented to avoid confusion later.
 One might expect to see a form like לְהַמֶּלֶךְ for "to the king," but instead
 the ה disappears, but it's vowels remain, leaving us with the actual
 form לַמֶּלֶךְ.  The same is true for prepositions בְ and כְ.
+//  }}}
 
 Pronominal Suffixes 
 ~~~~~~~~~~~~~~~~~~~
+//{{{
 In Biblical Hebrew, independant pronouns are not especially common.
 Instead, they are more often added to the ends other words with various
 uses.    Many of the suffixes have more rare varient forms found in 
@@ -657,9 +690,11 @@ s|2f|  ?     |כָּכֶן
 s|3m|כָּמוֹהוּ   |כָּהֶם
 s|3f|כָּמוֹהָ    |כָּהֶן
 |===
+//}}}
 
 Other Prepositions
 ~~~~~~~~~~~~~~~~~~
+// {{{
 Most of the other prepositions are separate from the words they modify,
 or rather joined by a Maqqeph, sharing the accent.  There is one
 exception, however, the preposition מִן.
@@ -704,9 +739,11 @@ s|2f|אֹתָךְ     |אֶתְכֶן
 s|3m|אֹתוֹ     |אֹתָם
 s|3f|אֹתָהּ     |אֹתָן
 |===
+// }}} }}}
 
 Verbs
 -----
+// {{{
 Hebrew verbs, like Hebrew nouns, are created from three-consonant roots 
 by adding prefixes and suffixes, as well as changes in the internal
 vowel patterns.  These variations will tell us things like the person,
@@ -714,6 +751,7 @@ gender and number of the subject, tense, mood, voice, and so forth.
 
 The Strong Verb
 ~~~~~~~~~~~~~~~
+//{{{
 Because of various historical-linguistic phenomena, certain Hebrew
 consonants are inclined to change and disappear in certain phonetic
 settings.  This causes many unusual things to happen in the verbs.
@@ -722,6 +760,7 @@ the strong verbs, those untroubled by such things.
 
 The Qāṭal conjugation and the Participle
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+//{{{
 .Qal 'qaṭal' conjugation
 [width="40%",options="header"]
 |===
@@ -794,9 +833,11 @@ but not to the point that it is in modern Hebrew.
 The participle is not technically a tense in Biblical Hebrew, but it is
 exclusive of the property of tense, and is therefore occupies the same
 slot for the purpose of your parsing.
+//}}}
 
 Stems
 ^^^^^
+// {{{
 As mentioned above, in Hebrew there are seven commonly used stems.
 Unfortunatly, there is no exact parallel the phenomenon of Hebrew stems
 in English.  When a Hebrew tri-lateral root is placed into a different
@@ -933,9 +974,11 @@ As mentioned previously, remember that these are only general
 trends in the meanings of various stems, and there are many exceptions.
 One should always check a lexicon to be sure of the meaning of a root in
 a given stem.
+//}}}
 
 The 'yiqṭol' and tenseless forms
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+//{{{
 .Yiqtol
 [options="header"]
 |===
@@ -1026,25 +1069,34 @@ usage. It is sometimes used in a construction referred to as a
 emphasize or intensify actions. It is often translated into English with
 the adverb "surely." It is also sometimes used as a form of command or
 to express an action occurring simultaneously with the main verb.
+//}}}
 
 Forms of the verb with energetic waw
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+//{{{
 Many Hebrew verb forms take on a different meaning with various forms of
 the waw conjunction.
 
 This concludes the basic study of the strong verb.  If you master these
 forms, the remaining verb forms fall quite logically into place.
+//}}} }}}
 
 Weak Verbs
 ~~~~~~~~~~
+//{{{
 Hebrew Irregular verbs, called 'weak verbs', are very common in Hebrew.
 However, unlike most languages, there behavior is quite predicable and
 systematic.  If one learns the rules, parsing irregular verbs is not
 difficult, though there is admittedly a fair number of rules that must
 be grasped.
 
-.The Naming of Weak Verbs
+The Naming of Weak Verbs
+^^^^^^^^^^^^^^^^^^^^^^^^
+// {{{
 
+// }}}
+
+//{{{
 .נָתַן - Qal
 |===
 |    |3ms|1cs |1cp |3cp
@@ -1071,8 +1123,11 @@ be grasped.
 |root    |סדר  |שׁפר  |זקן  |צרף  
 |hitpa'el|הִסְתַּדֵּ֫ר|הִשְׁתַּפֵּ֫ר|הִזְדַּקֵּ֫ן|הִצְטָ֫רֵף
 |===
+//}}}
 
-.פ"ן
+פ"ן - synopsis
+++++++++++++++
+// {{{
 [width="50%",options="header",cols="^s,^,^,^,^"]
 |===
 |    |qal|nif.|hif.|hof.
@@ -1096,8 +1151,11 @@ letter. In some cases, the qal infinitive construct and imperative will
 also be irregular without any prefix to blame. Suffixes on all forms are
 completely unaffected, though there is a tav suffix added to the end of
 those infinitive constructs which are irregular.
+// }}}
 
-.פ"י (aka פ"ו)
+פ"י (aka פ"ו)
+++++++++++++++
+// {{{
 [width="50%",options="header",cols="^s,^,^,^,^"]
 |===
 |    |qal|nif.|hif. |hof.
@@ -1119,7 +1177,11 @@ some point, all of the waws at the beginnings of words turned into yôḏ.
 Nonetheless, in places where the it was not the first letter of a word,
 the waw remained in most cases, though it generally partially
 assimilates to the preceding vowel (usually resulting in û and ô).
+// }}}
 
+ע"ו/ע"י
++++++++
+// {{{
 .ע"ו qatal
 [options="header"]
 |===
@@ -1163,7 +1225,11 @@ s|Inf.Con.|ק֫וּם |הִקּ֫וֹם  |קוֹמֵ֫ם  |     |הִתְקוֹמֵ�
 s|Inf.Abs.|ק֫וֹם |הִקּ֫וֹם ^|?     |     |הִתְקוֹמֵ֫ם  |הָקֵ֫ם   |  
 s|Juss.   |יָקֹ֫ם |יִקּ֫וֹם  |יְקוֹמֵ֫ם |יְקוֹמַ֫ם|יִתְקוֹמֵ֫ם  |יָקֵ֫ם   |
 |===
+// }}}
 
+ל"י/ל"ה
++++++++
+// {{{
 .ל"י/ל"ה qatal
 [options="header"]
 |===
@@ -1218,3 +1284,4 @@ s|Inf.Con.|בְּנ֫וֹת |הִקָּטֵ֫ל  |קַטֵּ֫ל  |     |הִתְ
 s|Inf.Abs.|בָּנֹ֫ה  |הִקָּטֹ֫ל  |קַטֵּ֫ל  |קֻטֹּ֫ל  |הִתְקַטֵּ֫ל   |הַקְטֵ֫ל  |הָקְטֵ֫ל  
 s|Juss.   |יִ֫בֶן  |יִקָּטֵ֫ל  |יְקַטֵּ֫ל |יְקֻטַּ֫ל |יִתְקַטֵּ֫ל   |יַקְטֵ֫ל  |יָקְטַ֫ל  
 |===
+// }}}

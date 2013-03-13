@@ -1,4 +1,4 @@
-// vim: syntax=asciidoc
+// vim: filetype=asciidoc
 Writing System
 --------------
 Write each of the letters twenty times.  As you write the letter, repeat
@@ -616,7 +616,7 @@ Word List
 * נְשָׁמָה - breath, soul (f)
 * עָבַד – to work, serve, participate in ritual worship.
 * עָלָה - to go up
-* עָפָר - dirt, dust, mud (m)
+* עָפָר - dirt, dust, mud (m)xba
 * עֵשֶׂב - herbage, weed (m)
 * עָשָׂה - to do, make
 * פָּנִ֫ים - face, front, surface (fp)
@@ -626,3 +626,50 @@ Word List
 * שָׁמַ֫יִם – sky, heaven (mp)
 * שָׁקָה - hif'il only: to water
 * תּוֹלְדֹת - history, generation (fp)
+
+Parsing Weak Verbs
+~~~~~~~~~~~~~~~~~~
+Please provide the root, person, gender, number, tense and a possible
+translation for each verb form. Some verbs may not be weak, but most
+are, like the Bible. For this excersise, you will need to look up
+definitions in your dictionary.
+
+. הָיְתָ֥ה
+. וַיֹּ֥אמֶר
+. מַבְדִּ֔יל
+. וְתֵרָאֶ֖ה
+. עֹ֤שֶׂה
+. לְהָאִ֖יר
+. וַיִּתֵּ֥ן
+. וַיִּטַּ֞ע
+. אֶֽעֱשֶׂה
+. נֹאכֵֽל
+. תֹֽאכְלוּ֙
+. מ֖וֹת
+. וַתִּפָּקַ֙חְנָה֙
+. וַיִּתְחַבֵּ֨א
+. וַֽיִּתְפְּרוּ֙
+. מִתְהַלֵּ֥ךְ
+. וָאִירָ֛א
+. הִגִּ֣יד
+. צִוִּיתִ֛יךָ
+. עָשִׂ֑ית
+. לֻקָּ֑חְתָּ
+. לָדַ֖עַת
+. וַתַּ֙הַר֙ 
+. וַתֵּ֣לֶד
+. קָנִ֥יתִי
+. וַתּוֹצֵ֨א
+. וַיַּ֧רְא
+. וִיהִ֣י
+. יֹדְעֵ֖י
+. וַתֵּ֣רֶא
+
+Read Some Bible Mang!
+~~~~~~~~~~~~~~~~~~~~~
+// {{{
+. וְהָאָ֗רֶץ הָיְתָ֥ה תֹ֙הוּ֙ וָבֹ֔הוּ וְחֹ֖שֶׁךְ עַל־פְּנֵ֣י תְה֑וֹם וְר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת עַל־פְּנֵ֥י הַמָּֽיִם׃
+. וַיֹּ֥אמֶר אֱלֹהִ֖ים יְהִ֣י א֑וֹר וַֽיְהִי־אֽוֹר׃
+. וַיַּ֧רְא אֱלֹהִ֛ים אֶת־הָא֖וֹר כִּי־ט֑וֹב וַיַּבְדֵּ֣ל אֱלֹהִ֔ים בֵּ֥ין הָא֖וֹר וּבֵ֥ין הַחֹֽשֶׁךְ׃
+. וַיִּקְרָ֨א אֱלֹהִ֤ים ׀ לָאוֹר֙ י֔וֹם וְלַחֹ֖שֶׁךְ קָ֣רָא לָ֑יְלָה וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם אֶחָֽד׃
+// }}}
