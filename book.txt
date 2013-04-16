@@ -93,29 +93,29 @@ Aleph-Bet
 [width="60%",options="header",cols="^,^,^,^,^"]
 |===
 |Sign|Pronounciation|Transliteration|Name Transliterated|Numeric Value
-|א   |glottal stop*|ʾ |ʾālef| 1
-|ב   |"b" or "v"   |b |bêṯ  | 2
-|ג   |"g" in gold  |g |gîmel| 3
-|ד   |"d"          |d |daleṯ| 4
-|ה   |"h"          |h |heʾ  | 5
-|ו   |"v"          |w |waw  | 6
-|ז   |"z"          |z |zayin| 7
-|ח   |"ch" in loch |ḥ |ḥeṯ  | 8
-|ט   |"t"          |ṭ |ṭeṯ  | 9
-|י   |"y" in yawn  |y |yôḏ  | 10
-|ך ,כ|"k" or as ח  |k |kaf  | 20
-| ל  |"l"          |l |lāmeḏ| 30
-|ם ,מ|"m"          |m |mēm  | 40
-|ן ,נ|"n"          |n |nûn  | 50
-|ס   |"s" in sack  |s |sāmeḵ| 60
-|ע   |glottal stop*|ʿ |ʿayin| 70
-|ף ,פ|"p" or "f"   |p |pê   | 80
-|ץ ,צ|"ts"         |ṣ |ṣāḏî | 90
-|ק   |"k"          |q |qôf  | 100
-|ר   |"r" (rolled) |r |rêš  | 200
-|שׂ   |"s"          |ś |śin  |  - 
-|שׁ   |"sh" in ship |š |šin  | 300
-|ת   |"t"          |t |taw  | 400
+|א   |glottal stop* |ʾ              |ʾālef              | 1
+|ב   |"b" or "v"    |b              |bêṯ                | 2
+|ג   |"g" in gold   |g              |gîmel              | 3
+|ד   |"d"           |d              |daleṯ              | 4
+|ה   |"h"           |h              |heʾ                | 5
+|ו   |"v"           |w              |waw                | 6
+|ז   |"z"           |z              |zayin              | 7
+|ח   |"ch" in loch  |ḥ              |ḥeṯ                | 8
+|ט   |"t"           |ṭ              |ṭeṯ                | 9
+|י   |"y" in yawn   |y              |yôḏ                | 10
+|ך ,כ|"k" or as ח   |k              |kaf                | 20
+| ל  |"l"           |l              |lāmeḏ              | 30
+|ם ,מ|"m"           |m              |mēm                | 40
+|ן ,נ|"n"           |n              |nûn                | 50
+|ס   |"s" in sack   |s              |sāmeḵ              | 60
+|ע   |glottal stop* |ʿ              |ʿayin              | 70
+|ף ,פ|"p" or "f"    |p              |pê                 | 80
+|ץ ,צ|"ts"          |ṣ              |ṣāḏî               | 90
+|ק   |"k"           |q              |qôf                | 100
+|ר   |"r" (rolled)  |r              |rêš                | 200
+|שׂ   |"s"           |ś              |śin                |  - 
+|שׁ   |"sh" in ship  |š              |šin                | 300
+|ת   |"t"           |t              |taw                | 400
 |===
 [small]#*A glottal stop is consonant in the middle of the word "uh-oh"
 where the throat briefly stops the flow of air.#
@@ -130,6 +130,9 @@ letters were pronounced in biblical times, but we know that some were
 pronounced differently, and some are still pronounced differently
 today in various Jewish traditions.
 
+All of these letters are consonants. *A consonant is a complete or
+partial stopping of breath with the parts of the mouth or throat.*
+
 'Transliteration' is the system used to represent non-Latin based
 writing systems with the Latin letters. This book follows the
 transliteration standard used in SBL publications with a few minor
@@ -141,18 +144,19 @@ in the past and are still others today.  Furthermore, transliteration
 done today in Israel and by most modern Jews is quite different,
 focusing on the actual pronunciation of the word, rather than its form
 in Hebrew.  It is generally based on a mishmash of German, English, and
-Spanish phonetics.  In the case of Grammatical terms taken from Hebrew,
+Spanish phonetics.  In the case of grammatical terms taken from Hebrew,
 used in English sentences, this book will generally use conventional
 spellings rather than precise transliteration.
 
 Each of the names are given with their transliteration according to our
 system. Some are pronounced as would be expected, but perhaps some
 require notes:
-. The ʾ and ʿ of א and ע require no special pronunciation at the
-beginning and end of words.
-. Though transliterated 'w', the sound of ו is that of English "v", and
+* The ʾ and ʿ of א and ע require no special pronunciation at the
+beginning of words. Words that begin with vowels in English open with an
+unwritten glottal stop which is generally not perceived by its speakers.
+* Though transliterated 'w', the sound of ו is that of English "v", and
 thus the name is pronounced 'vāv' rather than "Wow!"
-. Today in Israel, the names of the letters י and ק are almost 
+* Today in Israel, the names of the letters י and ק are almost
 universally pronounces as "yūd" and "qūf", despite their proper spelling
 being 'yôd' and 'qôf'.
 
@@ -167,23 +171,68 @@ Mater Lectiones
 ^^^^^^^^^^^^^^^
 // {{{
 While there are no vowels given here, three of these characters may be
-used to indicate long vowels, and when they do, they loose their
-function as consonants.
+used to indicate long vowels, and when they do, 'they loose their
+function as consonants'.
 
 * 'waw', ו, sometimes indicates an *û* or an *ô* vowel.
 * 'yôḏ', י, sometimes indicates an *î* or an *ê* vowel.
 * 'heʾ', ה, is only used to mark vowels at the end of words.  It most 
 often indicates an *â* vowel, sometimes an *ê* vowel, and very rarely 
 an *ô* vowel.  In fact, a ה at the end of a word only signifies a
-consonate if it has a dot in the middle.  This dot is called a 'mappiq'.
+consonant if it has a dot in the middle.  This dot is called a 'mappiq'.
 
 When one of these consonants is used to represent a vowel, it is called
 a 'mater lectiones' (latin; Hebrew is 'ʾem qərîʾâ'. both mean "mother 
 of reading").  They will almost always appear when a vowel ends a word,
-quite often to mark a medial ī or ū. Usage with medial ē or ō is
-unpredicatble.  When long medial vowels are marked, it is called a
+and quite often to mark a medial ī or ū. Usage with medial ē or ō is
+unpredictable.  When long medial vowels are marked, it is called a
 'plene' spelling (Latin for "full").
-//  }}} }}}
+//  }}}
+Gutturals
+^^^^^^^^^
+// {{{
+Gutturals are a special class of vowels which are pronounced in various
+parts of the throat. The Hebrew gutturals are ח, ה, א, and ע. The letter
+ר, while not technically a guttural in linguistic terms, shares an
+important feature with the gutturals: It cannot be doubled. This will be
+discussed more fully in the section on the Masoretic pointing, as well
+as several other unique features.
+
+* 'ʾālef', א, is a sound familiar to English speakers, though it is never
+written. It is the sound of the back of the throat (glottis opening at
+the beginning of a word that starts with a vowel. It is also the sound
+found between the *uh* and the *oh* of the common expression of dismay,
+"uh-oh."
+
+* 'heʾ', ה, is the same as the English letter h. It is a partial opening
+of the glottis so the air creates a rough sound as it passes.
+
+* 'ḥet', ח, can be rather difficult for English speakers. In most Middle
+Easter traditions of pronunciation, it is a voiceless pharyngeal
+fricative, meaning there is a tightening at the back of the throat and
+air is pushed through without vibrating the vocal chords. This is
+similar to the sound one makes when imitating the panting of a dog. In
+European traditions, it is usually pronounced as a voiceless epigottal
+trill. This is similar to the sound one makes when clearing mucus from
+the throat before spitting. This latter sound is more common in Israel
+today, though the former is more common in formal media such as news
+reports. English speakers with difficulty pronouncing either of these
+sounds will be understood if they pronounce it as the 'ch' in the
+Scottish word 'loch' or the name of the German composer, 'Bach'. It will
+not be understood if pronounces as 'ch' in 'change', like 'k', or like
+'h'. This will be a struggle for some.
+
+* 'ʿayin', ע, has two pronunciations as well. Middle Eastern traditions
+will pronounce it similarly to the first pronunciation of ח but will
+vibrate the vocal chords, so it is a voiced pharyngeal fricative. There
+is no clear way to describe this sound, but some English speakers make
+it when imitating the pirate battle cry, "arr!" with a pinched feeling
+in the throat. Luckily, this sound is not used in European traditions of
+pronunciation, and is less common in modern Israeli Hebrew, though
+again, it is favored for formal media. Most speakers today simply
+pronounce it as a glottal stop, similar to ʾālef.
+// }}}
+// }}}
 
 Masoretic pointing
 ~~~~~~~~~~~~~~~~~~
@@ -192,19 +241,20 @@ The letters listed above, with no vowels, are all that were written in
 ancient Hebrew manuscripts.  However, at some point around 700 or 800
 CE, Jewish Bible scholars began inventing systems to record the vowels
 and other details of pronunciation without disrupting the consonantal
-text.  These are referred to as 'niqqud' (נִקֻּד; lit. "pointing") Though the 
-writing of the vowels is very late relative to the writing of the text, 
-we have good evidence that the tradition preserves the way the text was 
-being read at a much earlier time.  There are times when it is 
+text. These are referred to as 'niqqud' (נִקֻּד; lit. "pointing"). Though
+the writing of the vowels is very late relative to the writing of the
+text, we have good evidence that the tradition preserves the way the
+text was being read at a much earlier time.  There are times when it is
 appropriate to question the vowel points, but this should be only be
-done when one reaches a mastery of the grammar to the point that they can 
-read and understand most Biblical Hebrew prose and poetry independently.
+done when one reaches a mastery of the grammar to the point that they
+can read and understand most Biblical Hebrew prose and poetry
+independently.
 
 The writing system for the vowel points we have to day is based on the 
-Tiberian tradition of reading.  However, the system of pronunciation 
+Tiberian tradition of reading. However, the system of pronunciation 
 Modern Hebrew is based on the Sephardic tradition of pronunciation, so 
 there are sometimes discrepancies between what we see, and what 
-we say.  Don't panic.
+we say. Don't panic.
 
 BeGeD KeFeT (and 'Dagesh Qal')
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -990,9 +1040,9 @@ s|3ms |יִקְטֹ֫ל  |יִקָּטֵ֫ל  |יְקַטֵּ֫ל  |יְקֻטּ
 s|3fs |תִּקְטֹ֫ל  |תִּקָּטֵ֫ל  |תְּקַטֵּ֫ל  |תְּקֻטַּ֫ל  |תִּתְקַטֵּ֫ל   |תַּקְטִ֫יל  |תָּקְטַ֫ל
 s|1cp |נִקְטֹ֫ל  |נִקָּטֵ֫ל  |נְקַטֵּ֫ל  |נְקֻטַּ֫ל  |נִתְקַטֵּ֫ל   |נַקְטִ֫יל  |נָקְטַ֫ל
 s|2mp |תִּקְטְל֫וּ |תִּקָּ֣טְל֫וּ |תְּקַטְּל֫וּ |תְּקֻטְּל֫וּ |תִּתְקַטְּל֫וּ  |תַּקְטִ֫ילוּ |תָּקְטְל֫וּ
-s|2fp |תִּקְטֹ֫לְנָה|תִּקָּטֵ֫לְנָה|תְּקַטֵּ֫לְנָה|תְּקֻטַּ֫לְנָה|תִּתְקַטֵּ֫לנָה |תַּקְטִ֫ילְנָה|תָּקְטַ֫לְנָה
+s|2fp |תִּקְטֹ֫לְנָה|תִּקָּטֵ֫לְנָה|תְּקַטֵּ֫לְנָה|תְּקֻטַּ֫לְנָה|תִּתְקַטַּ֫לְנָה |תַּקְטֵּ֫לְנָה|תָּקְטַ֫לְנָה
 s|3mp |יִקְטְל֫וּ |יִקָּטְל֫וּ |יְקַטְּל֫וּ |יְקֻטְּל֫וּ |יִתְקַטְּל֫וּ  |יַקְטִ֫ילוּ |יָקְטְל֫וּ
-s|3fp |תִּקְטֹ֫לְנָה|תִּקָּטֵ֫לְנָה|תְּקַטֵּ֫לְנָה|תְּקֻטַּ֫לְנָה|תִּתְקַטֵּ֫לנָה |תַּקְטִ֫ילְנָה|תָּקְטַ֫לְנָה
+s|3fp |תִּקְטֹ֫לְנָה|תִּקָּטֵ֫לְנָה|תְּקַטֵּ֫לְנָה|תְּקֻטַּ֫לְנָה|תִּתְקַטַּ֫לְנָה |תַּקְטֵּ֫לְנָה|תָּקְטַ֫לְנָה
 |===
 
 The 'yiqṭol' is future tense in modern Hebrew.  In Biblical Hebrew, it
@@ -1132,18 +1182,33 @@ The Naming of Weak Verbs
 |===
 |    |qal|nif.|hif.|hof.
 |qat.|נָגַ֫שׁ|נִגַּ֫שׁ |הִגִּ֫ישׁ|הֻגַּ֫שׁ
-|par.|נֹגֵ֫שׁ|נִגָּ֫שׁ |מַגִּ֫ישׁ|מֻגָּ֫שׁ
 |yiq.|יִגֹּ֫שׁ|יִנָּגֵ֫שׁ|יַגִּ֫ישׁ|יֻגַּ֫שׁ
+|par.|נֹגֵ֫שׁ|נִגָּ֫שׁ |מַגִּ֫ישׁ|מֻגָּ֫שׁ
 |imp.|גַּ֫שׁ |הִנָּגֵ֫שׁ|הַגֵּ֫שׁ |הֻגַּ֫שׁ
 |inf.|גֶּ֫שֶׁת|הִנָּגֵ֫שׁ|הַגִּ֫ישׁ|הֻגַּ֫שׁ
 |===
 
+This is a synoptic table of פ"ן, meaning that it does not have all the
+forms. Pi'el, Pu'al, and Hitpa'el are completely unaffected by פ"ן, and
+therefore are not included. Furthermore, as suffixes are unaffected, all
+the various possible suffixes are omitted. The same may be said of
+prefixes that behave the same as those already listed (such as the
+yiqtol prefixes). The student must rely on their knowledge of the strong
+verb to fill in the unlisted forms. More complete lists may also be
+found in reference grammars such as 'Gesenius'.
+
+As we have already seen with נתן, the letter nun often 'assimilates' to
+any consonant that follows it directly, effectively meaning that the nun
+disappears and the following letter is doubled, that is, marked with a
+dagesh, with the exception of certain letters that cannot be doubled.
+
 In the פ"ן verbs, with the exception of some infinitive constructs, only
 forms with prefixes are affected, specifically those prefixes which
 cause the first letter of the root to stand directly beside the second
-with no intervening vowel.  This means that in the qatal and the
-participle, only the nif'al, hif'il, and hof'al forms are affected. Qal,
-pi'el pu'al and hitpa'el are completely unaffected. 
+with no intervening vowel (simply because this is where the weakness of
+the nun is manifest). This means that in the qatal and the participle,
+only the nif'al, hif'il, and hof'al forms are affected. Qal, pi'el pu'al
+and hitpa'el are completely unaffected. 
 
 In Yiqtol, however, the qal, hif'il and hof'al are affected, again
 because the form places the nun of the root directly next to the second
@@ -1151,6 +1216,14 @@ letter. In some cases, the qal infinitive construct and imperative will
 also be irregular without any prefix to blame. Suffixes on all forms are
 completely unaffected, though there is a tav suffix added to the end of
 those infinitive constructs which are irregular.
+
+Additional, in פ"ן, if the second letter of the root cannot take a dagesh
+(ie: it is א, ה, ח, ע, ר), The nun is is generally allowed to stand as a
+separate consonant without assimilating (contrary to the nun of the
+nif'al stem). The exception to this rule is in the verb נחם, where the
+nun of the root disappears in the nif'al qatal and nif'al participle.
+
+
 // }}}
 
 פ"י (aka פ"ו)
