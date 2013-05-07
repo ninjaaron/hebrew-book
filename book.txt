@@ -82,17 +82,20 @@ As the project matures, there may be a third volume, a reference grammar
 which gives a more in-depth explanation of historical development,
 dialectical features, and syntactical concerns.
 // }}} }}}
+
 Writing System
 --------------
 // {{{
+
 Aleph-Bet
 ~~~~~~~~~
 // {{{
+
 .Aleph-Bet
 // {{{
 [width="60%",options="header",cols="^,^,^,^,^,^"]
 |===
-|Sign|Pronounciation|Transliteration|Name|Name Transliterated|Numeric Value
+|Sign|Pronunciation|Transliteration|Name|Name Transliterated|Numeric Value
 |א   |glottal stop*|ʾ|אָלֶף |ʾālef|1
 |ב   |"b" or "v"   |b|בֵּית |bêṯ  |2
 |ג   |"g" in gold  |g|גִּימֶל|gîmel|3
@@ -122,13 +125,31 @@ where the throat briefly stops the flow of air.#
 // }}}
 
 These are the 22 letters of the Hebrew Alphabet with their basic sounds,
-transliterations and numeric values. The sounds given are those most
-commonly heard in Israeli Hebrew, which are based in the Sphardic
-(Iberian) tradition with some changes based on Ashkenazi (central and
-eastern European) pronunciations.  We do not know exactly how the
-letters were pronounced in biblical times, but we know that some were
-pronounced differently, and some are still pronounced differently
-today in various Jewish traditions.
+transliterations, names and numeric values.
+
+.Characters
+The characters normally used for Hebrew today have are a modernized form
+of the Assyrian block script which the Jewish people began using during
+the exile. Before the exile, characters more similar to the Phoenician
+alphabet were used, as can be seen in many First Temple period
+inscriptions. It should be remembered that, while we call it the Hebrew
+alphabet today, it was something that the Israelites appear to have
+adopted from another language (probably Aramaic), and it it is believed
+that several of the letters may have been used to represent more than
+one sound in Hebrew (the letters שׂ and שׁ are the most obvious proofs,
+but Greek transliterations give reason to believe that ע and possibly ח
+also had multiple values, even as late as the Hellenistic period. At
+earlier times, there may have been other letters with more than one
+value, but it is less certain. The relationship of the Hebrew alphabet
+to the proto-Semitic consonants is a more advanced topic to be covered
+later.
+
+The sounds given are those most commonly heard in Israeli Hebrew, which
+are based in the Sphardic (Iberian) tradition with some changes based on
+Ashkenazi (central and eastern European) pronunciations.  We do not know
+exactly how the letters were pronounced in biblical times, but we know
+that some were pronounced differently, and some are still pronounced
+differently today in various Jewish traditions.
 
 All of these letters are consonants. *A consonant is a complete or
 partial stopping of breath with the parts of the mouth or throat.*
