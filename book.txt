@@ -1,7 +1,7 @@
 An Open Introduction to Biblical Hebrew
-========================================
+=======================================
 // vim: filetype=asciidoc
-Copyright Aaron Christianson, 2012 
+Copyright Aaron Christianson, 2012
 Distributed under the Creative Commons Attribution-ShareAlike 3.0 licenced (CC-BY-SA 3.0)
 
 Introduction
@@ -90,32 +90,32 @@ Aleph-Bet
 // {{{
 .Aleph-Bet
 // {{{
-[width="60%",options="header",cols="^,^,^,^,^"]
+[width="60%",options="header",cols="^,^,^,^,^,^"]
 |===
-|Sign|Pronounciation|Transliteration|Name Transliterated|Numeric Value
-|א   |glottal stop* |ʾ              |ʾālef              | 1
-|ב   |"b" or "v"    |b              |bêṯ                | 2
-|ג   |"g" in gold   |g              |gîmel              | 3
-|ד   |"d"           |d              |daleṯ              | 4
-|ה   |"h"           |h              |heʾ                | 5
-|ו   |"v"           |w              |waw                | 6
-|ז   |"z"           |z              |zayin              | 7
-|ח   |"ch" in loch  |ḥ              |ḥeṯ                | 8
-|ט   |"t"           |ṭ              |ṭeṯ                | 9
-|י   |"y" in yawn   |y              |yôḏ                | 10
-|ך ,כ|"k" or as ח   |k              |kaf                | 20
-| ל  |"l"           |l              |lāmeḏ              | 30
-|ם ,מ|"m"           |m              |mēm                | 40
-|ן ,נ|"n"           |n              |nûn                | 50
-|ס   |"s" in sack   |s              |sāmeḵ              | 60
-|ע   |glottal stop* |ʿ              |ʿayin              | 70
-|ף ,פ|"p" or "f"    |p              |pê                 | 80
-|ץ ,צ|"ts"          |ṣ              |ṣāḏî               | 90
-|ק   |"k"           |q              |qôf                | 100
-|ר   |"r" (rolled)  |r              |rêš                | 200
-|שׂ   |"s"           |ś              |śin                |  - 
-|שׁ   |"sh" in ship  |š              |šin                | 300
-|ת   |"t"           |t              |taw                | 400
+|Sign|Pronounciation|Transliteration|Name|Name Transliterated|Numeric Value
+|א   |glottal stop*|ʾ|אָלֶף |ʾālef|1
+|ב   |"b" or "v"   |b|בֵּית |bêṯ  |2
+|ג   |"g" in gold  |g|גִּימֶל|gîmel|3
+|ד   |"d"          |d|דָּלֶת |dāleṯ|4
+|ה   |"h"          |h|הֵא  |hēʾ  |5
+|ו   |"v"          |w|וָו  |wāw  |6
+|ז   |"z"          |z|זַיִן |zayin|7
+|ח   |"ch" in loch |ḥ|חֵית |ḥêṯ  |8
+|ט   |"t"          |ṭ|טֵית |ṭêṯ  |9
+|י   |"y" in yawn  |y|יוֹד |yôḏ  |10
+|ך ,כ|"k" or as ח  |k|כַּף  |kaf  |20
+| ל  |"l"          |l|לָמֶד |lāmeḏ|30
+|ם ,מ|"m"          |m|מֵם  |mēm  |40
+|ן ,נ|"n"          |n|נוּן |nûn  |50
+|ס   |"s" in sack  |s|סָמֶך |sāmeḵ|60
+|ע   |glottal stop*|ʿ|עַיִן |ʿayin|70
+|ף ,פ|"p" or "f"   |p|פֵּא  |pēʾ  |80
+|ץ ,צ|"ts"         |ṣ|צָדִי |ṣāḏî |90
+|ק   |"k"          |q|קוֹף |qôf  |100
+|ר   |"r" (rolled) |r|רֵישׁ |rêš  |200
+|שׂ   |"s"          |ś|שִׂין |śîn  | -
+|שׁ   |"sh" in ship |š|שִׁין |šîn  |300
+|ת   |"t"          |t|תָּו  |tāw  |400
 |===
 [small]#*A glottal stop is consonant in the middle of the word "uh-oh"
 where the throat briefly stops the flow of air.#
@@ -136,7 +136,7 @@ partial stopping of breath with the parts of the mouth or throat.*
 'Transliteration' is the system used to represent non-Latin based
 writing systems with the Latin letters. This book follows the
 transliteration standard used in SBL publications with a few minor
-modifications where SBL leaves some ambiguity as to the original Hebrew. 
+modifications where SBL leaves some ambiguity as to the original Hebrew.
 The student will be told when the book departs from the SBL standard.
 While the SBL standard and minor variations thereon are probably the
 most common in academic literature today, there have been other systems
@@ -167,27 +167,6 @@ verse and chapter numbering.  'Note:' 15 and 16 are not written as
 יה and יו, as might be expected because they are considered to be too
 close to the divine name.  Instead, 15 is טו and 16 is טז.
 
-Mater Lectiones
-^^^^^^^^^^^^^^^
-// {{{
-While there are no vowels given here, three of these characters may be
-used to indicate long vowels, and when they do, 'they loose their
-function as consonants'.
-
-* 'waw', ו, sometimes indicates an *û* or an *ô* vowel.
-* 'yôḏ', י, sometimes indicates an *î* or an *ê* vowel.
-* 'heʾ', ה, is only used to mark vowels at the end of words.  It most 
-often indicates an *â* vowel, sometimes an *ê* vowel, and very rarely 
-an *ô* vowel.  In fact, a ה at the end of a word only signifies a
-consonant if it has a dot in the middle.  This dot is called a 'mappiq'.
-
-When one of these consonants is used to represent a vowel, it is called
-a 'mater lectiones' (latin; Hebrew is 'ʾem qərîʾâ'. both mean "mother 
-of reading").  They will almost always appear when a vowel ends a word,
-and quite often to mark a medial ī or ū. Usage with medial ē or ō is
-unpredictable.  When long medial vowels are marked, it is called a
-'plene' spelling (Latin for "full").
-//  }}}
 Gutturals
 ^^^^^^^^^
 // {{{
@@ -232,6 +211,28 @@ pronunciation, and is less common in modern Israeli Hebrew, though
 again, it is favored for formal media. Most speakers today simply
 pronounce it as a glottal stop, similar to ʾālef.
 // }}}
+
+Mater Lectiones
+^^^^^^^^^^^^^^^
+// {{{
+While there are no vowels given here, three of these characters may be
+used to indicate long vowels, and when they do, 'they loose their
+function as consonants'.
+
+* 'waw', ו, sometimes indicates an *û* or an *ô* vowel.
+* 'yôḏ', י, sometimes indicates an *î* or an *ê* vowel.
+* 'heʾ', ה, is only used to mark vowels at the end of words.  It most 
+often indicates an *â* vowel, sometimes an *ê* vowel, and very rarely 
+an *ô* vowel.  In fact, a ה at the end of a word only signifies a
+consonant if it has a dot in the middle.  This dot is called a 'mappiq'.
+
+When one of these consonants is used to represent a vowel, it is called
+a 'mater lectiones' (latin; Hebrew is 'ʾem qərîʾâ'. both mean "mother 
+of reading").  They will almost always appear when a vowel ends a word,
+and quite often to mark a medial ī or ū. Usage with medial ē or ō is
+unpredictable.  When long medial vowels are marked, it is called a
+'plene' spelling (Latin for "full").
+//  }}}
 // }}}
 
 Masoretic pointing
@@ -679,24 +680,24 @@ the ה disappears, but it's vowels remain, leaving us with the actual
 form לַמֶּלֶךְ.  The same is true for prepositions בְ and כְ.
 //  }}}
 
-Pronominal Suffixes 
+Pronominal Suffixes
 ~~~~~~~~~~~~~~~~~~~
 //{{{
 In Biblical Hebrew, independant pronouns are not especially common.
 Instead, they are more often added to the ends other words with various
-uses.    Many of the suffixes have more rare varient forms found in 
-poetry or other places with non-Judahite dialectical influence.  These 
-forms are not given here for the sake of simplicity. The goal for the
-student should not be to memorize all the subtle variations in the
-suffixes with different words, but to begin to recognise overall
-patterns in the suffixes.
+uses. Many of the suffixes have more rare varient forms found in poetry
+or other places with non-Judahite dialectical influence.  These forms
+are not given here for the sake of simplicity. The goal for the student
+should not be to memorize all the subtle variations in the suffixes with
+different words, but to begin to recognise overall patterns in the
+suffixes.
 
 Pronominal suffixes on nouns have a posessive meaning.
 
 .Pronominal Suffixes with Singular Nouns
 [width="40%",options="header"]
 |===
-|   |singular| plural 
+|   |singular| plural
 s|1c|ביתִ֫י    |ביתֵ֫נוּ
 s|2m|ביתךָ֫    |ביתְכֶ֫ם
 s|2f|ביתֵ֫ךְ    |ביתְכֶ֫ן
@@ -720,7 +721,7 @@ Pronominal suffixes are also added to prepositions:
 .Pronominal Suffixes with prepositions ב and ל.
 [width="40%",options="header"]
 |===
-|   |singular|plural 
+|   |singular|plural
 s|1c|בִּי      |בָּנוּ
 s|2m|בְּךָ      |בָּכֶם
 s|2f|בָּךְ      |בָּכֶן
@@ -733,7 +734,7 @@ Preposition כ has an irregular suffixed form:
 .Pronominal Suffixes with preposition כ (כָּמוֹ)
 [width="40%",options="header"]
 |===
-|   |singular|plural 
+|   |singular|plural
 s|1c|כָּמוֹני   |כָּמוֹנוּ
 s|2m|כָּמוֹךָ    |כָּכֶם
 s|2f|  ?     |כָּכֶן
@@ -763,8 +764,8 @@ The preposition has an irregular form before pronouns:
 .Pronominal suffixes with מִן
 [width="40%",options="header"]
 |===
-|   |singular| plural 
-s|1c|מִמֶּנּי    |מִמֶּנּוּ 
+|   |singular| plural
+s|1c|מִמֶּנּי    |מִמֶּנּוּ
 s|2m|מִמְּךָ     |מִכֶּם
 s|2f|מִמָּךְ     |מִכֶּן
 s|3m|מִמֶּנּוּ    |מֵהֶם
@@ -782,14 +783,15 @@ When used with pronouns, it undergoes certain changes.
 .Pronominal suffixes with אֶת
 [width="40%",options="header"]
 |===
-|   |singular|plural 
+|   |singular|plural
 s|1c|אֹתִי     |אֹתָנוּ
 s|2m|אֹתְךָ     |אֶתְכֶם
 s|2f|אֹתָךְ     |אֶתְכֶן
 s|3m|אֹתוֹ     |אֹתָם
 s|3f|אֹתָהּ     |אֹתָן
 |===
-// }}} }}}
+// }}}
+// }}}
 
 Verbs
 -----
