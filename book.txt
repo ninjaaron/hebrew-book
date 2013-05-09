@@ -165,33 +165,45 @@ systems of vowels were not created until medieval times, one of which is
 still used in printed Bibles today. It is discussed in the section
 entitled Masoretic Pointing.
 
+.Transliteration
 'Transliteration' is the system used to represent non-Latin based
 writing systems with the Latin letters. This book follows the
 transliteration standard used in SBL publications with a few minor
-modifications where SBL leaves some ambiguity as to the original Hebrew.
-The student will be told when the book departs from the SBL standard.
-While the SBL standard and minor variations thereon are probably the
-most common in academic literature today, there have been other systems
-in the past and are still others today. Furthermore, transliteration
-done today in Israel and by most modern Jews is quite different,
-focusing on the actual pronunciation of the word, rather than its form
-in Hebrew. It is generally based on a mishmash of German, English, and
-Spanish phonetics. In the case of grammatical terms taken from Hebrew,
-used in English sentences, this book will generally use conventional
-spellings rather than precise transliteration.
+modifications where SBL leaves some ambiguity. The student will be told
+when the book departs from the SBL standard. While the SBL standard and
+minor variations thereon are probably the most common in academic
+literature today, there have been other systems in the past and are
+still others today. Furthermore, transliteration done today in Israel
+and by most modern Jews is quite different, focusing on the actual
+pronunciation of the word, rather than its form in Hebrew. It is
+generally based on a mishmash of German, English, and Spanish phonetics.
+In the case of grammatical terms taken from Hebrew, used in English
+sentences, this book will generally use conventional spellings rather
+than precise transliteration.
 
-Each of the names are given with their transliteration according to our
-system. Some are pronounced as would be expected, but perhaps some
-require notes:
-* Though transliterated 'w', the sound of ו is that of English "v", and
-thus the name is pronounced 'vāv' rather than "Wow!"
+Notice that, though transliterated 'w', the sound of ו is that of
+English "v", and thus the name is pronounced 'vāv' rather than "Wow!"
+This is because it was pronounced as 'w' in earlier periods, as it still
+is today in most Middle Eastern traditions of reading.
 
+.Names
+The names of the Hebrew characters have meanings in Aramaic, usually the
+name of the thing of which the character was originally a pictogram,
+though the characters we use today have little resemblance to the things
+for which they were named.
+
+.Numeric values
 The numeric values of the letters are post-biblical, and need not be
 learned by students of Biblical Hebrew. However, they are used very
 often in Jewish writings, in Israel, and some Hebrew Bibles use them for
 verse and chapter numbering. 'Note:' 15 and 16 are not written as
 יה and יו, as might be expected because they are considered to be too
 close to the divine name. Instead, 15 is טו and 16 is טז.
+
+_Students wishing for further information on the history and minutia
+of the alphabet will be well served by the Wikipedia articles on the
+https://en.wikipedia.org/wiki/Hebrew_alphabet[Hebrew Alphabet] and the
+https://en.wikipedia.org/wiki/Phoenician_alphabet[Phoenician Alphabet]._
 
 Gutturals
 ^^^^^^^^^
@@ -244,9 +256,9 @@ not become silent at the end of a syllable.
 Mater Lectiones
 ^^^^^^^^^^^^^^^
 // {{{
-While there are no vowels given here, three of these characters may be
-used to indicate long vowels, and when they do, 'they loose their
-function as consonants'.
+While there are no vowels in the Hebrew Alphabet, three of these
+characters may be used to indicate long vowels, and when they do, 'they
+loose their function as consonants'.
 
 * 'waw', ו, sometimes indicates an *û* or an *ô* vowel.
 * 'yôḏ', י, sometimes indicates an *î* or an *ê* vowel.
