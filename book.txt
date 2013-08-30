@@ -9,28 +9,28 @@ Introduction
 // {{{
 The first and foremost goal of this textbook is much the same as any
 other first year Hebrew textbook; to teach beginning students the Hebrew
-writing system, morphology, and basic syntactical concepts, as well as 
+writing system, morphology, and basic syntactical concepts, as well as
 develop a core vocabulary. One slight difference from the usual approach
-will be a slightly greater emphasis on composition in the exercises.  
-This will, no doubt be a controversial move to some.  It is not intended 
-to  provide the student with the illusion that they are actually able to 
-compose Biblical Hebrew (and it falls to the instructor to remind 
-students of the problems entailed therein), but simply to reinforce the 
-paradigms and vocabulary in a more interactive and engaging way.  Those 
-who feel that composition exercises are too problematic or dangerous are 
-free to omit or replace them.  In addition, the grammatical explanations 
-will give sidebar notes about Modern Hebrew usage and spellings for 
-students who are interested.  
+will be a slightly greater emphasis on composition in the exercises.
+This will, no doubt be a controversial move to some.  It is not intended
+to  provide the student with the illusion that they are actually able to
+compose Biblical Hebrew (and it falls to the instructor to remind
+students of the problems entailed therein), but simply to reinforce the
+paradigms and vocabulary in a more interactive and engaging way.  Those
+who feel that composition exercises are too problematic or dangerous are
+free to omit or replace them.  In addition, the grammatical explanations
+will give sidebar notes about Modern Hebrew usage and spellings for
+students who are interested.
 // I haven't actually made composition exercises. I should either make
 // them or change the above paragraph.
 
-While this course is not designed to teach modern Hebrew, the author 
-recognizes that many students of Biblical Hebrew today are also 
-interested in modern Judaism and the State of Israel, and this 
-information is provided to ease the transition for any wishing to study 
-the modern language, as well as to highlight the important differences 
-between the two periods of the language, to help the student with some 
-knowledge of modern Hebrew avoid common pitfalls when dealing with the 
+While this course is not designed to teach modern Hebrew, the author
+recognizes that many students of Biblical Hebrew today are also
+interested in modern Judaism and the State of Israel, and this
+information is provided to ease the transition for any wishing to study
+the modern language, as well as to highlight the important differences
+between the two periods of the language, to help the student with some
+knowledge of modern Hebrew avoid common pitfalls when dealing with the
 biblical text.
 
 However, the primary difference between this and other text books is not
@@ -135,18 +135,11 @@ alphabet were used, as can be seen in many First Temple period
 inscriptions, characters believed to be based on Egyptian hieroglyphs.
 It should be remembered that, while we call it the Hebrew alphabet
 today, it was something that the Israelites appear to have adopted from
-another language (probably Aramaic), and it it is believed that several
-of the letters may have been used to represent more than one sound in
-Hebrew (the letters שׂ and שׁ are the most obvious proofs, but Greek
-transliterations give reason to believe that ע and possibly ח also had
-multiple values, even as late as the Hellenistic period. At earlier
-times, there may have been other letters with more than one value, but
-it is less certain). The relationship of the Hebrew alphabet to the
-proto-Semitic consonants is a more advanced topic to be covered later.
+another language (probably Aramaic).
 
 .Sounds
 The sounds given are those most commonly heard in Israeli Hebrew, which
-are based in the Sphardic (Iberian) tradition with some changes based on
+are based in the Sephardic (Iberian) tradition with some changes based on
 Ashkenazi (central and eastern European) pronunciations. We do not know
 exactly how the letters were pronounced in biblical times, but we know
 that some were pronounced differently, and some are still pronounced
@@ -166,7 +159,7 @@ still used in printed Bibles today. It is discussed in the section
 entitled Masoretic Pointing.
 
 .Transliteration
-'Transliteration' is the system used to represent non-Latin based
+_Transliteration_ is the system used to represent non-Latin based
 writing systems with the Latin letters. This book follows the
 transliteration standard used in SBL publications with a few minor
 modifications where SBL leaves some ambiguity. The student will be told
@@ -181,9 +174,9 @@ In the case of grammatical terms taken from Hebrew, used in English
 sentences, this book will generally use conventional spellings rather
 than precise transliteration.
 
-Notice that, though transliterated 'w', the sound of ו is that of
-English "v", and thus the name is pronounced 'vāv' rather than "Wow!"
-This is because it was pronounced as 'w' in earlier periods, as it still
+Notice that, though transliterated _w_, the sound of ו is that of
+English "v", and thus the name is pronounced _vāv_ rather than "Wow!"
+This is because it was pronounced as _w_ in earlier periods, as it still
 is today in most Middle Eastern traditions of reading.
 
 .Names
@@ -196,7 +189,7 @@ for which they were named.
 The numeric values of the letters are post-biblical, and need not be
 learned by students of Biblical Hebrew. However, they are used very
 often in Jewish writings, in Israel, and some Hebrew Bibles use them for
-verse and chapter numbering. 'Note:' 15 and 16 are not written as
+verse and chapter numbering. _Note:_ 15 and 16 are not written as
 יה and יו, as might be expected because they are considered to be too
 close to the divine name. Instead, 15 is טו and 16 is טז.
 
@@ -215,7 +208,7 @@ important feature with the gutturals: It cannot be doubled. This will be
 discussed more fully in the section on the Masoretic pointing, as well
 as several other unique features.
 
-* 'ʾālef', א, is a sound familiar to English speakers, though it is never
+* _ʾālef_, א, is a sound familiar to English speakers, though it is never
 written. It is the sound of the back of the throat (glottis opening at
 the beginning of a word that starts with a vowel. It is also the sound
 found between the *uh* and the *oh* of the common expression of dismay,
@@ -223,10 +216,10 @@ found between the *uh* and the *oh* of the common expression of dismay,
 it is not followed by a vowel). This causes the preceding vowel to
 lengthen in most cases and many have other strange effects.
 
-* 'heʾ', ה, is the same as the English letter h. It is a partial opening
+* _heʾ_, ה, is the same as the English letter h. It is a partial opening
 of the glottis so the air creates a rough sound as it passes.
 
-* 'ḥet', ח, can be rather difficult for English speakers. In most Middle
+* _ḥet_, ח, can be rather difficult for English speakers. In most Middle
 Easter traditions of pronunciation, it is a voiceless pharyngeal
 fricative, meaning there is a tightening at the back of the throat and
 air is pushed through without vibrating the vocal chords. This is
@@ -236,12 +229,12 @@ trill. This is similar to the sound one makes when clearing mucus from
 the throat before spitting. This latter sound is more common in Israel
 today, though the former is more common in formal media such as news
 reports. English speakers with difficulty pronouncing either of these
-sounds will be understood if they pronounce it as the 'ch' in the
-Scottish word 'loch' or the name of the German composer, 'Bach'. It will
-not be understood if pronounces as 'ch' in 'change', like 'k', or like
-'h'. This will be a struggle for some.
+sounds will be understood if they pronounce it as the _ch_ in the
+Scottish word _loch_ or the name of the German composer, _Bach_. It will
+not be understood if pronounces as _ch_ in _change_, like _k_, or like
+_h_. This will be a struggle for some.
 
-* 'ʿayin', ע, has two pronunciations as well. Middle Eastern traditions
+* _ʿayin_, ע, has two pronunciations as well. Middle Eastern traditions
 will pronounce it similarly to the first pronunciation of ח but will
 vibrate the vocal chords, so it is a voiced pharyngeal fricative. There
 is no clear way to describe this sound, but some English speakers make
@@ -257,22 +250,22 @@ Mater Lectiones
 ^^^^^^^^^^^^^^^
 // {{{
 While there are no vowels in the Hebrew Alphabet, three of these
-characters may be used to indicate long vowels, and when they do, 'they
-loose their function as consonants'.
+characters may be used to indicate long vowels, and when they do, _they
+loose their function as consonants_.
 
-* 'waw', ו, sometimes indicates an *û* or an *ô* vowel.
-* 'yôḏ', י, sometimes indicates an *î* or an *ê* vowel.
-* 'heʾ', ה, is only used to mark vowels at the end of words.  It most 
+* _waw_, ו, sometimes indicates an *û* or an *ô* vowel.
+* _yôḏ_, י, sometimes indicates an *î* or an *ê* vowel.
+* _heʾ_, ה, is only used to mark vowels at the end of words.  It most 
 often indicates an *â* vowel, sometimes an *ê* vowel, and very rarely 
 an *ô* vowel.  In fact, a ה at the end of a word only signifies a
-consonant if it has a dot in the middle.  This dot is called a 'mappiq'.
+consonant if it has a dot in the middle.  This dot is called a _mappiq_.
 
 When one of these consonants is used to represent a vowel, it is called
-a 'mater lectiones' (latin; Hebrew is 'ʾem qərîʾâ'. both mean "mother 
+a _mater lectiones_ (latin; Hebrew is _ʾem qərîʾâ_. both mean "mother 
 of reading").  They will almost always appear when a vowel ends a word,
 and quite often to mark a medial ī or ū. Usage with medial ē or ō is
 unpredictable.  When long medial vowels are marked, it is called a
-'plene' spelling (Latin for "full").
+_plene_ spelling (Latin for "full").
 //  }}}
 // }}}
 
@@ -283,7 +276,7 @@ The letters listed above, with no vowels, are all that were written in
 ancient Hebrew manuscripts.  However, at some point around 700 or 800
 CE, Jewish Bible scholars began inventing systems to record the vowels
 and other details of pronunciation without disrupting the consonantal
-text. These are referred to as 'niqqud' (נִקֻּד; lit. "pointing"). Though
+text. These are referred to as _niqqud_ (נִקֻּד; lit. "pointing"). Though
 the writing of the vowels is very late relative to the writing of the
 text, we have good evidence that the tradition preserves the way the
 text was being read at a much earlier time.  There are times when it is
@@ -298,12 +291,12 @@ Modern Hebrew is based on the Sephardic tradition of pronunciation, so
 there are sometimes discrepancies between what we see, and what 
 we say. Don't panic.
 
-BeGeD KeFeT (and 'Dagesh Qal')
+BeGeD KeFeT (and _Dagesh Qal_)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 // {{{
 Six of these letters may be pronounced as hard or soft.  Hard
 pronunciation is indicated by the addition of a dot in the middle of the
-letter, called a 'dagesh' (דָּגֵשׁ; lit. "emphasis").  SBL transliteration
+letter, called a _dagesh_ (דָּגֵשׁ; lit. "emphasis").  SBL transliteration
 does not differentiate between these letters because they are not
 independent phonemes, but this book will because some of them have
 different sounds. It occurs whenever one of these letters follows a
@@ -317,21 +310,21 @@ s|transliteration*|b|ḇ|g|ḡ|d|ḏ|k|ḵ           |p|f   |t|ṯ
 |===
 
 You will notice that only three off the letters actually change sound
-according to our system.  This is because the pronunciation commonly 
+according to our system.  This is because the pronunciation commonly
 used today is different than when the vowel points were added. You may
 note that it would be more consistent to use a "p" with a macron for the
-soft פ.  This has not been done because there is no Unicode 
+soft פ.  This has not been done because there is no Unicode
 corresponding to such a character, and there is no danger of "f" causing
 confusion with another Hebrew or latin letter.
 
-While this dagesh, the 'dagesh qal' (דגש קל, "light dagesh") is only significant 
-to pronunciation, it is important to be able to recognise it because 
-there is another type of dagesh, 'dagesh ḥazaq' (דגש חזק"strong dagesh"), which 
-is very important for understanding Hebrew grammar, and you will need to 
-be able to tell the difference.  To state briefly, dagesh ḥazaq 
-indicates the doubling of a letter, and can occur in all but five 
-letters, ר, ע, ח, ה, א.  This will be explained in more detail after the 
-introduction of the vowels.
+While this dagesh, the _dagesh qal_ (דגש קל, "light dagesh") is only
+significant to pronunciation, it is important to be able to recognise it
+because there is another type of dagesh, _dagesh ḥazaq_ (דגש חזק"strong
+dagesh"), which is very important for understanding Hebrew grammar, and
+you will need to be able to tell the difference.  To state briefly,
+dagesh ḥazaq indicates the doubling of a letter, and can occur in all
+but five letters, ר, ע, ח, ה, א.  This will be explained in more detail
+after the introduction of the vowels.
 // }}}
 
 Vowel Points
@@ -342,19 +335,19 @@ Vowel Points
 [width="50%",options="header",cols="^,^,^,^"]
 |===
 |Sign|Name    |Sound          |Transliteration
-|םִ   |חִירֶק    |"ee" in 'keep' | i
+|םִ   |חִירֶק    |"ee" in _keep_ | i
 |םִי  |חִירֶק-יוֹד|" "            | î
-|םֶ   |סְגוֹל    |"e" in 'met'   | e
-|םֵ   |צֵרֵי     |"ay" in 'pay'  | ē
+|םֶ   |סְגוֹל    |"e" in _met_   | e
+|םֵ   |צֵרֵי     |"ay" in _pay_  | ē
 |םֵי  |צֵרֵי-יוֹד |" "            | ê
 |םֶה  |סְגוֹל-הֵא |" "            | ê
-|םַ   |פַּתָּח     |"a" in 'father'| a
+|םַ   |פַּתָּח     |"a" in _father_| a
 |םָ   |קָמֶץ גָּדוֹל|" "            | ā
 |םָה  |קָמֶץ-הֵא  |" "            | â
-|םָ   |קָמֶץ קָטָן |"o" in 'hope'  | o
+|םָ   |קָמֶץ קָטָן |"o" in _hope_  | o
 |םֹ   |חוֹלֶם    |" "            | ō
 |םוֹ  |חוֹלֶם-וָו |" "            | ô
-|םֻ   |קִבּוּץ    |"oo" in 'tool' | u
+|םֻ   |קִבּוּץ    |"oo" in _tool_ | u
 |םוּ  |שׁוּרֶק    |" "            | û
 |===
 //}}}
@@ -377,7 +370,7 @@ Here is another table of the vowels arranged by length and quality.
 |quality|short|long|long with mater lectionis
 |"i"    |םִ    |    |םִי
 |"e"    |םֶ    |םֵ   |םֵי
-|"a"    |םַ    |םָ   | 
+|"a"    |םַ    |םָ   |
 |"o"    |םָ    |םֹ   |םוֹ
 |"u"    |םֻ    |    |םוּ
 |===
@@ -407,18 +400,18 @@ Shewa and the three hatafs:
 |םֲ   |חֲטָף-פַּתָּח |"a" in father|ă
 |םֳ   |חֲטָף-קָמֶץ |"o" in hope  |ŏ
 |===
-*[small]#our system differs from SBL here. SBL uses 'ĕ' both for םְ and
+*[small]#our system differs from SBL here. SBL uses _ĕ_ both for םְ and
 for םֱ, perhaps because they often make the same sound in modern Hebrew.#
 
 These vowels are (theoretically) said shorter than the others.  
 Sometimes they represent where a longer vowel has been reduced, and 
 other times they represent were an extra vowel has been added to 
 better facilitate pronunciation.  The most common by far is the 
-'šəwaʾ', and most vowels will reduce to this.  However, certain 
+_šəwaʾ_, and most vowels will reduce to this.  However, certain 
 consonants, prefer to carry an "a" class vowel; ה, ח, ע, and 
 sometimes א; the first three of theese letters will usually take a 
-'ḥăṭāph pattāḥ' ( ֲ ) instead of a normal shewa, though א generally 
-prefers to take 'ḥăṭāph səgôl' ( ֱ ) 'ḥăṭāph qāmēṣ' ( ֳ ) is relatively 
+_ḥăṭāph pattāḥ_ ( ֲ ) instead of a normal shewa, though א generally 
+prefers to take _ḥăṭāph səgôl_ ( ֱ ) _ḥăṭāph qāmēṣ_ ( ֳ ) is relatively 
 rare,and generally only occurs with the reduction of an original "u" 
 vowel or for esoteric reasons involving gutturals and vowel 
 harmony (not something to worry about).
@@ -664,24 +657,24 @@ Demonstrative Pronouns
 Something
 
 
-'Waw' conjunction
+_Waw_ conjunction
 ~~~~~~~~~~~~~~~~~
 //{{{
-The most common conjunction in Biblical Hebrew is a 'waw', וְ, prefixed
+The most common conjunction in Biblical Hebrew is a _waw_, וְ, prefixed
 to a word.  This conjunction often has the force of "and" in English for
 coordinate clauses and lists of nouns.  However, it may also precede
 contrasting clauses (and is then translated as "but").  In addition it
 may open the apodosis of a conditional sentence (translated as "then"),
 or at the beginning of a main clause preceded by a temporal clause.
 
-The 'waw' conjunction is used in Biblical Hebrew much more often to join 
+The _waw_ conjunction is used in Biblical Hebrew much more often to join 
 independent sentences than the word "and" in English, and because of
 this, it has attached itself to several verb forms, drastically altering
 their meaning.  This will be discussed in detail as part of the section 
 on the verb.
 
-* Becomes a 'šûreq', וּ,  before ב, מ, and פ.
-* Also becomes 'šûreq', וּ, before a shewa.
+* Becomes a _šûreq_, וּ,  before ב, מ, and פ.
+* Also becomes _šûreq_, וּ, before a shewa.
 * Before יְ, the yôḏ will contract, and the first syllable becomes וִי
 * Before one of the other semi-vowels, the waw conjunction is pointed
 with the equivalent short vowel.
@@ -854,7 +847,7 @@ the strong verbs, those untroubled by such things.
 The Qāṭal conjugation and the Participle
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 //{{{
-.Qal 'qaṭal' conjugation
+.Qal _qaṭal_ conjugation
 [width="40%",options="header"]
 |===
 |  |singular|plural 
@@ -865,11 +858,11 @@ s|3m|קָטַ֫ל    |קָֽטְל֣וּ
 s|3f|קָֽטְלָ֣ה   |קָֽטְל֣וּ
 |===
 
-'Qātal' refers to the tense of the verb form.  In modern Hebrew it is
-the form of the past tense, and has often been called the 'perfect' by
+_Qātal_ refers to the tense of the verb form.  In modern Hebrew it is
+the form of the past tense, and has often been called the _perfect_ by
 Biblical Hebrew scholars.  However, because the exact meaning of the
 tense is more complex than either of these terms would suggest, it has
-become common to call it the 'qatal' in modern times, a name which
+become common to call it the _qatal_ in modern times, a name which
 reflects the form more than the function (קטל is the root which has
 traditionally been used in writing the roots of Hebrew verb, and קָטַל is
 the third person masculine singular form in this tense, the form used to
@@ -878,8 +871,8 @@ and related sets in other languages are often referred to as the
 "suffix conjugation" because the person, gender and number of the
 subject is marked by a suffix.
 
-You may also note that the table refers to the 'Qal' qatal form.  Qal is
-the most common 'stem' in Hebrew language.  There are six other stems
+You may also note that the table refers to the _Qal_ qatal form.  Qal is
+the most common _stem_ in Hebrew language.  There are six other stems
 which appear regularly in the Hebrew Bible, and changes in the stem are
 often reflective of changes in the voice of the verb.  This will be
 discussed in more detail shortly, when we have an additional stem to
@@ -890,7 +883,7 @@ your Hebrew studies, it will suffice to translate it as a simple English
 past or perfect tense.
 
 The next form to be covered is the participle, sometimes called the
-'qotel', after its form (however, in this case, the function of the form
+_qotel_, after its form (however, in this case, the function of the form
 is relatively similar to that of the participle in other languages, and
 it remains the dominant term for the form).  In the qal, there are both
 active and passive participles.
@@ -938,7 +931,7 @@ stem, there are several possible things that can happen:
 * The voice of the verb many change.  Voice has to do with the level of
 transitivity of the verb.  In English, we have active and passive voice,
 which also exist in Hebrew, and may be indicated by a change of stem. In
-Hebrew, there is also a 'middle' voice and a 'causative' voice, as well
+Hebrew, there is also a _middle_ voice and a _causative_ voice, as well
 as other nuances which different grammarians may or may not classify as
 voice.
 * The meaning of the verb may change entirely.  The meaning may have a
@@ -1028,17 +1021,17 @@ A verm in the Pu'al stem is usually the passive of a Pi'el.  There
 are cases in which a verb in Pu'al does not occur in Pi'el, however.
 
 Distinguishing feature: In addition to the doubling of the second
-radical in the Pi'el, the 'u' ( ֻ) is ubiquitous in the pu'al, as in many
+radical in the Pi'el, the _u_ ( ֻ) is ubiquitous in the pu'al, as in many
 passive forms.  Before a letter that rejects doubling, it will be
 lengthened to ō.
 
-.Hitpa'el - הִתְפַּעֵל
+.Hitpa_el - הִתְפַּעֵל
 Hitpa'el is generally described as the middle voice of the pi'el, and is
 so often translated as a reflexive or a reciprocal direct object.
 Hitpa'el has many other uses as well.
 
 Distinguishing feature: This also has a doubled second radical, like the
-pi'el, but the most obvious feature is the 'hit', הִת- prefix preceding the
+pi'el, but the most obvious feature is the _hit_, הִת- prefix preceding the
 root.  The is replaced by a prefix consonant in many forms (such as the
 participle and the yiqtol).
 
@@ -1069,7 +1062,7 @@ One should always check a lexicon to be sure of the meaning of a root in
 a given stem.
 //}}}
 
-The 'yiqṭol' and tenseless forms
+The _yiqṭol_ and tenseless forms
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 //{{{
 .Yiqtol
@@ -1088,8 +1081,8 @@ s|3mp |יִקְטְל֫וּ |יִקָּטְל֫וּ |יְקַטְּל֫וּ |יְ�
 s|3fp |תִּקְטֹ֫לְנָה|תִּקָּטֵ֫לְנָה|תְּקַטֵּ֫לְנָה|תְּקֻטַּ֫לְנָה|תִּתְקַטַּ֫לְנָה |תַּקְטֵּ֫לְנָה|תָּקְטַ֫לְנָה
 |===
 
-The 'yiqṭol' is future tense in modern Hebrew.  In Biblical Hebrew, it
-has historically been taught as the 'imperfect' by the analogy tenses
+The _yiqṭol_ is future tense in modern Hebrew.  In Biblical Hebrew, it
+has historically been taught as the _imperfect_ by the analogy tenses
 with some (but by no means all) of the same functions used in certain 
 European languages.  This is because it often indicates some form of
 incomplete action, sometimes being action in the future, but many times
@@ -1100,7 +1093,7 @@ prohibitions as well, in conjunction with the particle אַל.
 
 The yiqtol is marked by a set of prefixes for all forms, and suffixes
 for some.  For this reason, in comparative semitics, it is sometimes
-called the 'prefix conjugation' or the 'prefix-suffix conjugation'.
+called the _prefix conjugation_ or the _prefix-suffix conjugation_.
 
 .Tenseless forms
 [options="header"]
@@ -1177,7 +1170,7 @@ forms, the remaining verb forms fall quite logically into place.
 Weak Verbs
 ~~~~~~~~~~
 //{{{
-Hebrew Irregular verbs, called 'weak verbs', are very common in Hebrew.
+Hebrew Irregular verbs, called _weak verbs_, are very common in Hebrew.
 However, unlike most languages, there behavior is quite predicable and
 systematic.  If one learns the rules, parsing irregular verbs is not
 difficult, though there is admittedly a fair number of rules that must
@@ -1238,9 +1231,9 @@ the various possible suffixes are omitted. The same may be said of
 prefixes that behave the same as those already listed (such as the
 yiqtol prefixes). The student must rely on their knowledge of the strong
 verb to fill in the unlisted forms. More complete lists may also be
-found in reference grammars such as 'Gesenius'.
+found in reference grammars such as _Gesenius_.
 
-As we have already seen with נתן, the letter nun often 'assimilates' to
+As we have already seen with נתן, the letter nun often _assimilates_ to
 any consonant that follows it directly, effectively meaning that the nun
 disappears and the following letter is doubled, that is, marked with a
 dagesh, with the exception of certain letters that cannot be doubled.
