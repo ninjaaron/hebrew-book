@@ -1262,8 +1262,8 @@ nun of the root disappears in the nif'al qatal and nif'al participle.
 
 // }}}
 
-פ"י
-++++++++++++++
+פ"י verbs
++++++++++
 // {{{
 [width="50%",options="header",cols="^s,^,^,^,^"]
 |===
@@ -1329,8 +1329,8 @@ the waw remained in most cases, though it generally partially
 assimilates to the preceding vowel (usually resulting in û and ô).
 // }}}
 
-ע"ו/ע"י
-+++++++
+ע"ו/ע"י verbs
++++++++++++++
 // {{{
 .ע"ו qatal
 [options="header"]
@@ -1377,8 +1377,8 @@ s|Juss.   |יָקֹ֫ם |יִקּ֫וֹם  |יְקוֹמֵ֫ם |יְקוֹמַ֫ם|
 |===
 // }}}
 
-ל"י/ל"ה
-+++++++
+ל"י/ל"ה verbs
++++++++++++++
 // {{{
 .ל"י/ל"ה qatal
 [options="header"]

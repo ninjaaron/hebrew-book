@@ -656,7 +656,7 @@ definitions in your dictionary.
 . עָשִׂ֑ית
 . לֻקָּ֑חְתָּ
 . לָדַ֖עַת
-. וַתַּ֙הַר֙ 
+. וַתַּ֙הַר֙
 . וַתֵּ֣לֶד
 . קָנִ֥יתִי
 . וַתּוֹצֵ֨א
@@ -739,4 +739,47 @@ Word list
 . שְׁבִ֧י
 . שֶׁ֤בֶת
 . שׁוּב
+// }}}
+
+verbless sentences
+~~~~~~~~~~~~~~~~~~
+// {{{
+. I am a good student.
+. He is short.
+. The horses [m] are fast.
+. A small girl is in the house.
+. The king is wicked.
+. The queen is beautiful but she is proud
+. You [fp] are pleasant.
+. They [f] are in the field.
+. The strong men are in a battle.
+. You are a goat.
+
+Word List
+^^^^^^^^^
+* battle - מִלְחָמָה
+* beautiful - יָפֶה (fs. יָפָה)
+* fast - מָהֵר (fs. מָהֶרֶת)
+* field - שָׂדֶה (pl. שָׂדִים)
+* girl - יַלְדִָּה
+* goat - עֵז (mp. עִזִּים)
+* good - טוּב
+* horse - סוּס
+* king - מֶלֶך
+* man - אִישׁ (pl. אֱנָשִׁים)
+* pleasant - נָעִים (fp. נָעִימה)
+* proud - גֵאֶה (fs. גֵאָה)
+* queen - מַלְכָּה
+* short - נָמוּח (fs. נְמוּחָה)
+* small - קָטוֹנ (fs. קָטוֹנָה)
+* strong - חָזָק (fs. חֲזַָקַָה)
+* student - תַּלְמִיד (fs. תַּלְמִידָה)
+* wicked - רָשָׁע
+// }}}
+
+Verbless pt. 2 
+~~~~~~~~~~~~~~~
+// {{{
+. יְהוָ֥ה רֹ֝עִ֗י
+. כִּ֗י אֲנִ֛י יְהוָ֥ה אֱלֹהֶ֖יךָ מַחֲזִ֣יק יְמִינֶ֑ךָ הָאֹמֵ֥ר לְךָ֛ אַל־תִּירָ֖א אֲנִ֥י עֲזַרְתִּֽיךָ׃
 // }}}
