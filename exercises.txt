@@ -220,6 +220,10 @@ word list
 * תָּוֶךְ - inside (m)
 * תּוֹלעָה - worm (f)
 
+verbs
+-----
+// {{{
+
 Qatal and the Participle
 ~~~~~~~~~~~~~~~~~~~~~~~~
 . כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה צ֕וֹר אַ֣תְּ אָמַ֔רְתְּ אֲנִ֖י כְּלִ֥ילַת יֹֽפִי׃ Ez. 27:3
@@ -741,8 +745,8 @@ Word list
 . שׁוּב
 // }}}
 
-verbless sentences
-~~~~~~~~~~~~~~~~~~
+verbless composition
+~~~~~~~~~~~~~~~~~~~~
 // {{{
 . I am a good student.
 . He is short.
@@ -767,19 +771,52 @@ Word List
 * horse - סוּס
 * king - מֶלֶך
 * man - אִישׁ (pl. אֱנָשִׁים)
-* pleasant - נָעִים (fp. נָעִימה)
+* pleasant - נָעִים (fp. נְעִימָה)
 * proud - גֵאֶה (fs. גֵאָה)
 * queen - מַלְכָּה
-* short - נָמוּח (fs. נְמוּחָה)
-* small - קָטוֹנ (fs. קָטוֹנָה)
+* short - נָמוּךְ (fs. נְמוּכָה)
+* small - קָטוֹן (fs. קְטוֹנָה)
 * strong - חָזָק (fs. חֲזַָקַָה)
 * student - תַּלְמִיד (fs. תַּלְמִידָה)
 * wicked - רָשָׁע
 // }}}
 
-Verbless pt. 2 
-~~~~~~~~~~~~~~~
+qal and piel participles
+~~~~~~~~~~~~~~~~~~~~~~~~
 // {{{
-. יְהוָ֥ה רֹ֝עִ֗י
-. כִּ֗י אֲנִ֛י יְהוָ֥ה אֱלֹהֶ֖יךָ מַחֲזִ֣יק יְמִינֶ֑ךָ הָאֹמֵ֥ר לְךָ֛ אַל־תִּירָ֖א אֲנִ֥י עֲזַרְתִּֽיךָ׃
+. We read Hebrew in school.
+. Now I write Hebrew also, or I try.
+. Good that Hebrew is an easy language.
+. Too bad that it is not like English.
+. The children of Israel hear the voice of God and do not walk in it.
+. Me too, sometimes. [hint: "also I"]
+. Jesus teaches the people.
+. Who is listening?
+
+Word List
+^^^^^^^^^
+// {{{
+* read - קָרָא
+* Hebrew (language) - עִבְרִית (f; modern), יְהוּדִית (f; pre-exilic)
+* school - בֵּית סֶפֶר
+* good - טוּב
+* now - עַכְשָׁו (modern), עַתָּה (biblical, modern literary)
+* write - כָּתַב
+* also - גַם
+* try - נִסָה (pi'el, ל"ה)
+* that - שֶׁ- (late biblical and modern), כִּי(biblical, modern literary)
+* Too bad! - חֲבָל (modern)
+* English (language) - אַנְגְּלִית (f; modern)
+* children of Israel - בְּנֵי יִשְׂרָאֵל
+* hear - שָׁמַע
+* voice - קוֹל
+* God - אֱלֹהִים
+* walk - הָלַךְ
+* time - עֵת )f(; sometimes = לְעִתִּים
+* Jesus - יֵשׁוּעַ (most jews use יֵשׁוּ)
+* teach - לִמֵּד (pi'el)
+* people - עַם (ethnic group), אֱנַשִׁים (plural of אִישׁ = "man")
+* listen = hear
+// }}}
+// }}}
 // }}}
