@@ -796,27 +796,51 @@ qal and piel participles
 Word List
 ^^^^^^^^^
 // {{{
-* read - קָרָא
-* Hebrew (language) - עִבְרִית (f; modern), יְהוּדִית (f; pre-exilic)
-* school - בֵּית סֶפֶר
-* good - טוּב
-* now - עַכְשָׁו (modern), עַתָּה (biblical, modern literary)
-* write - כָּתַב
 * also - גַם
-* try - נִסָה (pi'el, ל"ה)
-* that - שֶׁ- (late biblical and modern), כִּי(biblical, modern literary)
-* Too bad! - חֲבָל (modern)
-* English (language) - אַנְגְּלִית (f; modern)
 * children of Israel - בְּנֵי יִשְׂרָאֵל
-* hear - שָׁמַע
-* voice - קוֹל
+* English (language) - אַנְגְּלִית (f; modern)
+* good - טוּב
 * God - אֱלֹהִים
-* walk - הָלַךְ
-* time - עֵת )f(; sometimes = לְעִתִּים
+* hear - שָׁמַע
+* Hebrew (language) - עִבְרִית (f; modern), יְהוּדִית (f; pre-exilic)
 * Jesus - יֵשׁוּעַ (most jews use יֵשׁוּ)
-* teach - לִמֵּד (pi'el)
-* people - עַם (ethnic group), אֱנַשִׁים (plural of אִישׁ = "man")
 * listen = hear
+* now - עַכְשָׁו (modern), עַתָּה (biblical, modern literary)
+* or - אוֹ
+* people - עַם (ethnic group), אֱנַשִׁים (plural of אִישׁ = "man")
+* read - קָרָא
+* school - בֵּית סֶפֶר
+* teach - לִמֵּד (pi'el)
+* that - שֶׁ- (late biblical and modern), כִּי(biblical, modern literary)
+* time - עֵת )f(; sometimes = לְעִתִּים
+* Too bad! - חֲבָל (modern)
+* try - נִסָה (pi'el, ל"ה)
+* voice - קוֹל
+* walk - הָלַךְ
+* write - כָּתַב
 // }}}
+// }}}
+
+// }}}
+
+morestuff
+~~~~~~~~~
+// {{{
+. The sitting woman
+. You are trying
+. the watchers
+. playing children
+. the elders are speaking
+
+list
+^^^^
+// {{{
+* child - יֶלֶד (ms), יַלְדָּה (fs), יְלָדִים (mp), יַלְדּוֹת (fp)
+* elder - זָקֵן (ms), זְקֵנִים (mp)
+* play - שִׂחֵק
+* sit - יָשַׁב
+* speak - דִּבֵּר
+* try - נִסָּה
+* watch - צָפָה
 // }}}
 // }}}

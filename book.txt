@@ -62,7 +62,7 @@ stronger church.
 
 How to use this book
 ~~~~~~~~~~~~~~~~~~~~
-// {{{
+// {{
 This work is divided into two volumes.  The first volume is the grammar
 proper, containing forms, paradigms and theory, along with examples.
 The examples are taken from the Bible.  The explanations are intended to
@@ -827,17 +827,14 @@ s|3f|אֹתָהּ     |אֹתָן
 // }}}
 // }}}
 
-Verbs
------
-// {{{
+The Strong Verb
+---------------
+//{{{
 Hebrew verbs, like Hebrew nouns, are created from three-consonant roots 
 by adding prefixes and suffixes, as well as changes in the internal
 vowel patterns.  These variations will tell us things like the person,
 gender and number of the subject, tense, mood, voice, and so forth.
 
-The Strong Verb
-~~~~~~~~~~~~~~~
-//{{{
 Because of various historical-linguistic phenomena, certain Hebrew
 consonants are inclined to change and disappear in certain phonetic
 settings.  This causes many unusual things to happen in the verbs.
@@ -845,7 +842,7 @@ Verbs affected by such issues are called "weak".  However, we start with
 the strong verbs, those untroubled by such things.
 
 The Qāṭal conjugation and the Participle
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //{{{
 .Qal _qaṭal_ conjugation
 [width="40%",options="header"]
@@ -922,7 +919,7 @@ slot for the purpose of your parsing.
 //}}}
 
 Stems
-^^^^^
+~~~~~
 // {{{
 As mentioned above, in Hebrew there are seven commonly used stems.
 Unfortunatly, there is no exact parallel the phenomenon of Hebrew stems
@@ -1063,7 +1060,7 @@ a given stem.
 //}}}
 
 The _yiqṭol_ and tenseless forms
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //{{{
 .Yiqtol
 [options="header"]
@@ -1158,7 +1155,7 @@ to express an action occurring simultaneously with the main verb.
 //}}}
 
 Forms of the verb with energetic waw
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //{{{
 Many Hebrew verb forms take on a different meaning with various forms of
 the waw conjunction.
@@ -1168,7 +1165,7 @@ forms, the remaining verb forms fall quite logically into place.
 //}}} }}}
 
 Weak Verbs
-~~~~~~~~~~
+----------
 //{{{
 Hebrew Irregular verbs, called _weak verbs_, are very common in Hebrew.
 However, unlike most languages, there behavior is quite predicable and
@@ -1177,10 +1174,7 @@ difficult, though there is admittedly a fair number of rules that must
 be grasped.
 
 The Naming of Weak Verbs
-^^^^^^^^^^^^^^^^^^^^^^^^
-// {{{
-
-// }}}
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 //{{{
 .נָתַן - Qal
@@ -1212,7 +1206,7 @@ The Naming of Weak Verbs
 //}}}
 
 פ"ן - synopsis
-++++++++++++++
+^^^^^^^^^^^^^^
 // {{{
 [width="50%",options="header",cols="^s,^,^,^,^"]
 |===
@@ -1263,7 +1257,7 @@ nun of the root disappears in the nif'al qatal and nif'al participle.
 // }}}
 
 פ"י verbs
-+++++++++
+^^^^^^^^^
 // {{{
 [width="50%",options="header",cols="^s,^,^,^,^"]
 |===
@@ -1330,7 +1324,7 @@ assimilates to the preceding vowel (usually resulting in û and ô).
 // }}}
 
 ע"ו/ע"י verbs
-+++++++++++++
+^^^^^^^^^^^^^
 // {{{
 .ע"ו qatal
 [options="header"]
@@ -1378,7 +1372,7 @@ s|Juss.   |יָקֹ֫ם |יִקּ֫וֹם  |יְקוֹמֵ֫ם |יְקוֹמַ֫ם|
 // }}}
 
 ל"י/ל"ה verbs
-+++++++++++++
+^^^^^^^^^^^^^
 // {{{
 .ל"י/ל"ה qatal
 [options="header"]
@@ -1434,4 +1428,4 @@ s|Inf.Con.|בְּנ֫וֹת |הִקָּטֵ֫ל  |קַטֵּ֫ל  |     |הִתְ
 s|Inf.Abs.|בָּנֹ֫ה  |הִקָּטֹ֫ל  |קַטֵּ֫ל  |קֻטֹּ֫ל  |הִתְקַטֵּ֫ל   |הַקְטֵ֫ל  |הָקְטֵ֫ל  
 s|Juss.   |יִ֫בֶן  |יִקָּטֵ֫ל  |יְקַטֵּ֫ל |יְקֻטַּ֫ל |יִתְקַטֵּ֫ל   |יַקְטֵ֫ל  |יָקְטַ֫ל  
 |===
-// }}
+// }}}
