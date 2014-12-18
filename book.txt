@@ -1,8 +1,10 @@
 An Open Introduction to Biblical Hebrew
 =======================================
 // vim: filetype=asciidoc
-Copyright Aaron Christianson, 2012
-Distributed under the Creative Commons Attribution-ShareAlike 3.0 licenced (CC-BY-SA 3.0)
+Copyright Aaron Christianson, 2014
+This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
+:doctype: book
+:toc:
 
 Introduction
 ------------
@@ -47,12 +49,14 @@ This creates a sort of commons environment that has been popular in the
 Open Source Software world, whereby information is freely shared and
 built upon by the community.  While you are legally obligated to release
 modifications to this work under the same licence, you do not
-necessarily have to let me know about: your changes.  However, I would be
+necessarily have to let me know about your changes.  However, I would be
 delighted to hear from you about changes or suggestions you have so that
 I can incorporate them into my version as well. I can be contacted at
 ninjaaron@gmail.com.  If you would like to become more deeply involved
 in producing content for the project, contact me at the above address,
-or check out the github repository at...
+or check out the github repository at
+http://github.com/ninjaaron/hebrew-book. For further information about
+the license, visit http://creativecommons.org/licenses/by-sa/3.0/.
 
 I believe this method of creating and distributing learning materials
 for Christian education in the digital age is more in line with the
@@ -62,7 +66,7 @@ stronger church.
 
 How to use this book
 ~~~~~~~~~~~~~~~~~~~~
-// {{
+// {{{
 This work is divided into two volumes.  The first volume is the grammar
 proper, containing forms, paradigms and theory, along with examples.
 The examples are taken from the Bible.  The explanations are intended to
