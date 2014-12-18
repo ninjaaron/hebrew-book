@@ -15,7 +15,7 @@ writing system, morphology, and basic syntactical concepts, as well as
 develop a core vocabulary. One slight difference from the usual approach
 will be a slightly greater emphasis on composition in the exercises.
 This will, no doubt be a controversial move to some.  It is not intended
-to  provide the student with the illusion that they are actually able to
+to provide the student with the illusion that they are actually able to
 compose Biblical Hebrew (and it falls to the instructor to remind
 students of the problems entailed therein), but simply to reinforce the
 paradigms and vocabulary in a more interactive and engaging way.  Those
@@ -30,10 +30,10 @@ While this course is not designed to teach modern Hebrew, the author
 recognizes that many students of Biblical Hebrew today are also
 interested in modern Judaism and the State of Israel, and this
 information is provided to ease the transition for any wishing to study
-the modern language, as well as to highlight the important differences
-between the two periods of the language, to help the student with some
-knowledge of modern Hebrew avoid common pitfalls when dealing with the
-biblical text.
+the modern language. This information will additionally serve to
+highlight the important differences between the two periods of the
+language, to help the student with some knowledge of modern Hebrew avoid
+common pitfalls when dealing with the biblical text.
 
 However, the primary difference between this and other text books is not
 a distinction of content, but a distinction of licencing.  All of the
@@ -100,29 +100,29 @@ Aleph-Bet
 [width="60%",options="header",cols="^,^,^,^,^,^"]
 |===
 |Sign|Pronunciation|Transliteration|Name|Name Transliterated|Numeric Value
-|א   |glottal stop*|ʾ|אָלֶף |ʾālef|1
-|ב   |"b" or "v"   |b|בֵּית |bêṯ  |2
-|ג   |"g" in gold  |g|גִּימֶל|gîmel|3
-|ד   |"d"          |d|דָּלֶת |dāleṯ|4
-|ה   |"h"          |h|הֵא  |hēʾ  |5
-|ו   |"v"          |w|וָו  |wāw  |6
-|ז   |"z"          |z|זַיִן |zayin|7
-|ח   |"ch" in Bach |ḥ|חֵית |ḥêṯ  |8
-|ט   |"t"          |ṭ|טֵית |ṭêṯ  |9
-|י   |"y" in yawn  |y|יוֹד |yôḏ  |10
-|ך ,כ|"k" or as ח  |k|כַּף  |kaf  |20
-| ל  |"l"          |l|לָמֶד |lāmeḏ|30
-|ם ,מ|"m"          |m|מֵם  |mēm  |40
-|ן ,נ|"n"          |n|נוּן |nûn  |50
-|ס   |"s" in sack  |s|סָמֶך |sāmeḵ|60
-|ע   |glottal stop*|ʿ|עַיִן |ʿayin|70
-|ף ,פ|"p" or "f"   |p|פֵּא  |pēʾ  |80
-|ץ ,צ|"ts"         |ṣ|צָדִי |ṣāḏî |90
-|ק   |"k"          |q|קוֹף |qôf  |100
-|ר   |"r" (rolled) |r|רֵישׁ |rêš  |200
-|שׂ   |"s"          |ś|שִׂין |śîn  | -
-|שׁ   |"sh" in ship |š|שִׁין |šîn  |300
-|ת   |"t"          |t|תָּו  |tāw  |400
+|א   |glottal stop*|ʾ              |אָלֶף |ʾālef              |1
+|ב   |"b" or "v"   |b              |בֵּית |bêṯ                |2
+|ג   |"g" in gold  |g              |גִּימֶל|gîmel              |3
+|ד   |"d"          |d              |דָּלֶת |dāleṯ              |4
+|ה   |"h"          |h              |הֵא  |hēʾ                |5
+|ו   |"v"          |w              |וָו  |wāw                |6
+|ז   |"z"          |z              |זַיִן |zayin              |7
+|ח   |"ch" in Bach |ḥ              |חֵית |ḥêṯ                |8
+|ט   |"t"          |ṭ              |טֵית |ṭêṯ                |9
+|י   |"y" in yawn  |y              |יוֹד |yôḏ                |10
+|ך ,כ|"k" or as ח  |k              |כַּף  |kaf                |20
+| ל  |"l"          |l              |לָמֶד |lāmeḏ              |30
+|ם ,מ|"m"          |m              |מֵם  |mēm                |40
+|ן ,נ|"n"          |n              |נוּן |nûn                |50
+|ס   |"s" in sack  |s              |סָמֶך |sāmeḵ              |60
+|ע   |glottal stop*|ʿ              |עַיִן |ʿayin              |70
+|ף ,פ|"p" or "f"   |p              |פֵּא  |pēʾ                |80
+|ץ ,צ|"ts"         |ṣ              |צָדִי |ṣāḏî               |90
+|ק   |"k"          |q              |קוֹף |qôf                |100
+|ר   |"r" (rolled) |r              |רֵישׁ |rêš                |200
+|שׂ   |"s"          |ś              |שִׂין |śîn                | -
+|שׁ   |"sh" in ship |š              |שִׁין |šîn                |300
+|ת   |"t"          |t              |תָּו  |tāw                |400
 |===
 [small]#*A glottal stop is consonant in the middle of the word "uh-oh"
 where the throat briefly stops the flow of air.#
@@ -132,14 +132,14 @@ These are the 22 letters of the Hebrew Alphabet with their basic sounds,
 transliterations, names and numeric values.
 
 .Characters
-The characters normally used for Hebrew today have are a modernized form
+The characters normally used for Hebrew today are a modernized form
 of the Assyrian block script which the Jewish people began using during
-the exile. Before the exile, characters more similar to the Phoenician
-alphabet were used, as can be seen in many First Temple period
-inscriptions, characters believed to be based on Egyptian hieroglyphs.
-It should be remembered that, while we call it the Hebrew alphabet
-today, it was something that the Israelites appear to have adopted from
-another language (probably Aramaic).
+the Babylonian exile. Before the exile, characters more similar to the
+Phoenician alphabet were used, as can be seen in many First Temple
+period inscriptions, characters believed to be based on Egyptian
+hieroglyphs.  It should be remembered that, while we call it the Hebrew
+alphabet today, it was something that the Israelites appear to have
+adopted from another language (probably Aramaic).
 
 .Sounds
 The sounds given are those most commonly heard in Israeli Hebrew, which
