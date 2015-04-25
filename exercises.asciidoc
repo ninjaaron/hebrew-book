@@ -479,6 +479,33 @@ Word list
 * תְבוּנָ֫ה - understanding (f)
 * תְּשׁוּקָ֫ה - longing (f)
 
+Fill in the Table
+~~~~~~~~~~~~~~~~~
+// {{{
+As you fill in the forms (and add accents to the existing forms),
+consider these questions:
+
+. What do all the stems have in common? 
+. Within each stem, what is common to all forms (e.g. what do all pi'el
+forms have in common)? 
+. What kinds of changes tend to take place in the vowel under the second
+letter of the root?
+
+[options="header"]
+|===
+|    |Qal  |Nif'al|Pi'el|Pu'al|Hitpa'el|Hif'il|Hof'al 
+s|1cs|שָׁמַרְתִּי|      |     |     |        |      | 
+s|2ms|     |      |     |     |        |      | 
+s|2fs|     |      |     |     |        |      |הָשְׁמַרתְּ  
+s|3ms|     |נִשְׁמַר  |     |     |        |      | 
+s|3fs|     |      |     |שֻׁמְּרָה |        |      | 
+s|1cp|     |      |     |     |        |הִשְׁמַרְנוּ| 
+s|2mp|     |      |     |     |        |      | 
+s|2fp|     |      |שִׁמַּרתֶּ֫ן|     |        |      | 
+s|3cp|     |      |     |     |הִתְשַׁמְּרוּ  |      | 
+|===
+// }}}
+
 Parsing regular verbs (and a couple of weak verbs)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 . וְלִזְבֹּ֛חַ
