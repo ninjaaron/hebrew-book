@@ -213,30 +213,35 @@ discussed more fully in the section on the Masoretic pointing, as well
 as several other unique features.
 
 * _ʾālef_, א, is a sound familiar to English speakers, though it is never
-written. It is the sound of the back of the throat (glottis opening at
-the beginning of a word that starts with a vowel. It is also the sound
-found between the *uh* and the *oh* of the common expression of dismay,
-"uh-oh." Alef often becomes silent when it closes a syllable (i.e. when
-it is not followed by a vowel). This causes the preceding vowel to
-lengthen in most cases and many have other strange effects.
+written. It is a https://en.wikipedia.org/wiki/Glottal_stop[glottal
+stop]. This is the sound of the throat opening at the beginning of a
+word that starts with a vowel. It is also the sound found between the
+*uh* and the *oh* of the common expression of dismay, "uh-oh." Alef
+often becomes silent when it closes a syllable (i.e. when it is not
+followed by a vowel). This causes the preceding vowel to lengthen in
+most cases and many have other strange effects.
 
 * _heʾ_, ה, is the same as the English letter h. It is a partial opening
 of the glottis so the air creates a rough sound as it passes.
 
 * _ḥet_, ח, can be rather difficult for English speakers. In most Middle
-Easter traditions of pronunciation, it is a voiceless pharyngeal
-fricative, meaning there is a tightening at the back of the throat and
-air is pushed through without vibrating the vocal chords. This is
-similar to the sound one makes when imitating the panting of a dog. In
-European traditions, it is usually pronounced as a voiceless epigottal
-trill. This is similar to the sound one makes when clearing mucus from
-the throat before spitting. This latter sound is more common in Israel
-today, though the former is more common in formal media such as news
-reports. English speakers with difficulty pronouncing either of these
-sounds will be understood if they pronounce it as the _ch_ in the
-Scottish word _loch_ or the name of the German composer, _Bach_. It will
-not be understood if pronounces as _ch_ in _change_, like _k_, or like
-_h_. This will be a struggle for some.
+Eastern traditions of pronunciation, it is a
+https://en.wikipedia.org/wiki/Voiceless_pharyngeal_fricative[voiceless
+pharyngeal fricative], meaning there is a tightening at the back of the
+throat and air is pushed through without vibrating the vocal chords.
+This is similar to the sound one makes when imitating the panting of a
+dog. In European traditions, it is usually pronounced as a
+https://en.wikipedia.org/wiki/Voiceless_epiglottal_fricative[voiceless
+epigottal fricative]. This is similar to the sound one makes when
+clearing mucus from the throat before spitting. This latter sound is
+more common in Israel today, though the former is more common in formal
+media such as news reports. English speakers with difficulty pronouncing
+either of these sounds will be understood if they pronounce it as the
+_ch_ in the Scottish word _loch_ or the name of the German composer,
+_Bach_ (the
+https://en.wikipedia.org/wiki/Voiceless_velar_fricative[voiceless velar
+fricative]). It will not be understood if pronounces as _ch_ in
+_change_, like _k_, or like _h_. This will be a struggle for some.
 
 * _ʿayin_, ע, has two pronunciations as well. Middle Eastern traditions
 will pronounce it similarly to the first pronunciation of ח but will
