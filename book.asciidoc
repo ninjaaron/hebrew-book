@@ -245,14 +245,15 @@ _change_, like _k_, or like _h_. This will be a struggle for some.
 
 * _ʿayin_, ע, has two pronunciations as well. Middle Eastern traditions
 will pronounce it similarly to the first pronunciation of ח but will
-vibrate the vocal chords, so it is a voiced pharyngeal fricative. There
-is no clear way to describe this sound, but some English speakers make
-it when imitating the pirate battle cry, "arr!" with a pinched feeling
-in the throat. Luckily, this sound is not used in European traditions of
-pronunciation, and is less common in modern Israeli Hebrew, though
-again, it is favored for formal media. Most speakers today simply
-pronounce it as a glottal stop, similar to ʾālef. Unlike alef, it does
-not become silent at the end of a syllable.
+vibrate the vocal chords, so it is a
+https://en.wikipedia.org/wiki/Voiced_pharyngeal_fricative[voiced
+pharyngeal fricative]. There is no clear way to describe this sound, but
+some English speakers make it when imitating the pirate battle cry,
+"arr!" with a pinched feeling in the throat. Luckily, this sound is not
+used in European traditions of pronunciation, and is less common in
+modern Israeli Hebrew, though again, it is favored for formal media.
+Most speakers today simply pronounce it as a glottal stop, like ʾālef.
+Unlike alef, it does not become silent at the end of a syllable.
 // }}}
 
 Mater Lectiones
