@@ -5,6 +5,8 @@ Copyright Aaron Christianson, 2014
 This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
 :doctype: book
 :toc:
+:stylesheet: oibh.css
+:linkcss:
 
 Introduction
 ------------
@@ -97,7 +99,7 @@ Aleph-Bet
 
 .Aleph-Bet
 // {{{
-[width="60%",options="header",cols="^,^,^,^,^,^"]
+[.heb,width="60%",options="header",cols="^,^,^,^,^,^"]
 |===
 |Sign|Pronunciation|Transliteration|Name|Name Transliterated|Numeric Value
 |א   |glottal stop*|ʾ              |אָלֶף |ʾālef              |1
@@ -181,7 +183,8 @@ than precise transliteration.
 Notice that, though transliterated _w_, the sound of ו is that of
 English "v", and thus the name is pronounced _vāv_ rather than "Wow!"
 This is because it was pronounced as _w_ in earlier periods, as it still
-is today in most Middle Eastern traditions of reading.
+is today in most Middle Eastern traditions of reading. It is, however,
+pronounced as "v" in Modern Hebrew.
 
 .Names
 The names of the Hebrew characters have meanings in Aramaic, usually the
@@ -205,12 +208,12 @@ https://en.wikipedia.org/wiki/Phoenician_alphabet[Phoenician Alphabet]._
 Gutturals
 ^^^^^^^^^
 // {{{
-Gutturals are a special class of vowels which are pronounced in various
-parts of the throat. The Hebrew gutturals are ח, ה, א, and ע. The letter
-ר, while not technically a guttural in linguistic terms, shares an
-important feature with the gutturals: It cannot be doubled. This will be
-discussed more fully in the section on the Masoretic pointing, as well
-as several other unique features.
+Gutturals are a special class of consonants which are pronounced in
+various parts of the throat. The Hebrew gutturals are ח, ה, א, and ע.
+The letter ר, while not technically a guttural in linguistic terms,
+shares an important feature with the gutturals: It cannot be doubled.
+This will be discussed more fully in the section on the Masoretic
+pointing, as well as several other unique properties of the letter.
 
 * _ʾālef_, א, is a sound familiar to English speakers, though it is never
 written. It is a https://en.wikipedia.org/wiki/Glottal_stop[glottal
@@ -219,10 +222,10 @@ word that starts with a vowel. It is also the sound found between the
 *uh* and the *oh* of the common expression of dismay, "uh-oh." Alef
 often becomes silent when it closes a syllable (i.e. when it is not
 followed by a vowel). This causes the preceding vowel to lengthen in
-most cases and many have other strange effects.
+most cases and many have other side effects.
 
-* _heʾ_, ה, is the same as the English letter h. It is a partial opening
-of the glottis so the air creates a rough sound as it passes.
+* _heʾ_, ה, is the same as the English letter "h." It is a partial
+opening of the glottis so the air creates a rough sound as it passes.
 
 * _ḥet_, ח, can be rather difficult for English speakers. In most Middle
 Eastern traditions of pronunciation, it is a
@@ -231,8 +234,8 @@ pharyngeal fricative], meaning there is a tightening at the back of the
 throat and air is pushed through without vibrating the vocal chords.
 This is similar to the sound one makes when imitating the panting of a
 dog. In European traditions, it is usually pronounced as a
-https://en.wikipedia.org/wiki/Voiceless_epiglottal_fricative[voiceless
-epigottal fricative]. This is similar to the sound one makes when
+https://en.wikipedia.org/wiki/Voiceless_uvular_fricative[voiceless
+uvular fricative]. This is similar to the sound one makes when
 clearing mucus from the throat before spitting. This latter sound is
 more common in Israel today, though the former is more common in formal
 media such as news reports. English speakers with difficulty pronouncing
@@ -263,20 +266,22 @@ While there are no vowels in the Hebrew Alphabet, three of these
 characters may be used to indicate long vowels, and when they do, _they
 loose their function as consonants_.
 
-* _waw_, ו, sometimes indicates an *û* or an *ô* vowel.
-* _yôḏ_, י, sometimes indicates an *î* or an *ê* vowel.
-* _heʾ_, ה, is only used to mark vowels at the end of words.  It most 
+* _waw_, [heb]#ו#, sometimes indicates an *û* or an *ô* vowel.
+* _yôḏ_, [heb]#י#, sometimes indicates an *î* or an *ê* vowel.
+* _heʾ_, [heb]#ה#, is only used to mark vowels at the end of words.  It most 
+
 often indicates an *â* vowel, sometimes an *ê* vowel, and very rarely 
 an *ô* vowel.  In fact, a ה at the end of a word only signifies a
-consonant if it has a dot in the middle.  This dot is called a _mappiq_.
+consonant if it has a dot in the middle.  This dot is called a
+_mappiq_: הּ
 
 When one of these consonants is used to represent a vowel, it is called
-a _mater lectiones_ (latin; Hebrew is _ʾem qərîʾâ_. both mean "mother 
+a _mater lectiones_ (latin; Hebrew is _ʾem qərîʾâ_. Both mean "mother 
 of reading").  They will almost always appear when a vowel ends a word,
 and quite often to mark a medial ī or ū. Usage with medial ē or ō is
 unpredictable.  When long medial vowels are marked, it is called a
 _plene_ spelling (Latin for "full").
-//  }}}
+// }}}
 // }}}
 
 Masoretic Pointing
@@ -286,7 +291,7 @@ The letters listed above, with no vowels, are all that were written in
 ancient Hebrew manuscripts.  However, at some point around 700 or 800
 CE, Jewish Bible scholars began inventing systems to record the vowels
 and other details of pronunciation without disrupting the consonantal
-text. These are referred to as _niqqud_ (נִקֻּד; lit. "pointing"). Though
+text. These are referred to as _niqqud_ ([heb]#נִקֻּד#; lit. "pointing"). Though
 the writing of the vowels is very late relative to the writing of the
 text, we have good evidence that the tradition preserves the way the
 text was being read at a much earlier time.  There are times when it is
@@ -313,6 +318,7 @@ different sounds. It occurs whenever one of these letters follows a
 vowel directly.
 
 .BeGeD KeFeT letters
+[.heb]
 |===
 s|sign            |בּ|ב|גּ|ג|דּ|ד|כּ|כ, ך        |פּ|פ, ף|תּ|ת
 s|sound           |b|v|g|g|d|d|k|"ch" in loch|p|f   |t|t
@@ -342,7 +348,7 @@ Vowel Points
 // {{{
 .Full vowels
 // {{{
-[width="50%",options="header",cols="^,^,^,^"]
+[.heb,width="50%",options="header",cols="^,^,^,^"]
 |===
 |Sign|Name    |Sound          |Transliteration
 |םִ   |חִירֶק    |"ee" in _keep_ | i
@@ -375,7 +381,7 @@ follow.
 
 Here is another table of the vowels arranged by length and quality.
 
-[width="50%",options="header",cols="^,^,^,^"]
+[.heb,width="50%",options="header",cols="^,^,^,^"]
 |===
 |quality|short|long|long with mater lectionis
 |"i"    |םִ    |    |םִי
@@ -402,7 +408,7 @@ In addition to these full vowels, there are four semi-vowels; the mobile
 Shewa and the three hatafs:
 
 .Semi-Vowels
-[width="50%",options="header",cols="^,^,^,^"]
+[.heb,width="50%",options="header",cols="^,^,^,^"]
 |===
 |Sign|Name    |Sound        |Transliteration
 |םְ   |שְׁוָא     |"u" in cut   |ə*
@@ -533,13 +539,13 @@ adjusted as well to create new words and forms.
 
 Example:
 
-* מֶלֶךְ = King
-* מַלְכָּה = Queen
-* מַמְלָכָה = kingdom
-* מַלְכוּת = reign (noun)
-* מְלוּכָה = monarchy
-* מְלֹךְ = to reign
-* מָלַכְתִּי = I reigned
+- [heb]#מֶלֶךְ# = King
+- [heb]#מַלְכָּה# = Queen
+- [heb]#מַמְלָכָה# = kingdom
+- [heb]#מַלְכוּת# = reign (noun)
+- [heb]#מְלוּכָה# = monarchy
+- [heb]#מְלֹךְ# = to reign
+- [heb]#מָלַכְתִּי# = I reigned
 
 However, while the root is often a good indication of the meaning of a
 word, it doesn't always work out as one would hope or expect.  Take the
@@ -562,11 +568,11 @@ body parts).
 Generally speaking, there are certain endings that will indicate the
 gender and number of a noun or adjective:
 
-* *Feminine Singular* words often end in אאאָה, אאאֶת or sometimes אאאִית.
-* *Masculine Plural* nouns usually (and adjectives always) end with אאאִים.
-* *Feminine Plural* nouns usually (and adjectives always) end with אאאֹת.
-* *Dual*, masculine or feminine, will have an אאאַיִם ending.
-* *Masculine Singular* nouns do not have a special ending.
+- *Feminine Singular* words often end in [heb]#אאאָה#, אאאֶת or sometimes אאאִית.
+- *Masculine Plural* nouns usually (and adjectives always) end with אאאִים.
+- *Feminine Plural* nouns usually (and adjectives always) end with אאאֹת.
+- *Dual*, masculine or feminine, will have an אאאַיִם ending.
+- *Masculine Singular* nouns do not have a special ending.
 
 There are exceptions to these guidelines, but they are still useful.  In
 addition to these rules, every plural word will have one of the plural
@@ -581,19 +587,19 @@ Independent Personal Pronouns
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //{{{
 .Independent personal pronouns
-[width="40%",options="header"]
+[width="40%",options="header",cols="<,^,^"]
 |===
 |   |Singular  | Plural
-s|1c|אֲנִ֫י (אָנֹכִ֫י)|אֲנַ֫חְנוּ (אֲנוּ)
+s|1c|[rtl]#אֲנִ֫י (אָנֹכִ֫י)#|[rtl]#אֲנַ֫חְנוּ (אֲנוּ)#
 s|2m|אַתָּ֫ה       |אַתֶּ֫ם
-s|2f|אַ֫תְּ        |אַתֶּ֫ן (אַתֵּנָה)
-s|3m|ה֫וּא       |הֵ֫ם (הֵ֫מָּה)
-s|3f|הִ֫יא       |הֵ֫נָּה (הֵ֫ן)
+s|2f|אַ֫תְּ        |[rtl]#אַתֵּנָה (אַתֶּ֫ן)#
+s|3m|ה֫וּא       |[rtl]#הֵ֫ם (הֵ֫מָּה)#
+s|3f|הִ֫יא       |[rtl]#הֵ֫נָּה (הֵ֫ן)#
 |===
 
-As we will see later, most verb forms indicate the subject with no need 
-for a pronoun, so Hebrew independent personal pronouns will most often 
-be seen in verbless sentences.  
+As we will see later, most verb forms indicate the subject with no need
+for a pronoun, so Hebrew independent personal pronouns will most often
+be seen in verbless sentences.
 // }}}
 
 The Definite Article
@@ -664,8 +670,14 @@ an agreeing noun.
 
 Demonstrative Pronouns
 ~~~~~~~~~~~~~~~~~~~~~~
-Something
+// {{{
 
+Demonstratives are a feature of many languages that add an increased
+level of specificity. In Hebrew and English, the demonstratives function
+both as independant pronouns and as attributive adjectives (I classify
+both of these uses under "demonstrative pronouns," but some grammars
+classify them differently). Likewise, in both English and Hebrew
+// }}}
 
 _Waw_ conjunction
 ~~~~~~~~~~~~~~~~~
@@ -739,7 +751,7 @@ suffixes.
 Pronominal suffixes on nouns have a posessive meaning.
 
 .Pronominal Suffixes with Singular Nouns
-[width="40%",options="header"]
+[width="40%",options="header",cols="<,^,^"]
 |===
 |   |singular| plural
 s|1c|ביתִ֫י    |ביתֵ֫נוּ
@@ -750,7 +762,7 @@ s|3f|ביתָ֫הּ    |ביתָ֫ן
 |===
 
 .Pronominal Suffixes with Plural and Dual Nouns
-[width="40%",options="header"]
+[width="40%",options="header",cols="<,^,^"]
 |===
 |   |singular |plural
 s|1c|אלהַ֫י     |אלהֵ֫ינוּ
@@ -763,7 +775,7 @@ s|3f|אלהֶ֫יהָ    |אלהֵיהֶן
 Pronominal suffixes are also added to prepositions:
 
 .Pronominal Suffixes with prepositions ב and ל.
-[width="40%",options="header"]
+[width="40%",options="header",cols="<,^,^"]
 |===
 |   |singular|plural
 s|1c|בִּי      |בָּנוּ
@@ -776,7 +788,7 @@ s|3f|בָּהּ      |בָּהֶן
 Preposition כ has an irregular suffixed form:
 
 .Pronominal Suffixes with preposition כ (כָּמוֹ)
-[width="40%",options="header"]
+[width="40%",options="header",cols="<,^,^"]
 |===
 |   |singular|plural
 s|1c|כָּמוֹני   |כָּמוֹנוּ
@@ -806,7 +818,7 @@ be doubled (א, ה, ח, ע, ר), it appears as מֵ.
 The preposition has an irregular form before pronouns:
 
 .Pronominal suffixes with מִן
-[width="40%",options="header"]
+[width="40%",options="header",cols="<,^,^"]
 |===
 |   |singular| plural
 s|1c|מִמֶּנּי    |מִמֶּנּוּ
@@ -825,7 +837,7 @@ the direct object is definite, it is marked with the preposition אֶת.
 When used with pronouns, it undergoes certain changes.
 
 .Pronominal suffixes with אֶת
-[width="40%",options="header"]
+[width="40%",options="header",cols="<,^,^"]
 |===
 |   |singular|plural
 s|1c|אֹתִי     |אֹתָנוּ
@@ -855,7 +867,7 @@ The Qāṭal conjugation and the Participle
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //{{{
 .Qal _qaṭal_ conjugation
-[width="40%",options="header"]
+[width="40%",options="header",cols="<,^,^"]
 |===
 |  |singular|plural 
 s|1c|קָטַ֫לְתִּי  |קָטַ֫לְנּוּ 
@@ -896,15 +908,15 @@ it remains the dominant term for the form).  In the qal, there are both
 active and passive participles.
 
 .Qal active participle
-[width="40%",options="header"]
+[width="40%",options="header",cols="<,^,^"]
 |===
 |   | singular | plural
 s| m |   קֹטֵ֫ל    | קֹֽטְלִ֫ים
-s| f | קֹטֶ֫לֶת (less common: קֹֽטְלָ֫ה) | קֹֽטְלֹ֫ת
+s| f |[rtl]#קֹטֶ֫לֶת (קֹֽטְלָ֫ה)#| קֹֽטְלֹ֫ת
 |===
 
 .Qal passive participle
-[width="40%",options="header"]
+[width="40%",options="header",cols="<,^,^"]
 |===
 |   | singular | plural
 s| m |  קָט֫וּל    | קְטוּלִ֫ים
@@ -948,7 +960,7 @@ apparent relation.
 stems.
 
 .Qatal
-[options="header"]
+[.heb,options="header",cols="<,^,^,^,^,^,^,^"]
 |===
 |    |Qal  |Nif'al|Pi'el|Pu'al|Hitpa'el|Hif'il|Hof'al 
 s|1cs|קָטַ֫לְתִּי|נִקְטַ֫לְתִּי|קִטַּ֫לְתִּי|קֻטַּ֫לְתִּי|הִתְקַטַּ֫לְתִּי |הִקְטַ֫לְתִּי|הָקְטַ֫לְתִּי 
@@ -963,9 +975,9 @@ s|3cp|קָֽטְל֫וּ |נִקְטְל֫וּ |קִטְּל֫וּ |קֻטַּל
 |===
 
 .participle
-[options="header"]
+[options="header",cols="<,^,^,^,^,^,^,^,^"]
 |==============
-|   	 |qal  |qal pass.|nif'al|pi'el |pu'al |hitpa'el|hif'il |hof'al
+|       |qal  |qal pass.|nif'al|pi'el |pu'al |hitpa'el|hif'il |hof'al
 s|ms    |קֹטֵ֫ל  |קָט֫וּל     |נִקְטָ֫ל  |מְקַטֵּ֫ל  |מְקֻטָּ֫ל  |מִתְקַטֵּ֫ל   |מַקְטִ֫יל  |מָקְטָ֫ל  
 s|fs    |קֹטֶ֫לֶת |קְטוּלָ֫ה    |נִקְטֶ֫לֶת |מְקַטֶּ֫לֶת |מְקֻטֶּ֫לֶת |מִתְקַטֶּ֫לֶת  |מַקְטִילָ֫ה |מָקְטֶ֫לֶת 
 s|mp    |קֹֽטְלִ֫ים|קְטוּלִ֫ים   |נִקְטָלִ֫ים|מְקַטְּלִ֫ים|מְקֻטָּלִ֫ים|מִתְקַטְּלִ֫ים |מַקְטִילִ֫ים|מָקְטָלִ֫ים
@@ -1073,7 +1085,7 @@ The _yiqṭol_ and tenseless forms
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //{{{
 .Yiqtol
-[options="header"]
+[options="header",cols="<,^,^,^,^,^,^,^"]
 |===
 |     |Qal   |Nif'al|Pi'el |Pu'al |Hitpa'el|Hif'il |Hof'al
 s|1cs |אֶקְטֹ֫ל  |אִקָּטֵ֫ל  |אֲקַטֵּ֫ל  |אֲקֻטַּ֫ל  |אֶתְקַטֵּ֫ל   |אַקְטִ֫יל  |אָקְטַ֫ל
@@ -1262,8 +1274,6 @@ Additional, in פ"ן, if the second letter of the root cannot take a dagesh
 separate consonant without assimilating (contrary to the nun of the
 nif'al stem). The exception to this rule is in the verb נחם, where the
 nun of the root disappears in the nif'al qatal and nif'al participle.
-
-
 // }}}
 
 פ"י verbs
